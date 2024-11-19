@@ -7,4 +7,3 @@ libblas-dev
 liblapack-dev
 pkg-config
 libopenblas-dev
-pysqlite3-binary
