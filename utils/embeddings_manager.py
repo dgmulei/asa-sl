@@ -27,16 +27,17 @@ class EmbeddingsManager:
         # Ensure the database directory exists
         os.makedirs(db_path, exist_ok=True)
         
-        # Initialize ChromaDB with older API version settings
+        # Initialize ChromaDB with persistent settings
         settings = Settings(
             persist_directory=db_path,
             anonymized_telemetry=False,
+            allow_reset=True,
             is_persistent=True
         )
         
-        self.client = chromadb.Client(settings)
+        self.client = chromadb.PersistentClient(path=db_path)
         
-        # Create or get collection
+        # Create or get collection with updated settings
         try:
             self.collection = self.client.get_collection(name="real_estate_docs")
         except ValueError:
@@ -159,7 +160,7 @@ class EmbeddingsManager:
                 
                 # Add to collection
                 self.collection.add(
-                    embeddings=embeddings_array,
+                    embeddings=embeddings_array.tolist(),  # Convert to list for ChromaDB
                     documents=texts,
                     metadatas=metadatas,  # type: ignore
                     ids=ids
