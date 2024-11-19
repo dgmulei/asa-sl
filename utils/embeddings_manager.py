@@ -27,20 +27,23 @@ class EmbeddingsManager:
         # Ensure the database directory exists
         os.makedirs(db_path, exist_ok=True)
         
-        # Initialize ChromaDB with SQLite settings
+        # Initialize ChromaDB with older API version settings
         settings = Settings(
-            chroma_db_impl="duckdb+parquet",
             persist_directory=db_path,
-            anonymized_telemetry=False
+            anonymized_telemetry=False,
+            is_persistent=True
         )
         
         self.client = chromadb.Client(settings)
         
         # Create or get collection
-        self.collection = self.client.get_or_create_collection(
-            name="real_estate_docs",
-            metadata={"hnsw:space": "cosine"}
-        )
+        try:
+            self.collection = self.client.get_collection(name="real_estate_docs")
+        except ValueError:
+            self.collection = self.client.create_collection(
+                name="real_estate_docs",
+                metadata={"hnsw:space": "cosine"}
+            )
         
         # Load processed files and perform cleanup
         self.processed_files = self._load_processed_files()
@@ -149,11 +152,14 @@ class EmbeddingsManager:
             ids = [f"{metadata['source']}_{metadata['chunk_id']}" for metadata in metadatas]
             
             try:
-                # Generate embeddings and convert to numpy array
-                embeddings = np.array(self.model.encode(texts))
+                # Generate embeddings using sentence transformer
+                embeddings = self.model.encode(texts, convert_to_numpy=True)
+                # Ensure embeddings are in the correct format (numpy array)
+                embeddings_array = np.array(embeddings, dtype=np.float32)
                 
+                # Add to collection
                 self.collection.add(
-                    embeddings=embeddings,
+                    embeddings=embeddings_array,
                     documents=texts,
                     metadatas=metadatas,  # type: ignore
                     ids=ids
