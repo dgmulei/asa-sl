@@ -1,8 +1,8 @@
 from dataclasses import dataclass
-from typing import List, Optional, Dict, Any, Literal
+from typing import List, Optional, Dict, Any, Literal, cast
 from openai import OpenAI
 from openai.types.chat import ChatCompletionMessageParam, ChatCompletionSystemMessageParam, ChatCompletionUserMessageParam, ChatCompletionAssistantMessageParam
-from .query_engine import QueryEngine, QueryResult
+from .query_engine import QueryEngine, QueryResult, ChromaMetadata
 
 @dataclass
 class Message:
@@ -82,7 +82,9 @@ Remember: Your goal is to provide strategic, educational value while maintaining
         """Format retrieved documents into context string with citations."""
         context_parts: List[str] = []
         for result in query_results:
-            source = str(result.metadata['source']).replace('.txt', '')  # Remove .txt extension
+            # Safely get source from metadata with a default value
+            metadata = cast(Dict[str, Any], result.metadata)
+            source = str(metadata.get('source', 'Unknown')).replace('.txt', '')
             context_parts.append(f"[{source}] {result.text}")
         return "\n\n".join(context_parts)
     
