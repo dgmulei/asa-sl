@@ -54,7 +54,8 @@ def initialize_components():
     if not openai_api_key:
         raise ValueError("OpenAI API key not found")
         
-    query_engine = QueryEngine(embeddings_manager.get_collection())
+    # Create QueryEngine with the same collection name
+    query_engine = QueryEngine("real_estate_docs")
     conversation_manager = ConversationManager(
         query_engine=query_engine,
         api_key=str(openai_api_key)
