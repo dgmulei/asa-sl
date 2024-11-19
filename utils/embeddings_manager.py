@@ -6,6 +6,7 @@ import logging
 from tqdm import tqdm
 import os
 import json
+import numpy as np
 from .document_loader import Document
 
 logger = logging.getLogger(__name__)
@@ -27,14 +28,13 @@ class EmbeddingsManager:
         os.makedirs(db_path, exist_ok=True)
         
         # Initialize ChromaDB with SQLite settings
-        self.client = chromadb.PersistentClient(
-            path=db_path,
-            settings=Settings(
-                anonymized_telemetry=False,
-                allow_reset=True,
-                is_persistent=True
-            )
+        settings = Settings(
+            chroma_db_impl="duckdb+parquet",
+            persist_directory=db_path,
+            anonymized_telemetry=False
         )
+        
+        self.client = chromadb.Client(settings)
         
         # Create or get collection
         self.collection = self.client.get_or_create_collection(
@@ -149,7 +149,11 @@ class EmbeddingsManager:
             ids = [f"{metadata['source']}_{metadata['chunk_id']}" for metadata in metadatas]
             
             try:
+                # Generate embeddings and convert to numpy array
+                embeddings = np.array(self.model.encode(texts))
+                
                 self.collection.add(
+                    embeddings=embeddings,
                     documents=texts,
                     metadatas=metadatas,  # type: ignore
                     ids=ids

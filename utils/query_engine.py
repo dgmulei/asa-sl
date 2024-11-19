@@ -1,6 +1,7 @@
 from typing import List, Dict, Any
 from dataclasses import dataclass
 import chromadb
+import numpy as np
 
 @dataclass
 class QueryResult:
@@ -24,23 +25,31 @@ class QueryEngine:
         Returns:
             List of QueryResult objects containing matched text, metadata, and relevance scores
         """
-        results = self.collection.query(
-            query_texts=[query_text],
-            n_results=n_results,
-            include=['documents', 'metadatas', 'distances']
-        )
-        
-        query_results = []
-        for doc, metadata, distance in zip(
-            results['documents'][0],
-            results['metadatas'][0],
-            results['distances'][0]
-        ):
-            query_result = QueryResult(
-                text=doc,
-                metadata=metadata,
-                relevance_score=1 - distance  # Convert distance to similarity score
+        try:
+            results = self.collection.query(
+                query_texts=[query_text],
+                n_results=n_results,
+                include=['documents', 'metadatas', 'distances']
             )
-            query_results.append(query_result)
-        
-        return query_results
+            
+            query_results = []
+            if results['documents'] and results['documents'][0]:  # Check if we have results
+                for doc, metadata, distance in zip(
+                    results['documents'][0],
+                    results['metadatas'][0],
+                    results['distances'][0]
+                ):
+                    # Convert distance to similarity score (1 - normalized_distance)
+                    similarity = 1.0 - (float(distance) / 2.0)  # Normalize distance to [0,1]
+                    
+                    query_result = QueryResult(
+                        text=doc,
+                        metadata=metadata,
+                        relevance_score=similarity
+                    )
+                    query_results.append(query_result)
+            
+            return query_results
+        except Exception as e:
+            print(f"Error during query: {str(e)}")
+            return []
