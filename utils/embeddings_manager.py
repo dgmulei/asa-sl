@@ -23,7 +23,20 @@ class EmbeddingsManager:
         self.db_path = db_path
         self.processed_files_path = os.path.join(db_path, "processed_files.json")
         
-        self.client = chromadb.PersistentClient(path=db_path)
+        # Ensure the database directory exists
+        os.makedirs(db_path, exist_ok=True)
+        
+        # Initialize ChromaDB with SQLite settings
+        self.client = chromadb.PersistentClient(
+            path=db_path,
+            settings=Settings(
+                anonymized_telemetry=False,
+                allow_reset=True,
+                is_persistent=True
+            )
+        )
+        
+        # Create or get collection
         self.collection = self.client.get_or_create_collection(
             name="real_estate_docs",
             metadata={"hnsw:space": "cosine"}
@@ -57,6 +70,7 @@ class EmbeddingsManager:
 
         # Get the actual files in the documents directory
         docs_dir = os.getenv('DOCUMENTS_PATH', './data/real_estate_docs')
+        os.makedirs(docs_dir, exist_ok=True)  # Ensure documents directory exists
         existing_files = set(f for f in os.listdir(docs_dir) if f.endswith('.txt'))
         
         # Find files that have been processed but no longer exist

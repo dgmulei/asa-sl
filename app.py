@@ -14,6 +14,17 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 load_dotenv()
 
+def ensure_directories():
+    """Ensure all required directories exist."""
+    dirs = [
+        os.getenv('CHROMA_DB_PATH', './chroma_db'),
+        os.getenv('DOCUMENTS_PATH', './data/real_estate_docs'),
+        '.streamlit'
+    ]
+    for dir_path in dirs:
+        os.makedirs(dir_path, exist_ok=True)
+        logger.info(f"Ensured directory exists: {dir_path}")
+
 def init_session_state():
     """Initialize all session state variables."""
     if 'conversation_context' not in st.session_state:
@@ -35,6 +46,7 @@ def get_document_loader() -> DocumentLoader:
 @st.cache_resource
 def initialize_components():
     logger.info("Starting initialization...")
+    ensure_directories()
     loader = get_document_loader()
     embeddings_manager = get_embeddings_manager()
     openai_api_key = os.getenv('OPENAI_API_KEY')
