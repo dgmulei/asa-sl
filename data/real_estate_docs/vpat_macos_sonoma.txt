@@ -1,0 +1,2061 @@
+Apple Accessibility Conformance Report
+
+Based on Voluntary Product Accessibility Template® (VPAT®)
+Name of Product: macOS Sonoma
+Product Description: The operating system for Mac
+computers.
+Date: October 8, 2023
+Contact information: accessibility@apple.com
+Terms
+The terms used in the Conformance Level information are defined as follows:
+•
+
+Supports: The functionality of the product has at least one method that meets the criteria without known defects
+or meets with equivalent facilitation.
+
+•
+
+Supports with Exceptions: Some functionality of the product does not meet the criteria.
+
+•
+
+Does Not Support: Majority of functionality of the product does not meet the criteria.
+
+•
+
+Not Applicable: The criteria are not relevant to the product.
+
+•
+
+Not Evaluated: The product has not been evaluated against the criteria. This can be used only with WCAG 2.0
+Level AAA.
+
+Page 1 of 47
+
+WCAG 2.0 Report
+Table 1: Conformance Criteria, Level A Criteria
+
+Conformance
+Level
+
+Remarks and Explanations
+
+1.1.1 Non-text Content: All non-text content
+Supports with
+that is presented to the user has a text
+exceptions
+alternative that serves the equivalent purpose,
+except in situations listed in WCAG 2.0 1.1.1.
+
+VoiceOver, the screen reader built into macOS, provides audio
+descriptions for non-text content and images presented to the user.
+However, some user-generated content images may or may not have
+text alternatives provided.
+
+1.2.1 Audio-only and Video-only
+(Prerecorded): For prerecorded audio-only
+and prerecorded video-only media, the
+following are true, except when the audio or
+video is a media alternative for text and is
+clearly labeled as such:
+
+macOS supports playback of video media with closed-captioned audio
+and video text descriptions when provided in industry standard formats.
+Third-party developers can provide audio or video text descriptions using
+the AVFoundation framework.
+
+•
+
+Prerecorded Audio-only: An alternative for
+time-based media is provided that
+presents equivalent information for
+prerecorded audio-only content.
+
+•
+
+Prerecorded Video-only: Either an
+alternative for time-based media or an
+audio track is provided that presents
+equivalent information for prerecorded
+video-only content.
+
+Supports with
+exceptions
+
+Page 2 of 47
+
+1.2.2 Captions (Prerecorded): Captions are
+provided for all prerecorded audio content in
+synchronized media, except when the media
+is a media alternative for text and is clearly
+labeled as such.
+
+Supports with
+exceptions
+
+macOS supports playback of video media with closed-captioned audio
+and video text descriptions when provided in industry standard formats.
+Third-party developers can provide audio or video text descriptions using
+the AVFoundation framework.
+
+1.2.3 Audio Description or Media
+Alternative (Prerecorded): An alternative for
+time-based media or audio description of the
+prerecorded video content is provided for
+synchronized media, except when the media
+is a media alternative for text and is clearly
+labeled as such.
+
+Supports with
+exceptions
+
+macOS supports playback of video media with closed-captioned audio
+and video text descriptions when provided in industry standard formats.
+Third-party developers can provide audio or video text descriptions
+using the AVFoundation framework.
+
+1.3.1 Info and Relationships: Information,
+structure, and relationships conveyed through
+presentation can be programmatically
+determined or are available in text.
+
+Supports
+
+1.3.2 Meaningful Sequence: When the
+sequence in which content is presented
+affects its meaning, a correct reading
+sequence can be programmatically
+determined.
+
+Supports
+
+1.3.3 Sensory Characteristics: Instructions
+provided for understanding and operating
+content do not rely solely on sensory
+characteristics of components such as shape,
+size, visual location, orientation, or sound.
+
+Supports
+
+macOS assistive technologies provide many alternatives for
+communicating sensory information, including color filters and screen
+tinting for conveying color information. Users can also increase contrast
+to help distinguish between foreground and background colors.
+The Accessibility API also allows third-party developers to provide
+alternative characteristics for components including sound, size, and
+orientation.
+Page 3 of 47
+
+1.4.1 Use of Color: Color is not used as the
+only visual means of conveying information,
+indicating an action, prompting a response, or
+distinguishing a visual element.
+
+Supports with
+exceptions
+
+macOS uses color to convey information. In many cases, when color is
+used, it provides an alternative information display that does not rely on
+color. For example, color controls are used in the title bar of macOS
+windows that allow a user to close, minimize or maximize a window.
+While color indicates each control s function, each control also has a
+unique symbol and position that indicates its function without relying on
+color information. But, there are some visual elements that do not include
+an alternative information display.
+macOS also provides system-level control of display characteristics that
+cannot be overridden by applications, including options to:
+• Switch the display from color to grayscale
+• Use a display color filter or color tint
+• Invert light and dark colors displayed on the screen
+• Differentiate certain elements without color
+• Increase contrast of elements on the screen
+• Reduce the transparency of elements on the screen
+•Dim Flashing Lights to automatically darkens the display of video during
+sequences of ashing lights
+•Pause Animated Images to pause images with animations and
+movement, e.g. GIFs, in apps such as Messages and Safari
+All of these features are accessed through System Settings for
+Accessibility and can be used together in different combinations to suit
+the user s needs.
+
+1.4.2 Audio Control: If any audio on a Web
+page plays automatically for more than 3
+seconds, either a mechanism is available to
+pause or stop the audio, or a mechanism is
+available to control audio volume
+independently from the overall system volume
+level.
+
+Supports
+
+By default, Safari stops auto-play of media with sound for websites.
+There is also an option in Safari to never auto-play media when visiting
+websites.
+In addition, the default media player provided by WebKit supports pause
+and resume, as well as controlling audio volume independently from the
+overall system volume. Third-party web developers may also implement
+custom controls that meet the audio control requirements.
+
+’
+
+fl
+
+’
+
+Page 4 of 47
+
+2.1.1 Keyboard: All functionality of the
+content is operable through a keyboard
+interface without requiring speci c timings for
+individual keystrokes, except where the
+underlying function requires input that
+depends on the path of the user's movement
+and not just the endpoints.
+
+Supports
+
+macOS provides keyboard access to operating system interface
+elements using a feature called “full keyboard access” which controls
+the keyboard cursor. Full keyboard access can be used to navigate the
+system including menus, windows, palettes, controls, text boxes, lists,
+window drawers, and status menus. In certain circumstances, VoiceOver
+may be used in conjunction with full keyboard access to navigate the
+system.
+macOS supports use of standard USB input devices including PC-style
+keyboards. For full accessibility, some macOS apps may require use of
+these additional keyboard support features:
+• User-Selectable keyboard layouts include QWERTY, Dvorak, Dvorak
+Right, Dvorak Left, and many international languages.
+• Customizable keyboard commands allow users to assign a keyboard
+combination to any menu item that doesn t already have one assigned
+or change an existing combination, for a specific application or for the
+entire system.
+• Assignable Modifier Keys allows users to turn off and reassign key
+modifier functions like Caps Lock, Control, Option, and Command to
+other modifier keys.
+• Single key Quick Nav allows users to Assign VoiceOver commands to
+single keys for browsing the web using VoiceOver.
+• NumPad Commander is a VoiceOver feature that enables a user to
+navigate and control the computer using a numeric keypad.
+• Sticky Keys, designed to allow a series of single key presses to be
+interpreted as a multiple keystroke combination. Sticky Keys is
+beneficial for people who have difficulty pressing multiple keys
+simultaneously.
+Slow Keys, designed to put a delay between when a key is pressed
+and when it is accepted by the system. Slow Keys is beneficial for
+people who may press keys accidentally and often. Click key sounds
+are also available to provide additional feedback when a key is
+accepted.
+• Mouse Keys, designed to allow control of the mouse cursor from the
+keyboard.
+• Adjustable keyboard repeat delay, designed to prevent accidental
+entry of multiple single keystrokes. The setting is adjustable and can
+be set to not repeat.
+
+’
+
+fi
+
+Page 5 of 47
+
+2.1.2 No Keyboard Trap: If keyboard focus
+can be moved to a component of the page
+using a keyboard interface, then focus can be
+moved away from that component using only
+a keyboard interface, and, if it requires more
+than unmodi ed arrow or tab keys or other
+standard exit methods, the user is advised of
+the method for moving focus away.
+
+Supports
+
+macOS provides a way to navigate from a focused item, such as a popovers, dialogs, sheets and more.
+If a user encounters a keyboard focus trap, they may use a variety of
+tools and utilities to reset or control the keyboard focus. Full Keyboard
+Access, Head Pointer, Mouse Keys, VoiceOver, Voice Control, and Switch
+Control provide ways to control the focus without requiring the ability to
+operate a pointing device such as a mouse.
+
+2.1.4 Character Key Shortcuts: If a
+keyboard shortcut is implemented in content
+using only letter (including upper- and lowercase letters), punctuation, number, or symbol
+characters, then at least one of the following
+is true:
+• Turn off: A mechanism is available to turn
+the shortcut off;
+• Remap: A mechanism is available to remap
+the shortcut to use one or more nonprintable keyboard characters (e.g. Ctrl, Alt,
+etc);
+• Active only on focus: The keyboard shortcut
+for a user interface component is only active
+when that component has focus.
+
+fi
+
+Page 6 of 47
+
+2.2.1 Timing Adjustable: For each time limit
+that is set by the content, at least one of the
+instances in WCAG 2.0 2.2.1 is true.
+• Turn off: The user is allowed to turn off the
+time limit before encountering it; or
+• Adjust: The user is allowed to adjust the
+time limit before encountering it over a wide
+range that is at least ten times the length of
+the default setting; or
+
+Supports with
+exceptions
+
+There are limited macOS controls over time limits. However, macOS
+provides an energy saver preference for turning off the display after a
+range of time including “Never”. macOS also allows for a screen saver
+which can act as a warning that the computer will be put to sleep.
+macOS also offers Pause Animated Images, or the option to pause
+images with animations and movement, e.g. GIFs, in apps such as
+Messages and Safari to suit viewing comfort.
+Please note: the timing of Bluetooth pairing sessions is limited by the
+Bluetooth specification and Bluetooth devices.
+
+• Extend: The user is warned before time
+expires and given at least 20 seconds to
+extend the time limit with a simple action (for
+example, "press the space bar"), and the
+user is allowed to extend the time limit at
+least ten times; or
+• Real-time Exception: The time limit is a
+required part of a real-time event (for
+example, an auction), and no alternative to
+the time limit is possible; or
+• Essential Exception: The time limit is
+essential and extending it would invalidate
+the activity; or
+• 20 Hour Exception: The time limit is longer
+than 20 hours.
+
+Page 7 of 47
+
+•
+
+•
+
+Supports with
+exceptions
+
+Moving, blinking, scrolling: For any
+moving, blinking or scrolling information
+that (1) starts automatically, (2) lasts more
+than ve seconds, and (3) is presented in
+parallel with other content, there is a
+mechanism for the user to pause, stop, or
+hide it unless the movement, blinking, or
+scrolling is part of an activity where it is
+essential; and
+
+macOS offers Dim Flashing Lights to enable users who are sensitive to
+bright ashes of light to watch video content more comfortably; it
+automatically darkens the display of video during sequences of ashing
+lights so the user is not exposed to potentially risky content.
+Further, macOS offers Pause Animated Images, or the option to pause
+images with animations and movement, e.g. GIFs, in apps such as
+Messages and Safari to suit viewing comfort.
+macOS also includes an accessibility setting called Reduce motion. This
+setting allows users to further disable or reduce additional types of
+movement.
+Third-party developers should follow macOS Human Interface Guidelines
+(HIG) for animation and respect the user’s Dim Flashing Lights, Pause
+Animated Images, and Reduce Motion settings.
+
+Auto-updating: For any auto-updating
+information that (1) starts automatically
+and (2) is presented in parallel with other
+content, there is a mechanism for the user
+to pause, stop, or hide it or to control the
+frequency of the update unless the autoupdating is part of an activity where it is
+essential.
+
+2.3.1 Three Flashes or Below Threshold:
+Web pages do not contain anything that
+ashes more than three times in any one
+second period, or the ash is below the
+general ash and red ash thresholds.
+
+Supports
+
+macOS offers Dim Flashing Lights to enable users who are sensitive to
+bright ashes of light to watch video content more comfortably; it
+automatically darkens the display of video during sequences of ashing
+lights so the user is not exposed to potentially risky content.
+
+fl
+
+fl
+
+fl
+
+fl
+
+fl
+
+fl
+
+fl
+
+Page 8 of 47
+
+fi
+
+fl
+
+2.2.2 Pause, Stop, Hide: For moving,
+blinking, scrolling, or auto-updating
+information, all of the following are true:
+
+2.4.1 Bypass Blocks: A mechanism is
+available to bypass blocks of content that are
+repeated on multiple Web pages.
+
+Supports
+
+2.4.2 Page Titled: Web pages have titles that
+describe topic or purpose.
+
+Supports
+
+2.4.3 Focus Order: If a Web page can be
+navigated sequentially and the navigation
+sequences affect meaning or operation,
+focusable components receive focus in an
+order that preserves meaning and operability.
+
+Supports
+
+2.4.4 Link Purpose (In Context): The
+Supports
+purpose of each link can be determined from
+the link text alone or from the link text together
+with its programmatically determined link
+context, except where the purpose of the link
+would be ambiguous to users in general.
+
+Text descriptions are provided for navigation elements such as links,
+tabs, and buttons throughout macOS. In addition, the Accessibility API
+provides a method for third-party developers to provide additional help
+information about these items.
+
+Page 9 of 47
+
+2.5.1 Pointer Gestures: All functionality that
+Supports
+uses multipoint or path-based gestures for
+operation can be operated with a single
+pointer without a path-based gesture, unless a
+multipoint or path-based gesture is essential.
+
+2.5.2 Pointer Cancellation: For functionality
+that can be operated using a single pointer, at
+least one of the following is true:
+
+Supports
+
+• No Down-Event: The down-event of the
+pointer is not used to execute any part of
+the function;
+• Abort or Undo: Completion of the function is
+on the up-event, and a mechanism is
+available to abort the function before
+completion or to undo the function after
+completion;
+• Up Reversal: The up-event reverses any
+outcome of the preceding down-event;
+• Essential: Completing the function on the
+down-event is essential.
+
+Page 10 of 47
+
+2.5.3 Label in Name: For user interface
+Supports
+components with labels that include text or
+images of text, the name contains the text that
+is presented visually.
+
+2.5.4 Motion Actuation: Functionality that
+can be operated by device motion or user
+motion can also be operated by user interface
+components and responding to the motion
+can be disabled to prevent accidental
+actuation, except when:
+
+Supports
+
+• Supported Interface: The motion is used to
+operate functionality through an accessibility
+supported interface;
+• Essential: The motion is essential for the
+function and doing so would invalidate the
+activity.
+3.1.1 Language of Page: The default human
+language of each Web page can be
+programmatically determined.
+
+Supports
+
+3.2.1 On Focus: When any component
+receives focus, it does not initiate a change of
+context. (Level A)
+
+Supports
+
+VoiceOver, the built-in screen reader, does not initiate a change of
+context without user interaction.
+
+Page 11 of 47
+
+3.2.2 On Input: Changing the setting of any
+user interface component does not
+automatically cause a change of context
+unless the user has been advised of the
+behavior before using the component.
+
+Supports
+
+3.3.1 Error Identi cation: If an input error is
+Supports
+automatically detected, the item that is in error
+is identi ed and the error is described to the
+user in text.
+
+The Accessibility API allows third-party developers to provide extra
+information about a setting before content changes are applied.
+
+If an input error is automatically detected, macOS informs users through
+dialogs, alert, error messages, and/or audio alerts. VoiceOver can speak
+descriptions of alerts.
+WebKit, the web browser engine used by Safari, also allows third-party
+developers to notify users of errors occurring on web pages.
+
+3.3.2 Labels or Instructions: Labels or
+instructions are provided when content
+requires user input.
+
+Supports
+
+The Accessibility API allows developers to specify input labels and bind
+these labels to an input field.
+
+4.1.1 Parsing: In content implemented using
+markup languages, elements have complete
+start and end tags, elements are nested
+according to their speci cations, elements do
+not contain duplicate attributes, and any IDs
+are unique, except where the speci cations
+allow these features.
+
+Supports
+
+The Accessibility API allows the developers to specify the boundaries
+and identification of controls.
+
+fi
+
+fi
+
+fi
+
+fi
+
+Page 12 of 47
+
+4.1.2 Name, Role, Value: For all user
+interface components (including but not
+limited to: form elements, links and
+components generated by scripts), the name
+and role can be programmatically determined;
+states, properties, and values that can be set
+by the user can be programmatically set; and
+noti cation of changes to these items is
+available to user agents, including assistive
+technologies.
+
+Supports
+
+Table 2: Conformance Criteria, Level AA -
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+fi
+
+Page 13 of 47
+
+1.2.4 Captions (Live): Captions are provided for
+all live audio content in synchronized media.
+
+Supports
+
+macOS supports video media with closedcaptioned audio and video text descriptions when
+provided in industry standard formats. Third-party
+developers can provide audio or video text
+descriptions using the AVFoundation framework.
+Additionally, Live Captions (beta) can turn audio
+into text in real-time. They are available for your
+phone and FaceTime calls, and any media content
+across apps such as Messages, Podcasts, Safari
+and third-party applications. Users can use Live
+Captions to follow along in-person conversations.
+FaceTime video calls include speaker attribution so
+users can keep up with all the details of who said
+what in a lively call with family and friends.
+Available in beta for English US and Canada.
+
+1.2.5 Audio Description (Prerecorded): Audio
+description is provided for all prerecorded video
+content in synchronized media.
+
+Supports
+
+1.3.4 Orientation: Content does not restrict its
+view and operation to a single display orientation,
+such as portrait or landscape, unless a speci c
+display orientation is essential.
+
+Supports
+
+macOS supports audio descriptions where
+auxiliary audio tracks are available.
+
+fi
+
+Page 14 of 47
+
+1.3.5 Identify Input Purpose: The purpose of
+each input eld collecting information about the
+user can be programmatically determined when:
+
+Supports
+
+• The input eld serves a purpose identi ed in the
+Input Purposes for User Interface Components
+section; and
+• The content is implemented using technologies
+with support for identifying the expected meaning
+for form input data.
+
+fi
+
+fi
+
+fi
+
+Page 15 of 47
+
+1.4.3 Contrast (Minimum): The visual
+presentation of text and images of text has a
+contrast ratio of at least 4.5:1, except for the
+following:
+•
+
+Large Text: Large-scale text and images of
+large-scale text have a contrast ratio of at least
+3:1;
+
+•
+
+Incidental: Text or images of text that are part
+of an inactive user interface component, that
+are pure decoration, that are not visible to
+anyone, or that are part of a picture that
+contains signi cant other visual content, have
+no contrast requirement.
+
+•
+
+Logotypes: Text that is part of a logo or brand
+name has no minimum contrast requirement.
+
+Supports
+
+In System Settings for Accessibility, users can
+increase contrast of the display as well as reduce
+transparency. With these preferences enabled, the
+majority of the macOS interface meets a contrast
+ratio of at least 4.5 1. For some instances where
+the default contrast ratio is not met, users can
+change the overall contrast and scale factor of the
+screen.
+
+:
+
+fi
+
+Page 16 of 47
+
+1.4.4 Resize text: Except for captions and images
+of text, text can be resized without assistive
+technology up to 200 percent without loss of
+content or functionality.
+
+Supports
+
+Users can customize font size across Mac apps,
+including Finder, Messages, Mail, Calendar, and
+Notes, in one place within System Settings, with
+the option to set a single preferred reading size, or
+customize app by app.
+Applications, such as Safari, Pages, Numbers, and
+Keynote also support increasing font sizes of
+content up to or over 200%.
+
+1.4.5 Images of Text: If the technologies being
+used can achieve the visual presentation, text is
+used to convey information rather than images of
+text except for the following:
+•
+
+Customizable: The image of text can be
+visually customized to the user's requirements;
+
+•
+
+Essential: A particular presentation of text is
+essential to the information being conveyed.
+
+Supports
+
+Other than developer-provided or user-generated
+images, macOS does not use images of text for
+interface elements.
+
+Page 17 of 47
+
+1.4.10 Re ow: Content can be presented without
+loss of information or functionality, and without
+requiring scrolling in two dimensions for:
+
+Supports
+
+• Vertical scrolling content at a width equivalent to
+320 CSS pixels;
+• Horizontal scrolling content at a height equivalent
+to 256 CSS pixels.
+Except for parts of the content which require twodimensional layout for usage or meaning.
+
+fl
+
+Page 18 of 47
+
+1.4.11 Non-text Contrast: The visual presentation
+of the following have a contrast ratio of at least 3:1
+against adjacent color(s):
+
+Supports
+
+• User Interface Components: Visual information
+required to identify user interface components
+and states, except for inactive components or
+where the appearance of the component is
+determined by the user agent and not modi ed
+by the author;
+•
+• Graphical Objects: Parts of graphics required to
+understand the content, except when a particular
+presentation of graphics is essential to the
+information being conveyed.
+
+fi
+
+Page 19 of 47
+
+1.4.12 Text Spacing: In content implemented
+using markup languages that support the following
+text style properties, no loss of content or
+functionality occurs by setting all of the following
+and by changing no other style property:
+
+Supports
+
+• Line height (line spacing) to at least 1.5 times the
+font size;
+• Spacing following paragraphs to at least 2 times
+the font size;
+• Letter spacing (tracking) to at least 0.12 times
+the font size;
+• Word spacing to at least 0.16 times the font size.
+Exception: Human languages and scripts that do
+not make use of one or more of these text style
+properties in written text can conform using only
+the properties that exist for that combination of
+language and script.
+
+Page 20 of 47
+
+1.4.13 Content on Hover or Focus: Where
+receiving and then removing pointer hover or
+keyboard focus triggers additional content to
+become visible and then hidden, the following are
+true:
+
+Supports
+
+• Dismissable: A mechanism is available to
+dismiss the additional content without moving
+pointer hover or keyboard focus, unless the
+additional content communicates an input error
+or does not obscure or replace other content;
+• Hoverable: If pointer hover can trigger the
+additional content, then the pointer can be
+moved over the additional content without the
+additional content disappearing;
+• Persistent: The additional content remains
+visible until the hover or focus trigger is
+removed, the user dismisses it, or its
+information is no longer valid.
+Exception: The visual presentation of the additional
+content is controlled by the user agent and is not
+modi ed by the author.
+
+fi
+
+Page 21 of 47
+
+2.4.5 Multiple Ways: More than one way is
+available to locate a Web page within a set of Web
+pages except where the Web Page is the result of,
+or a step in, a process.
+
+Supports
+
+2.4.6 Headings and Labels: Headings and labels
+describe topic or purpose.
+
+Supports
+
+Text descriptions are provided for headings and
+labels throughout macOS.
+
+2.4.7 Focus Visible: Any keyboard operable user
+interface has a mode of operation where the
+keyboard focus indicator is visible.
+
+Supports
+
+There is a visual indication when items are
+selected using arrows key, and active input fields
+display an insertion point. VoiceOver also provides
+a customizable visual indicator of keyboard focus.
+
+3.1.2 Language of Parts: The human language of
+each passage or phrase in the content can be
+programmatically determined except for proper
+names, technical terms, words of indeterminate
+language, and words or phrases that have become
+part of the vernacular of the immediately
+surrounding text.
+
+Supports with exceptions
+
+The Accessibility API can programmatically
+determine the languages within text areas on
+webpages, if the author of the content uses the
+appropriate language tag.
+
+Page 22 of 47
+
+3.2.3 Consistent Navigation: Navigational
+Supports
+mechanisms that are repeated on multiple Web
+pages within a set of Web pages occur in the same
+relative order each time they are repeated, unless
+a change is initiated by the user.
+
+3.2.4 Consistent Identi cation: Components that
+have the same functionality within a set of Web
+pages are identi ed consistently.
+
+Supports
+
+3.3.3 Error Suggestion: If an input error is
+automatically detected and suggestions for
+correction are known, then the suggestions are
+provided to the user, unless it would jeopardize the
+security or purpose of the content.
+
+Supports
+
+macOS provides error information, warnings, and
+suggestions through dialogs or audio alerts.
+
+fi
+
+fi
+
+Page 23 of 47
+
+•
+
+Reversible: Submissions are reversible.
+
+•
+
+Checked: Data entered by the user is checked
+for input errors and the user is provided an
+opportunity to correct them.
+
+•
+
+Con rmed: A mechanism is available for
+reviewing, con rming, and correcting
+information before nalizing the submission.
+
+4.1.3 Status Messages: In content implemented
+using markup languages, status messages can be
+programmatically determined through role or
+properties such that they can be presented to the
+user by assistive technologies without receiving
+focus.
+
+Supports
+
+Supports
+
+fi
+
+fi
+
+Page 24 of 47
+
+fi
+
+fi
+
+3.3.4 Error Prevention (Legal, Financial, Data):
+For Web pages that cause legal commitments or
+nancial transactions for the user to occur, that
+modify or delete user-controllable data in data
+storage systems, or that submit user test
+responses, at least one of the following is true:
+
+2023 Section 508 Report Chapter 3: Functional Performance Criteria Chapter 3: Functional Performance Criteria
+
+Criteria
+
+Conformanc
+e Level
+
+302.1 Without Vision. Where a visual mode Supports
+of operation is provided, ICT shall provide at
+least one mode of operation that does not
+require user vision.
+
+Remarks and Explanations
+For users without vision, macOS includes:
+• VoiceOver: a built-in screen reader called VoiceOver for users who are blind or
+have low vision, and includes accessible applications and utilities. VoiceOver is
+available in over 60 languages and locales, and offers deep customization, such
+as the option to adjust the type, rate, and pitch range of speech feedback. With
+macOS, VoiceOver users can also sign PDFs by capturing their signature using
+the trackpad or built-in camera, and make these graphical elements easier to
+identify by adding custom descriptions for new and existing signatures. They can
+also use markup to add image descriptions that can be read by VoiceOver. Image
+descriptions persist even when shared and can be read in a range of supported
+apps on iPhone, iPad, and Mac. Applications built using the macOS Human
+Interface Guidelines and the macOS Accessibility APIs will work with VoiceOver.
+Information about VoiceOver is available at https://www.apple.com/accessibility/
+vision/
+• Siri supports natural-language voice commands to send messages, track down
+files, create reminders, search the web, and more. Siri is integrated with
+VoiceOver allowing users to have answers read out-loud. Users can customize
+Siri to speak at a slower or faster rate, depending on needs and preferences
+• Braille support: Built-in support for over 70 USB and wireless refreshable braille
+displays that start instantly when connected. There is also support for over 25
+braille tables supporting a wide range of languages.
+
+Page 25 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+Remarks and Explanations
+
+302.2 With Limited Vision. Where a visual
+mode of operation is provided, ICT shall
+provide at least one mode of operation that
+enables users to make use of limited vision.
+
+Supports
+
+macOS includes many features to assist users with low vision, including but not
+limited to:
+• VoiceOver, VoiceOver cursor zoom, Speak Selection, a scalable mouse cursor,
+increased contrast with Dark Mode support, and Zoom—a built-in screen
+magnification feature.
+• Users can customize font size across Mac apps, including Finder, Messages,
+Mail, Calendar, and Notes, in one place within System Settings, with the option to
+set a single preferred reading size, or customize app by app.Applications, such as
+Safari, Pages, Numbers, and Keynote also support increasing font sizes of
+content up to or over 200%.
+• With Zoom, users can magnify everything on screen making it larger and easier to
+see. Text and graphics are enlarged for easier reading and QuickTime video plays
+magnified without any performance degradation. The powerful Quartz rendering
+and compositing engine makes Zoom view possible up to 20x. Zoom includes a
+number of options including:
+• Options to set maximum and minimum values for rapid zoom in and out
+• Picture-in-picture zoom which allows users to see the zoomed area in a
+separate window while keeping the rest of the screen at its native size
+• Multi-monitor zoom when using zoom across multiple displays with macOS,
+to set the right zoom level per display independently
+• Hover Text which allows users to view high resolution text describing items
+under the cursor in a text view
+• Display Zoom which allows users to keep one monitor zoomed in while
+another at the standard resolution
+• Three options for how the screen moves as users navigate with the mouse
+pointer: follow the cursor, only move when cursor reaches an edge, or center
+the cursor on the screen
+• Users who prefer to use the mouse can also use VoiceOver to hear a spoken
+description of information that is under the mouse pointer in addition to using
+Zoom. VoiceOver includes a scalable caption panel that displays spoken
+descriptions of what s happening on screen as text. VoiceOver in macOS includes
+built-in voices for over 60 languages.
+• Custom Mouse Cursors allow users to change the outline and fill color to make
+the cursor more easily recognizable
+• Speak Selection provides text to speech functionality. You can also set the device
+to highlight words, sentences, or words within each sentence while it is read
+aloud.
+
+’
+
+Page 26 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+302.3 Without Perception of Color. Where a Supports
+visual mode of operation is provided, ICT
+with
+shall provide at least one visual mode of
+exceptions
+operation that does not require user
+perception of color.
+
+Remarks and Explanations
+macOS uses color to convey information. In many cases, when color is used, it
+provides an alternative information display that does not rely on color. For example,
+color controls are used in the title bar of macOS windows that allow a user to close,
+minimize or maximize a window. While color indicates each control s function, each
+control also has a unique symbol and position that indicates its function without
+relying on color information. But, there are some visual elements that do not include
+an alternative information display.
+macOS also provides system-level control of display characteristics that cannot be
+overridden by applications, including options to:
+• Switch the display from color to grayscale
+• Use a display color filter or color tint
+• Invert light and dark colors displayed on the screen
+• Differentiate certain elements without color
+• Increase contrast of elements on the screen
+• Reduce the transparency of elements on the screen
+•Dim Flashing Lights to automatically darkens the display of video during
+sequences of ashing lights
+•Pause Animated Images to pause images with animations and movement, e.g.
+GIFs, in apps such as Messages and Safari
+All of these features are accessed through System Settings for Accessibility and
+can be used together in different combinations to suit the user s needs.
+
+’
+
+’
+
+fl
+
+Page 27 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+Remarks and Explanations
+
+302.4 Without Hearing. Where an audible
+mode of operation is provided, ICT shall
+provide at least one mode of operation that
+does not require user hearing.
+
+Supports
+
+macOS includes a variety of Accessibility features to assist those who are deaf and
+hard of hearing:
+• Option to pair your Made for iPhone hearing device to your Mac, and adjust
+them for your listening comfort within System Settings. Available on MacBook Pro
+(14-inch, 2021), MacBook Pro (16-inch, 2021), Mac Studio (2022), and all Mac
+computers with M2 chip across all supported languages
+• Live Captions (beta) - can turn audio into text in real-time. They are available for
+your phone and FaceTime calls, and any media content across apps such as
+Messages, Podcasts, Safari and third-party applications. Users can use Live
+Captions to follow along in-person conversations. FaceTime video calls include
+speaker attribution so users can keep up with all the details of who said what in a
+lively call with family and friends. Available in beta for English US & Canada.
+• Flash Screen - macOS provides a visual indication of alert sounds via the Flash
+Screen feature. When a Mac application attempts to play a system beep alert,
+macOS instead flashes the screen.
+• Notifications – Applications can notify the user of important information using
+the notification system built into macOS. Notifications all appear in the upper
+right of the screen making them easy to notice.
+• Siri – Users can enable an Accessibility mode called “Type to Siri” to make
+requests by typing on a physical or onscreen keyboard.
+• Dock Notification – The icons of running applications that need attention
+visually jump up and down in the Dock, providing visual notification in addition to
+an audible beep or flash.
+• FaceTime – FaceTime video conferencing is included with macOS and lets users
+make audio and video calls to other Mac computers, iPad 2 or later, iPhone 4 or
+later. High-quality video and fast frame rate make FaceTime ideal for those who
+communicate using sign language. Many users can clearly see both hand and
+finger gestures in detail giving them the technology to communicate from afar
+with the same range of emotion used in person.
+QuickTime – The QuickTime media player application supports playback and
+display of video files that include open and closed captions, and auxiliary text
+tracks. Users can select the appearance of closed captions and subtitles,
+including fonts, highlights, and backgrounds.
+• Music – Music supports synchronized playback of captioned video movies, TV
+shows and podcasts, where available. For additional information, see the Music
+VPAT at https://support.apple.com/accessibility/vpat.
+• Braille support - macOS includes built-in support for over 70 USB and wireless
+Page 28 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+302.5 With Limited Hearing. Where an
+Supports
+audible mode of operation is provided, ICT
+with
+shall provide at least one mode of operation exceptions
+that enables users to make use of limited
+hearing.
+
+Remarks and Explanations
+Audio is not required for operation of macOS, however, macOS supports video
+playback of closed caption content and subtitles (when available). macOS also
+includes features to assist those with limited hearing:
+• Option to pair your Made for iPhone hearing device to your Mac, and adjust
+them for your listening comfort within System Settings. Available on MacBook Pro
+(14-inch, 2021), MacBook Pro (16-inch, 2021), Mac Studio (2022), and all Mac
+computers with M2 chip across all supported languages
+• Live Captions (beta) - can turn audio into text in real-time. They are available for
+your phone and FaceTime calls, and any media content across apps such as
+Messages, Podcasts, Safari and third-party applications. Users can use Live
+Captions to follow along in-person conversations. FaceTime video calls include
+speaker attribution so users can keep up with all the details of who said what in a
+lively call with family and friends. Available in beta for English US & Canada.
+• Mono Audio – combines the left and right stereo channels into a mono signal
+played through both left and right speakers and headphones so all of the audio
+program can be heard more easily.
+• Sound Output – users can choose to play sound through the computer s internal
+speakers, display speakers (when available), or through speakers, headphones,
+and some other devices that are plugged-in or available wirelessly through
+AirPlay. Users may adjust balance and volume for sound output with available
+controls in System Preferences for Sound. They can also set the volume and
+sound that plays for macOS alerts
+
+’
+
+Page 29 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+302.6 Without Speech. Where speech is
+Supports
+used for input, control, or operation, ICT
+shall provide at least one mode of operation
+that does not require user speech.
+
+Remarks and Explanations
+Where speech may be required for input, control, or operation, macOS includes the
+following Accessibility features:
+• Personal Voice — Users at risk of speech loss can create a voice that sounds
+like them by following along with a series of randomly chosen prompts for about
+fifteen minutes. Personal Voice is saved privately and securely on Mac with Apple
+Silicon, with the option to sync it with end-to-end encrypted iCloud to use it on
+another Apple device.
+• Live Speech — Users can type what they want to say and have it be spoken out
+loud; it integrates seamlessly with FaceTime, and is useful for in-person chats. It
+has options to save commonly used phrases to chime in quickly in an animated
+conversation.
+• Siri – Users can enable an Accessibility mode called “Type to Siri” to make
+requests by typing on a physical or onscreen keyboard. Users with a speech
+disability such as a stutter can also turn on an Accessibility setting called Siri
+Pause Time to have Siri wait longer when they are speaking a command.
+• FaceTime – FaceTime video conferencing is included with macOS and lets users
+make audio and video calls to other Mac computers, iPad 2 or later, iPhone 4 or
+later, or the iPod touch 4th generation. High-quality video and fast frame rate
+make FaceTime ideal for those who communicate using sign language. Many
+users can clearly see both hand and finger gestures in detail giving them the
+technology to communicate from afar with the same range of emotion used in
+person. macOS is able to detect when a user in a group FaceTime may be using
+sign language and make their video feed more prominent for the rest of the group
+to see.
+• Live Captions (beta) - can turn audio into text in real-time. They are available for
+your phone and FaceTime calls, and any media content across apps such as
+Messages, Podcasts, Safari and third-party applications. Users can use Live
+Captions to follow along in-person conversations. FaceTime video calls include
+speaker attribution so users can keep up with all the details of who said what in a
+lively call with family and friends. Available in beta for English US & Canada.
+
+Page 30 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+302.7 With Limited Manipulation. Where a
+Supports
+manual mode of operation is provided, ICT
+shall provide at least one mode of operation
+that does not require fine motor control or
+simultaneous manual operations.
+
+Remarks and Explanations
+macOS includes Accessibility features to assist users with limited physical and motor
+manipulation:
+• Voice Control lets users fully control a Mac using their voice. Quickly open and interact
+with apps using voice commands. Write and edit efficiently with rich text-editing
+commands. Users can also show numbers next to everything clickable or superimpose a
+grid onscreen to zoom, drag, and more. You can also use Voice Control Spelling Mode to
+dictate custom spellings letter by letter, or see phonetic suggestions (e.g., do, due, and
+dew) while editing emails and documents dictated using Voice Control. Users can learn
+more about how to use Voice Control with the help of Voice Control Guide, which offers
+education and learning support to get up and running quickly with Voice Control.
+• Dictation is designed to allow users to speak into any text field using the built-in
+microphone and have the text transcribed back.
+• Full Keyboard Access includes an expanded set of keyboard shortcuts to allow users to
+control their Mac with a keyboard, without a mouse or trackpad, and is compatible with
+assistive hardware designed for specific motor impairments.
+• Sticky and Slow Keys. Sticky Keys is designed to allow a series of single key presses to
+be interpreted as a multiple keystroke combination. Sticky Keys is beneficial for people
+who have difficulty pressing multiple keys simultaneously. Slow Keys is designed to put a
+delay between when a key is pressed and when it is accepted by the system. Slow Keys is
+beneficial for people who may press keys accidentally and often. Key-click sounds provide
+additional feedback when a key is accepted.
+• Adjustable keyboard repeat delay is designed to prevent accidental entry of multiple
+single keystrokes.
+• Customizable keyboard commands allow users to assign a keyboard combination to
+any menu item that doesn t already have one assigned or change an existing combination,
+for a specific application or for the entire system. Users can also reassign modifier keys to
+make them easier to reach.
+• Single key Quick Nav allows users to Assign VoiceOver commands to single keys for
+browsing the web using VoiceOver.
+• Tracking Speed, Double-click Speed, and Scrolling Speed Adjustment allows users
+to customize the sensitivity of these controls when using a mouse and trackpad.
+• Gestures such as flick, drag, pinch, and tap can be used instead of and in addition to
+keyboard and mouse controls on Mac models with a Multi-touch trackpad.
+• Switch Control allows users to control a Mac using an adaptive device such as a switch, a
+joystick, the space bar on a keyboard, or a single tap on the Multi-touch trackpad.
+• Head Pointer and Alternate Pointer Controls allow users to control the pointer using
+the movement of their head captured by the camera, or simulate tap gestures using Facial
+Expressions.
+• The Accessibility Keyboard allows users to navigate macOS without using a physical
+keyboard. This is a customizable, onscreen keyboard that gives users with mobility
+
+’
+
+Page 31 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+Remarks and Explanations
+
+302.8 With Limited Reach and Strength.
+Where a manual mode of operation is
+provided, ICT shall provide at least one
+mode of operation that is operable with
+limited reach and limited strength.
+
+Supports
+
+macOS includes Accessibility features to assist users who do not have fine motor control
+and can't perform simultaneous actions easily:
+• Voice Control lets users fully control a Mac using their voice. Quickly open and interact
+with apps using voice commands. Write and edit efficiently with rich text-editing
+commands. Users can also show numbers next to everything clickable or superimpose a
+grid onscreen to zoom, drag, and more. You can also use Voice Control Spelling Mode to
+dictate custom spellings letter by letter, or see phonetic suggestions (e.g., do, due, and
+dew) while editing emails and documents dictated using Voice Control. Users can learn
+more about how to use Voice Control with the help of Voice Control Guide, which offers
+education and learning support to get up and running quickly with Voice Control.
+• Dictation is designed to allow users to speak into any text field using the built-in
+microphone and have the text transcribed back.
+• Full Keyboard Access includes an expanded set of keyboard shortcuts to allow users to
+control their Mac with a keyboard, without a mouse or trackpad, and is compatible with
+assistive hardware designed for specific motor impairments.
+• Switch Control allows users to control a Mac using an adaptive device such as a switch, a
+joystick, the space bar on a keyboard, or a single tap on the Multi-touch trackpad.
+• Head Pointer and Alternate Pointer Controls allow users to control the pointer using
+the movement of their head captured by the camera, or simulate tap gestures using Facial
+Expressions.
+• The Accessibility Keyboard allows users to navigate macOS without using a physical
+keyboard. This is a customizable, onscreen keyboard that gives users with mobility
+impairments advanced typing and navigation capabilities. The Accessibility Keyboard also
+supports Dwell allowing users to control the pointer (move, click, double-click, etc.) using
+head tracking technology.
+• Alternate input devices such as trackballs, game controllers, joysticks, keyboard, mice,
+track pads, graphics tablets and more are also supported. For more information visit
+https://www.apple.com/shop/mac/mac-accessories
+
+Page 32 of 47
+
+Criteria
+
+Conformanc
+e Level
+
+Remarks and Explanations
+
+302.9 With Limited Language, Cognitive,
+and Learning Abilities. ICT shall provide
+features making its use by individuals with
+limited cognitive, language, and learning
+abilities simpler and easier.
+
+Supports
+
+macOS includes Accessibility features to assist users with limited cognitive,
+language, and learning abilities:
+• Personal Voice — Users at risk of speech loss can create a voice that sounds
+like them by following along with a series of randomly chosen prompts for about
+fifteen minutes. Personal Voice is saved privately and securely on Mac with Apple
+Silicon, with the option to sync it with end-to-end encrypted iCloud to use it on
+another Apple device.
+• Live Speech — Users can type what they want to say and have it be spoken out
+loud; it integrates seamlessly with FaceTime, and is useful for in-person chats. It
+has options to save commonly used phrases to chime in quickly in an animated
+conversation.
+• Siri supports natural-language voice commands to send messages, track down
+files, create reminders, search the web, and more.
+• Speak Screen – With Speak Screen, macOS will read back all the content on
+pages back to user with a gesture.
+• Speak Selection - Speak Selection will read back specifically the selected
+content on the screen. Users can follow along as highlighted words, sentences,
+or words within each sentence are read aloud.
+• Dictionary - The built-in Dictionary app lets users look up words and phrases
+from a variety of sources. Definitions and synonyms help with grammar, spelling,
+and pronunciation.
+• Edit Suggestions – Grammar and spelling check as well as substitutions help
+users produce more accurate type written documents.
+• Live Captions (beta) - can turn audio into text in real-time. They are available for
+your phone and FaceTime calls, and any media content across apps such as
+Messages, Podcasts, Safari and third-party applications. Users can use Live
+Captions to follow along in-person conversations. FaceTime video calls include
+speaker attribution so users can keep up with all the details of who said what in a
+lively call with family and friends. Available in beta for English US & Canada.
+
+Chapter 4: Hardware See VPAT for Mac computers.
+Page 33 of 47
+
+Chapter 5: Software Chapter 5: Software
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+501.1 Scope – Incorporation of
+WCAG 2.0 AA
+
+See WCAG 2.0 section See information in WCAG Section
+
+502 Interoperability with
+Assistive Technology
+502.2.1 User Control of
+Accessibility Features. Platform
+software shall provide user
+control over platform features
+that are defined in the platform
+documentation as accessibility
+features.
+
+Supports
+
+Accessibility features can be
+controlled within System Settings
+for Accessibility or using
+accessibility shortcuts. Applications
+can provide additional controls for
+accessibility features in their
+preferences.
+
+502.2.2 No Disruption of
+Accessibility Features. Software
+shall not disrupt platform
+features that are defined in the
+platform documentation as
+accessibility features.
+
+Supports
+
+macOS includes an Accessibility
+API that enables applications to
+interact with assistive technologies
+without disrupting the system or
+each other. Details of the
+Accessibility API are available on
+the Apple Developer website:
+https://developer.apple.com/
+accessibility/
+
+502.3 Accessibility Services
+502.3.1 Object Information. The Supports
+object role, state(s), properties,
+boundary, name, and description
+shall be programmatically
+determinable.
+
+Page 34 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+502.3.2 Modification of Object
+Supports
+Information. States and
+properties that can be set by the
+user shall be capable of being
+set programmatically, including
+through assistive technology.
+502.3.3 Row, Column, and
+Headers. If an object is in a data
+table, the occupied rows and
+columns, and any headers
+associated with those rows or
+columns, shall be
+programmatically determinable.
+
+Supports
+
+502.3.4 Values. Any current
+Supports
+value(s), and any set or range of
+allowable values associated with
+an object, shall be
+programmatically determinable.
+502.3.5 Modification of Values.
+Values that can be set by the
+user shall be capable of being
+set programmatically, including
+through assistive technology.
+
+Supports
+
+Page 35 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+502.3.6 Label Relationships.
+Any relationship that a
+component has as a label for
+another component, or of being
+labeled by another component,
+shall be programmatically
+determinable.
+
+Supports with
+exceptions
+
+The majority of built-in applications
+utilize the Accessibility API to form
+relationships between controls and
+their labels. VoiceOver conveys this
+relationship to end users while
+navigating through the UI. Thirdparty developers can also form
+relationships between controls and
+labels that are programmatically
+determinable through the
+Accessibility API.
+For unlabeled buttons, VoiceOver
+allows users to assign labels to
+unlabeled controls, and save them
+to a file where they can be shared
+and imported to and from other
+Mac computers running OS X 10.6
+or later.
+
+502.3.7 Hierarchical
+Relationships. Any hierarchical
+(parent-child) relationship that a
+component has as a container
+for, or being contained by,
+another component shall be
+programmatically determinable.
+
+Supports
+
+502.3.8 Text. The content of text Supports
+objects, text attributes, and the
+boundary of text rendered to the
+screen, shall be
+programmatically determinable.
+
+Page 36 of 47
+
+Criteria
+
+Conformance Level
+
+502.3.9 Modification of Text.
+Text that can be set by the user
+shall be capable of being set
+programmatically, including
+through assistive technology.
+
+Supports
+
+502.3.10 List of Actions. A list of
+all actions that can be executed
+on an object shall be
+programmatically determinable.
+
+Supports with
+exceptions
+
+The majority of actions that can be
+executed on a button or object can
+be determined programmatically. In
+a few but rare cases, some object
+actions may not be listed.
+
+502.3.11 Actions on Objects.
+Supports with
+Applications shall allow assistive exceptions
+technology to programmatically
+execute available actions on
+objects.
+
+In a few but rare cases, assistive
+technologies may not be able to
+execute all available actions on an
+object or button.
+
+502.3.12 Focus Cursor.
+Applications shall expose
+information and mechanisms
+necessary to track focus, text
+insertion point, and selection
+attributes of user interface
+components.
+
+Supports
+
+502.3.13 Modification of Focus
+Cursor. Focus, text insertion
+point, and selection attributes
+that can be set by the user shall
+be capable of being set
+programmatically, including
+through the use of assistive
+technology.
+
+Supports
+
+Remarks and Explanations
+
+Page 37 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+502.3.14 Event Notification.
+Supports
+Notification of events relevant to
+user interactions, including but
+not limited to, changes in the
+component s state(s), value,
+name, description, or boundary,
+shall be available to assistive
+technology.
+
+’
+
+Page 38 of 47
+
+Criteria
+
+Conformance Level
+
+502.4 Platform Accessibility
+Supports with
+Features. Platforms and platform exceptions
+software shall conform to the
+requirements in ANSI/HFES
+200.2, Human Factors
+Engineering of Software User
+Interfaces — Part 2:
+Accessibility (2008)
+(incorporated by reference, see
+702.4.1) listed below:
+A. Section 9.3.3 Enable
+sequential entry of
+multiple (chorded)
+keystrokes;
+B. Section 9.3.4 Provide
+adjustment of delay
+before key acceptance;
+C. Section 9.3.5 Provide
+adjustment of same-key
+double-strike
+acceptance;
+D. Section 10.6.7 Allow
+users to choose visual
+alternative for audio
+output;
+E. Section 10.6.8
+Synchronize audio
+equivalents for visual
+events;
+F. Section 10.6.9 Provide
+speech output services;
+and
+G. Section 10.7.1 Display
+any captions provided.
+
+Remarks and Explanations
+macOS provides a variety of
+platform Accessibility features to
+address the mentioned
+requirements:
+• Sticky Keys, designed to allow a
+series of single key presses to be
+interpreted as a multiple
+keystroke combination. Sticky
+Keys is beneficial for people who
+have difficulty pressing multiple
+keys simultaneously.
+• Slow Keys, designed to put a
+delay between when a key is
+pressed and when it is accepted
+by the system. Slow Keys is
+beneficial for people who may
+press keys accidentally and often.
+Click key sounds are also
+available to provide additional
+feedback when a key is accepted.
+• Adjustable keyboard repeat
+delay, designed to prevent
+accidental entry of multiple single
+keystrokes. The setting is
+adjustable and can be set to not
+repeat.
+• Flash screen, designed to
+provide a visual alternative for
+audio alerts.
+• VoiceOver, designed to provide
+speech output services and audio
+feedback for visual events.
+• Captions provide audio and
+video text descriptions for video
+media when provided by the
+developer.
+Please note: macOS does not
+Page 39 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+Supports with
+exceptions
+
+macOS provides system-level
+control of display characteristics
+that cannot be overridden by
+applications, including options to:
+• Switch the display from color to
+grayscale
+• Use a display color filter or color
+tint
+• Invert light and dark colors
+displayed on the screen
+• Differentiate certain elements
+without color
+• Increase contrast of elements on
+the screen
+• Reduce the transparency of
+elements on the screen
+
+503 Applications
+503.2 User Preferences.
+Applications shall permit user
+preferences from platform
+settings for color, contrast, font
+type, font size, and focus cursor.
+
+All of these features are accessed
+through System Preferences for
+Accessibility and can be used
+together in different combinations
+to suit the user s needs.
+There are limited per application
+preferences for configuring
+appearance and focus. VoiceOver
+does allow users to set preferences
+per application; however, these
+preferences do not include color,
+contrast, font type, font size, and
+focus cursor.
+
+’
+
+Page 40 of 47
+
+Criteria
+
+Conformance Level
+
+503.3 Alternative User
+Interfaces. Where an application
+provides an alternative user
+interface that functions as
+assistive technology, the
+application shall use platform
+and other industry standard
+accessibility services.
+503.4 User Controls for
+Captions and Audio Description.
+
+Not Applicable
+
+Remarks and Explanations
+
+Page 41 of 47
+
+Criteria
+
+Conformance Level
+
+503.4.1 Caption Controls. Where Supports with
+user controls are provided for
+exceptions
+volume adjustment, ICT shall
+provide user controls for the
+selection of captions at the
+same menu level as the user
+controls for volume or program
+selection.
+
+Remarks and Explanations
+macOS supports playback of video
+media with closed-captioned audio
+and video text descriptions when
+provided in industry standard
+formats.
+The default media player, provided
+in conjunction with the
+AVFoundation framework, contains
+a control for the selection of
+captions alongside volume
+adjustment. This is also true of the
+QuickTime and Music media
+players, as well as the default
+WebKit media player.
+Third-party developers can also
+implement custom media players,
+where they may choose whether or
+not to support the selection of
+captions.
+Live Captions (beta) - can turn
+audio into text in real-time. They are
+available for your phone and
+FaceTime calls, and any media
+content across apps such as
+Messages, Podcasts, Safari and
+third-party applications. Users can
+use Live Captions to follow along
+in-person conversations. FaceTime
+video calls include speaker
+attribution so users can keep up
+with all the details of who said what
+in a lively call with family and
+friends. Available in beta for English
+US & Canada.
+Page 42 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+503.4.2 Audio Description
+Controls. Where user controls
+are provided for program
+selection, ICT shall provide user
+controls for the selection of
+audio descriptions at the same
+menu level as the user controls
+for volume or program selection.
+
+Supports with
+exceptions
+
+macOS supports playback of video
+media with closed-captioned audio
+and video text descriptions when
+provided in industry standard
+formats.
+The default media player, provided
+in conjunction with the
+AVFoundation framework, contains
+a control for the selection of
+captions alongside volume
+adjustment. This is also true of the
+QuickTime and Music media
+players, as well as the default
+WebKit media player.
+Third-party developers can also
+implement custom media players,
+where they may choose whether or
+not to support the selection of
+captions.
+
+504 Authoring Tools
+
+Page 43 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+504.2 Content Creation or
+Editing. Authoring tools shall
+provide a mode of operation to
+create or edit content that
+conforms to Level A and Level
+AA Success Criteria and
+Conformance Requirements in
+WCAG 2.0 (incorporated by
+reference, see 702.10.1) for all
+supported features and, as
+applicable, to file formats
+supported by the authoring tool.
+Authoring tools shall permit
+authors the option of overriding
+information required for
+504.2.1 Preservation of
+Information Provided for
+Accessibility in Format
+Conversion. Authoring tools
+shall, when converting content
+from one format to another or
+saving content in multiple
+formats, preserve the
+information required for
+accessibility to the extent that
+the information is supported by
+504.2.2 PDF Export. Authoring
+tools capable of exporting PDF
+files that conform to ISO
+32000-1 2008 (PDF 1.7) shall
+also be capable of exporting
+PDF files that conform to ANSI/
+AIIM/ISO 14289-1 2016 (PDF/
+UA-1) (incorporated by
+reference, see 702.3.1).
+
+Supports with
+exceptions
+
+macOS comes with productivity
+applications, including Pages,
+Keynote, and Numbers, that allow
+for creation of content that
+conforms to the Level A and Level
+AA Success Criteria and
+Conformance Requirements in
+WCAG 2.0.
+
+Supports with
+exceptions
+
+Not all authoring tools support
+preservation of accessibility
+information when converting
+content or saving in multiple
+formats.
+
+Does not support
+
+:
+
+:
+
+Page 44 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+504.3 Prompts. Authoring tools Does not support
+shall provide a mode of
+operation that prompts authors
+to create content that conforms
+to Level A and Level AA Success
+Criteria and Conformance
+Requirements in WCAG 2.0
+(incorporated by reference, see
+702.10.1) for supported features
+and, as applicable, to file
+formats supported by the
+authoring tool.
+504.4 Templates. Where
+Does not support
+templates are provided,
+templates allowing content
+creation that conforms to Level
+A and Level AA Success Criteria
+and Conformance Requirements
+in WCAG 2.0 (incorporated by
+reference, see 702.10.1) shall be
+provided for a range of template
+uses for supported features and,
+as applicable, to file formats
+supported by the authoring tool.
+
+Chapter 6: Support Documentation and Services Chapter 6: Support Documentation and Services
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+601.1 Scope
+
+Page 45 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+Supports
+
+Product documentation is available online in an
+accessible HTML format through:
+
+602 Support Documentation
+602.2 Accessibility and Compatibility Features.
+Documentation shall list and explain how to use the
+accessibility and compatibility features required by
+Chapters 4 and 5. Documentation shall include
+accessibility features that are built-in and
+accessibility features that provide compatibility with
+assistive technology.
+
+• Apple Support at https://www.apple.com/support
+• Mac new release page at https://www.apple.com/mac/
+• Accessibility product page at https://www.apple.com/
+accessibility
+VPATs for Apple products are available at https://
+support.apple.com/accessibility/vpat.
+
+602.3 Electronic Support Documentation.
+Documentation in electronic format, including Webbased self-service support, shall conform to Level A
+and Level AA Success Criteria and Conformance
+Requirements in WCAG 2.0 (incorporated by
+reference, see 702.10.1).
+
+See WCAG 2.0 section
+
+602.4 Alternate Formats for Non-Electronic Support Supports
+Documentation. Where support documentation is
+only provided in non-electronic formats, alternate
+formats usable by individuals with disabilities shall be
+provided upon request.
+
+The electronic web-based product documentation for
+macOS conforms to both Level A and Level AA Success
+Criteria and Conformance Requirements in WCAG 2.0.
+
+Product documentation is available in embossed braille
+via third party provider.
+
+603 Support Services
+
+Page 46 of 47
+
+Criteria
+
+Conformance Level
+
+Remarks and Explanations
+
+603.2 Information on Accessibility and Compatibility
+Features. ICT support services shall include
+information on the accessibility and compatibility
+features required by 602.2.
+
+Supports
+
+Apple Support provides advisors with information on
+accessibility and compatibility features for macOS. This
+information is also documented in the product
+documentation.
+
+603.3 Accommodation of Communication Needs.
+Support services shall be provided directly to the
+user or through a referral to a point of contact. Such
+ICT support services shall accommodate the
+communication needs of individuals with disabilities.
+
+Supports
+
+Support via the Internet is available through the Apple
+Knowledge base at http://www.apple.com/support.
+For additional information on the many service and
+support options offered by Apple visit www.apple.com/
+support.
+
+Legal Disclaimer:
+Some features described in this document are not available in all areas, may be subject to additional fees or payments, and may be dependent on your cellular
+carrier network policies and wireless service plan, including, for example, 5G, LTE and FaceTime over cellular.
+Mac includes macOS Sonoma, charging cable. Other accessories or products mentioned in this document (e.g., assistive devices, styluses, hearing aids,
+adapters, hearing aids, and so on) are sold separately by Apple and/or third parties.
+Apple does not promise that the information provided in this document will be error-free, or that any errors will be corrected, or that your use of the information
+will provide specific results. THE DOCUMENT AND ITS CONTENT ARE DELIVERED ON AN “AS-IS” BASIS. ALL INFORMATION PROVIDED IS SUBJECT TO
+CHANGE WITHOUT NOTICE. APPLE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF
+ACCURACY, NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Page 47 of 47
+
+

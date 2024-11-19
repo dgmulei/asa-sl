@@ -1,0 +1,1707 @@
+PNNL-34242
+
+Cost-Benefit Analysis
+of the
+2021 WSEC Residential
+Provisions - Revised
+Final Report
+May 2023
+VR Salcido
+B Taube
+Y Xie
+V Mendon
+
+Choose an item.
+
+DISCLAIMER
+This report was prepared as an account of work sponsored by an agency of the
+United States Government. Neither the United States Government nor any agency
+thereof, nor Battelle Memorial Institute, nor any of their employees, makes any
+warranty, express or implied, or assumes any legal liability or responsibility
+for the accuracy, completeness, or usefulness of any information, apparatus,
+product, or process disclosed, or represents that its use would not infringe
+privately owned rights. Reference herein to any specific commercial product,
+process, or service by trade name, trademark, manufacturer, or otherwise does not
+necessarily constitute or imply its endorsement, recommendation, or favoring by
+the United States Government or any agency thereof, or Battelle Memorial
+Institute. The views and opinions of authors expressed herein do not necessarily
+state or reflect those of the United States Government or any agency thereof.
+
+PACIFIC NORTHWEST NATIONAL LABORATORY
+operated by
+BATTELLE
+for the
+UNITED STATES DEPARTMENT OF ENERGY
+under Contract DE-AC05-76RL01830
+
+Printed in the United States of America
+Available to DOE and DOE contractors from the
+Office of Scientific and Technical Information,
+P.O. Box 62, Oak Ridge, TN 37831-0062;
+ph: (865) 576-8401
+fax: (865) 576-5728
+email: reports@adonis.osti.gov
+Available to the public from the National Technical Information Service
+5301 Shawnee Rd., Alexandria, VA 22312
+ph: (800) 553-NTIS (6847)
+email: orders@ntis.gov <https://www.ntis.gov/about>
+Online ordering: http://www.ntis.gov
+
+Choose an item.
+
+Preliminary Final Cost-Benefit Analysis of the
+2021 WSEC Residential Provisions - Revised
+Final Report
+May 2023
+
+VR Salcido
+B Taube
+Y Xie
+V Mendon
+
+Prepared for
+the Washington State Department of Enterprise Services
+
+Pacific Northwest National Laboratory
+Richland, Washington 99354
+
+ii
+
+Executive Summary
+This report is a revision to the Final Cost-Benefit Analysis of the 2021 WSEC Residential
+Provisions Final Report February 2023. The prior analysis and report were based on the energy
+credits in the 2021 WSEC-R Section R406 that were published on May 27, 2022. However, the
+energy credits table was later modified per the CR-103P published on January 3, 2023. The
+prior report thus did not account for the revised energy credits. This report presents revised
+energy savings and cost-effectiveness analyses that are amended to reflect the new R406
+measures.
+The state of Washington is updating their current state residential energy code. They will be
+moving from the 2018 Washington State Energy Code (2018 WSEC-R) to the 2021 WSEC-R.
+The Washington State Building Code Council (SBCC) requested that Pacific Northwest National
+Laboratory (PNNL) perform an independent analysis of the energy, economic, and emissions
+impacts of the code changes between the 2018 WSEC-R and 2021 WSEC-R. The objective
+was to review submitted data in the proposals, supplement and revise the economic impact
+analyses included in those proposals as needed, and review life-cycle cost analyses per state
+protocols or using alternative methods if necessary to provide improved and more accurate
+analysis.
+PNNL reviewed the proposals listed in the following table as well as the R406 code language
+updates. The team analyzed a subset of these proposals and code changes using building
+energy simulation with Washington-specific inputs and following the Department of Energy
+(DOE) established methodology for cost-effectiveness.1 Table ES-1 illustrates all proposals
+requested for analysis. For this report, proposals 1–8 were selected for the overall costeffectiveness analysis by simulating the 2021 WSEC-R. However, proposals 4 and 8 were
+removed from the analysis because the SBCC voted to disapprove. PNNL reviewed proposals 9
+through 16 in a qualitative analysis to provide feedback on the cost-benefit analyses provided by
+the proponents.
+
+1
+
+https://www.energycodes.gov/methodology
+
+Executive Summary
+
+iii
+
+Table ES-1. List of proposals for the 2021 WSEC-R analysis
+Proposal
+Proposal 1
+Proposal 2
+Proposal 1+2
+Proposal 3
+Proposal 4
+
+Section
+R403.13, R405.2, R503.1.2
+R403.5, R405.2, R503.1.3
+R403.13, R405.2, R503.1.2,
+R403.5, R405.2, R503.1.3
+R202, R401.1
+Table R402.1.2
+
+Subject
+Heat Pump Space Heater
+Heat Pump Water Heater
+Heat Pump Space Heating and
+Water Heating
+Definitions Scope
+U-Factor Replacements
+
+Proposal 5
+Proposal 6
+Proposal 7
+Proposal 8
+
+R405.3, R406, Chapter 6
+R403.5.1
+R403.5.5
+R403.3.2.1
+
+Update Section R406
+Allowed Leakage Rates
+Water Heater Install Location
+Sealed Air Handler
+
+Proposal 9
+Proposal 10
+Proposal 11
+Proposal 12
+Proposal 13
+Proposal 14
+Proposal 15
+Proposal 16
+
+R502
+R402.4.1.2
+R403.5.1
+Table 406.3
+Table 406.3 Option 3.2
+Table 406.3 Option 3.5
+Table 406.3 Option 3.6
+R406 Option 3.2, 3.5
+
+Additions
+Testing Agency Certification
+SWH Circulation System
+Energy Credit Options 3.1 & 3.2
+HSPF of 9.5
+HSPF of 11.0
+HSPF of 10.0
+COP, HSPF
+
+Analysis
+Simulation
+Simulation
+Simulation
+Simulation
+Disapproved by
+SBCC
+Simulation
+Simulation
+Simulation
+Disapproved by
+SBCC
+Review Only
+Review Only
+Review Only
+Review Only
+Review Only
+Review Only
+Review Only
+Review Only
+
+The cost-effectiveness results for the 2021 WSEC-R compared to the 2018 WSEC-R are shown
+in Table ES-2 for various metrics. Details on the simulations that were used to determine the
+cost-effectiveness of each proposal in the 2021 WSEC-R can be found in the Final Cost-Benefit
+Analysis of Select 2021 WSEC Residential Provisions, which was submitted to the SBCC before
+this report.1 When life-cycle cost savings are positive, a code change proposal or energy code is
+considered cost-effective. As shown in Table ES-2, when considering only market rate utility
+costs, the 2021 WSEC-R is cost-effective with $4,568 life-cycle cost savings over the 30-year
+analysis period. When the social cost of carbon (SCC) is also considered (as required by the
+state of Washington), the 2021 WSEC-R improves its cost-effectiveness with total life cycle cost
+savings of $5,927. The 2021 WSEC-R was found to increase electric energy consumption while
+eliminating fossil fuel consumption due to the code provisions requiring electric space heating
+and water heating.
+
+1
+
+https://sbcc.wa.gov/sites/default/files/2023-01/PNNL_2021WashingtonResidentialEnergyCodeAnalysis.pdf
+
+Executive Summary
+
+iv
+
+Table ES-2. Individual Consumer Impact of Combined Proposals for the 2021 WSEC-R
+Metric
+Annual (first year) energy cost savings ($)
+Life-cycle cost savings ($)
+SCC life-cycle cost savings ($)
+Total life-cycle cost ($)
+Added construction cost ($)
+First year carbon emissions savings (tons)
+Simple payback period (yrs)
+Annual electric savings (kWh)
+Annual gas savings (therms)
+Annual fuel oil savings (gallons)
+
+Compared to the 2018 WSEC-R
+$170
+$4,568
+$1,359
+$5,927
+$471
+30.5
+2.8
+–915
+243
+0.47
+
+The 2021 WSEC-R will result in statewide societal benefits such as cost savings, reduced
+greenhouse gas emissions, and job creation. As shown in Table ES-3, Washington residents
+could expect to save $2 billion in energy costs and reduce statewide CO2e emissions over 30
+years by 17,050,000 metric tons, equivalent to the annual CO2e emissions of 3,708,000 cars on
+the road (1 MMT CO2 = 217,480 cars driven/year).
+Table ES-3. Washington Statewide Societal Benefits
+Statewide Impact
+Energy cost savings, $
+
+First Year
+5,739,000
+
+30 Years Cumulative
+2,005,000,000
+
+CO2e emission reduction, metric tons
+
+36,900
+
+17,050,000
+
+Updating the Washington State energy code to the 2021 WSEC-R will also stimulate the
+creation of high-quality jobs across the state. As outlined in Table ES-4, the impact on utility bills
+and construction-related activities from adopting the 2021 WSEC-R will lead to over 10,000 jobs
+created in Washington over the next 30 years.
+Table ES-4. Statewide Impact on Washington Jobs
+Statewide Impact
+Jobs created due to construction-related activities and
+reduced utility bills
+
+First Year
+365
+
+30 Years Cumulative
+10,300
+
+Based on the current analysis conducted by PNNL comparing the 2021 WSEC-R to the 2018
+WSEC-R, the statewide weighted average whole building energy savings of 2021 WSEC-R
+relative to 2018 WSEC-R is 38.5%. As shown in Table ES-5, the energy use index for the 2018
+WSEC-R compared to the 2006 WSEC-R is 60.5%. Multiplying the 60.5% energy use index
+(2018 WSEC-R compared to 2006 WSEC-R) with the 38.5% savings (2021 WSEC-R relative to
+2018 WSEC-R) yields a 23.3% reduction over the 2018 WSEC-R energy use index. The 2018
+WSEC-R energy use index of 60.5% minus the 23.3% reduction yields the new 2021 WSEC-R
+energy use index of 37.2% relative to the 2006 WSEC-R. Table ES-5 below shows the current
+2021 WSEC-R energy use index compared to previous editions of the WSEC.
+
+Executive Summary
+
+v
+
+Table ES-5. Energy Use Index of the 2021 WSEC-R compared to previous editions of WSEC
+
+Executive Summary
+
+vi
+
+Contents
+Executive Summary ................................................................................................................... iii
+Contents ................................................................................................................................... vii
+1.0
+
+Introduction ..................................................................................................................... 1
+1.1
+
+2.0
+
+Cost-effectiveness Analysis ............................................................................................. 3
+2.1
+
+3.0
+
+4.0
+
+2021 WSEC-R Proposals..................................................................................... 1
+Methodology ........................................................................................................ 3
+
+2021 WSEC-R Analysis Results ...................................................................................... 6
+3.1
+
+Analysis ............................................................................................................... 6
+
+3.2
+
+2021 WSEC-R Overall Savings and Cost-Effectiveness ...................................... 7
+
+3.3
+
+2021 WSEC-R Greenhouse Gas Emissions Reductions ...................................... 9
+
+3.4
+
+2021 WSEC-R Jobs Impacts ............................................................................... 9
+
+3.5
+
+2021 WSEC-R Percent Reduction in Energy Use over 2006 WSEC-R .............. 10
+
+Individual Proposal Analyses (Qualitative) ..................................................................... 12
+4.1
+
+Proposal 9: Additions (21-GP2-073 – review only) ............................................. 12
+4.1.1
+Proposed Code Language for Additions .............................................. 12
+4.1.2
+
+4.2
+
+Proposal 10: Testing Agency Certification (21-GP2-088 – review only).............. 13
+4.2.1
+4.2.2
+
+4.3
+
+4.4
+
+4.5
+
+4.3.1
+
+Service Water Heating Circulation Control Proposed Code
+Language ............................................................................................ 14
+
+4.3.2
+
+Review ................................................................................................ 15
+
+Proposal 12: Energy Credit Options 3.1 and 3.2 (21-GP2-034 – review
+only) ................................................................................................................... 16
+4.4.1
+
+Energy Credit Options 3.1 and 3.2 Proposed Code Language ............ 16
+
+4.4.2
+
+Review ................................................................................................ 17
+
+Proposal 13: Cold Climate Heat Pump – Table R406.3 Option 3.2 (21GP2-023) ........................................................................................................... 18
+
+Contents
+
+Cold Climate Heat Pump Option 3.2 Proposed Code Language .......... 18
+
+4.5.2
+Review ................................................................................................ 18
+Proposal 14: Cold Climate Heat Pump – Table R406.3 Option 3.5 (21GP2-024) ........................................................................................................... 19
+4.6.1
+4.6.2
+
+4.7
+
+Testing Agency Certification Proposed Code Language ...................... 13
+Review ................................................................................................ 14
+
+Proposal 11: Service Water Heating Circulation Control (21-GP2-071 –
+review only)........................................................................................................ 14
+
+4.5.1
+4.6
+
+Review ................................................................................................ 13
+
+Cold Climate Heat Pump Option 3.5 Proposed Code Language .......... 20
+Review ................................................................................................ 20
+
+Proposal 15: Cold Climate Heat Pump – Table R406.3 Option 3.6 (21GP2-025 – review only)...................................................................................... 21
+
+vii
+
+4.7.1
+
+4.8
+
+5.0
+
+Contents
+
+Multi-Zone Minisplit Heat Pump Option 3.6 Proposed Code
+Language ............................................................................................ 21
+
+4.7.2
+Review ................................................................................................ 21
+Proposal 16: R406 Option 3.7 (21-GP2-050 – review only) ................................ 22
+4.8.1
+
+R406 Option 3.6 Proposed Code Language ........................................ 22
+
+4.8.2
+
+Review ................................................................................................ 22
+
+References .................................................................................................................... 24
+
+viii
+
+Tables
+Table 1. Proposal Summary for the 2021 WSEC-R ..................................................................... 2
+Table 2. Fuel Prices Used in the Analysis ................................................................................... 4
+Table 3. Summary of Economic Parameters Used in Cost-Effectiveness Analysis ...................... 4
+Table 4. Carbon Emission Factors by Fuel Type ......................................................................... 5
+Table 5. Baseline Model Descriptions for the 2018 WSEC-R ...................................................... 6
+Table 6. Updated Model Descriptions for the 2021 WSEC-R/WSEC-C ....................................... 7
+Table 7. Consumer Impact of Combined Proposals for the 2021 WSEC-R ................................. 8
+Table 8. 2021 WSEC-R Societal Benefits ................................................................................... 9
+Table 9. Impact of the 2021 WSEC-R on Washington State Jobs ............................................. 10
+Table 10. 2021 WSEC-R Energy Use Index.............................................................................. 11
+
+Tables
+
+ix
+
+1.0 Introduction
+The state of Washington is updating their current state residential energy code—the 2018
+Washington State Energy Code (2018 WSEC-R)—to an updated 2021 WSEC-R version. This
+report evaluates the life cycle and greenhouse gas emission impacts of the 2021 WSEC-R. The
+Washington State Building Code Council (SBCC) requested an analysis of the energy and
+economic impacts of the proposed amendments to the 2018 WSEC-R. The specific request
+asked Pacific Northwest National Laboratory (PNNL) to look at the energy and economic impact
+of the 2021 WSEC-R over the 2018 WSEC-R. This report builds upon the previous report
+submitted to the SBCC, Final Cost-Benefit Analysis of Select 2021 WSEC Residential
+Provisions, that detailed the cost-effective analyses of individual proposals that made up the
+2021 WSEC-R.1
+
+1.1 2021 WSEC-R Proposals
+PNNL reviewed the proposals listed in the following table. The team analyzed a subset of these
+proposals using large-scale simulation following the DOE established methodology for costeffectiveness.2 Table 1 illustrates all proposals requested for analysis. For this report, proposals
+1-8 were combined for a cost-effectiveness analysis by simulation. However, proposals 4 and 8
+were removed from analysis due to the Washington State Building Code Council (SBCC) vote to
+disapprove. PNNL performed a qualitative review of proposals 9-16 in this report to evaluate the
+cost-effective analyses provided by the proponents.
+
+1
+
+https://sbcc.wa.gov/sites/default/files/2023-01/PNNL_2021WashingtonResidentialEnergyCodeAnalysis.pdf
+
+2
+
+https://www.energycodes.gov/sites/default/files/2021-07/residential_methodology_2015.pdf
+
+Introduction
+
+1
+
+Table 1. Proposal Summary for the 2021 WSEC-R
+Proposal
+Proposal 1
+Proposal 2
+Proposal 3
+Proposal 4
+
+Analysis
+Simulation
+Simulation
+Simulation
+Disapproved by
+SBCC
+Proposal 5
+R405.3, R406, Chapter 6
+Update Section R406
+Simulation
+Proposal 6
+R403.5.1
+Allowed Leakage Rates
+Simulation
+Proposal 7
+R403.5.5
+Water Heater Install Location
+Simulation
+Proposal 8
+R403.3.2.1
+Sealed Air Handler
+Disapproved by
+SBCC
+Proposal 9
+R502
+Additions
+Review Only
+Proposal 10
+R402.4.1.2
+Testing Agency Certification
+Review Only
+Proposal 11
+R403.5.1
+SWH Circulation System
+Review Only
+Proposal 12
+Table 406.3
+Energy Credit Options 3.1 & 3.2
+Review Only
+Proposal 13
+Table 406.3 Option 3.2
+HSPF of 9.5
+Review Only
+Proposal 14
+Table 406.3 Option 3.5
+HSPF of 11.0
+Review Only
+Proposal 15
+Table 406.3 Option 3.6
+HSPF of 10.0
+Review Only
+Proposal 16
+R406 Option 3.2, 3.5
+COP, HSPF
+Review Only
+COP: coefficient of performance. HSPF: heating seasonal performance factor. SWH: service water
+heating.
+
+Introduction
+
+Section
+R403.13, R405.2, R503.1.2
+R403.5, R405.2, R503.1.3
+R202, R401.1
+Table R402.1.2
+
+Subject
+Heat Pump Space Heater
+Heat Pump Water Heater
+Definitions Scope
+U-Factor Replacements
+
+2
+
+2.0 Cost-effectiveness Analysis
+The PNNL analysis for the 2021 WSEC-R followed the standard modeling and costeffectiveness methodology detailed in Taylor et al. (2015).1 EnergyPlus simulations were run
+using the 2018 WSEC-R as the baseline across the Washington state climate zones (4C and
+5B) to estimate energy use changes, energy cost changes, and carbon emissions based on
+the proposals. Single-family prototypes are 2,376 sq ft while multifamily dwelling units are
+1,200 sq ft. The updated prototypes were simulated based on the new code language in each
+proposal.
+The WSEC-R baseline and updated prototypes included additional energy efficiency credit
+requirements as required in Section R406. For the single-family prototype at 2,376 sq ft, 6.0
+credits were required for the 2018 WSEC-R and 5.0 credits required for the 2021 WSEC-R. The
+multifamily dwelling unit at 1,200 sq ft required 4.5 credits for both the 2018 and 2021 WSEC-R.
+When a proposal required the addition of more efficiency, the energy credits in the updated
+prototype were adjusted to account for the additional efficiency. The energy credits selected in
+the baseline and updated prototypes are listed in Section 3.0 where the details on the analysis
+for each proposal are presented.
+
+2.1 Methodology
+This section provides an overview of the methodology used in evaluating the cost-effectiveness
+of the proposals for the 2021 WSEC-R compared to the 2018 WSEC-R. Cost-effectiveness
+results for life cycle cost (LCC) savings, simple payback, and cash flow are calculated for each
+building type in each climate zone. The results are weighted to aggregate results to the climate
+zone level. Weighting factors for each of the prototype buildings were developed for all U.S.
+climate zones using 2019 new residential construction starts and residential construction details
+from the U.S. Census (Census 2010), the Residential Energy Consumption Survey (RECS
+2013), and the National Association of Home Builders (NAHB 2009). The weights were finetuned by the revised county-to-climate zone map based on the ASHRAE 169-2013 climate zone
+changes.
+DOE’s cost-effectiveness methodology evaluates 32 residential prototypes comprising two
+building types (single-family and low-rise multifamily), four foundation types (slab, crawl,
+unheated basement, and heated basement), and four heating system types (gas furnace, oil
+furnace, electric furnace, and heat pump). These prototypes are simulated with TMY3 weather
+data from locations in Washington representing the two climate zones and two moisture regimes
+in this analysis.
+Construction cost differences between the 2018 WSEC-R and the 2021 WSEC-R for each
+proposal were taken directly from DOE/PNNL reports on the cost-effectiveness of new code
+editions, Home Depot and Lowes stores, as well as conversations with heat pump
+manufacturers and sales representatives. National cost estimates were adjusted by a
+Washington-specific construction cost multiplier2 and appropriate Consumer Price Index (CPI)
+multipliers3 to bring costs into 2022 dollars.
+
+1
+
+https://www.energycodes.gov/sites/default/files/2021-07/residential_methodology_2015.pdf
+https://www.energycodes.gov/sites/default/files/2021-11/Location_Factors_Report.pdf
+3
+https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from1913-to-2008/
+2
+
+Cost-effectiveness Analysis
+
+3
+
+Life Cycle Cost (LCC) savings is the primary measure used to assess the economic impact of
+building energy codes. LCC is the calculation of the present value of costs over a 30-year period
+including initial equipment and construction costs, energy savings, maintenance and
+replacement costs, and residual value of components at the end of the 30-year period. When
+the LCC of the updated code (e.g., the 2021 WSEC-R) is lower than that of the previous code
+(the 2018 WSEC-R), the updated code is considered cost‐effective. In other words, when life
+cycle cost savings is positive, the proposal is considered cost-effective.
+The energy savings from the simulation analysis are converted to energy cost savings using the
+electricity and gas prices established for analyzing Washington energy code proposals. In
+addition, the oil price is the most recent state-specific residential oil price from DOE’s Energy
+Information Administration. Fuel prices used in this analysis can be found in Table 2. Fuel prices
+are escalated over the analysis period based on EIA’s year-by-year projections in the 2021
+Annual Energy Outlook,1 Reference Case Table 3.2
+Table 2. Fuel Prices Used in the Analysis
+Electricity
+($/kWh)
+0.0966
+
+Gas
+($/Therm)
+1.062
+
+Oil
+($/MBtu)
+2.52
+
+Per the established methodology, PNNL calculates three metrics from the perspective of the
+homeowner—LCC, simple payback, and cash flow. LCC is the primary metric used by DOE and
+Washington state for determining the cost-effectiveness of an overall code or individual code
+change. The economic parameters used in the current cost-effectiveness analysis are
+summarized in Table 3. The economic parameters are recently updated following the
+established methodology to account for changing economic conditions.
+Table 3. Summary of Economic Parameters Used in Cost-Effectiveness Analysis
+Parameter
+
+Value
+
+Mortgage Interest Rate
+
+5%
+
+Loan Term
+
+30 years
+
+Down-Payment Rate
+
+10% of home price
+
+Points and Loan Fees
+
+1.0% of mortgage amount
+
+Analysis Period
+
+30 years
+
+Property Tax Rate
+
+1.1% of home price/value
+
+Income Tax Rate
+
+15% federal
+
+Inflation Rate
+
+3.0% annual
+
+Home Price Escalation Rate
+
+Equal to inflation rate
+
+An additional analysis metric required for all Washington energy code proposals is the life cycle
+cost savings when including the social cost of carbon (SCC). Emission factors used in the
+calculation of carbon emissions and SCC are extracted from the Carbon Externality
+1
+2
+
+https://www.eia.gov/outlooks/aeo/
+https://www.eia.gov/outlooks/aeo/data/browser/#/?id=3-AEO2021&sourcekey=0
+
+Cost-effectiveness Analysis
+
+4
+
+spreadsheet as part of the Washington Life Cycle Cost Analysis Tool version 2020-A, provided
+by the Washington Office of Financial Management. Carbon emissions are based on annual fuel
+consumption based on the simulation of the baseline and updated prototypes. Carbon emission
+factors used in the analysis are shown in Table 4.
+Table 4. Carbon Emission Factors by Fuel Type
+Energy Source
+Electricity
+Natural Gas
+Oil
+
+Carbon Emission Factor1
+4.12 x 10-4 metric tons CO2/kWh (0 after 2030)
+0.00531 metric tons CO2/therm
+9.62 x 10-3 metric tons CO2/gallon
+
+The life cycle savings of SCC is determined based on a net present value (NPV) calculation of
+annual savings in the SCC over a 30-year period. The social cost of carbon is based on
+estimates from the U.S. Government Interagency Working Group on SCC.1 The annual social
+cost of carbon for the years 2010 to 2118 is contained in the Washington Life Cycle Cost
+Analysis Tool. The annual social cost of carbon is multiplied by the annual carbon emissions
+over a 30-year period to calculate the total dollar value of the carbon emissions. The NPV of
+SCC is calculated with a discount rate of 5% over the 30 years of carbon emissions. The
+difference in the NPV of SCC for the baseline case and updated case based on each proposal
+is the NPV savings for SCC.
+
+1
+
+https://www.whitehouse.gov/sites/default/files/omb/assets/inforeg/technical-update-social-cost-ofcarbon-for-regulator-impact-analysis.pdf
+
+Cost-effectiveness Analysis
+
+5
+
+3.0 2021 WSEC-R Analysis Results
+The following sections highlight the cost-effectiveness results and societal benefits of the
+combined proposals and updated R406 code language that make up the 2021 WSEC-R. The
+results consist of energy savings by fuel type, energy cost savings, construction costs, and life
+cycle savings, as well as the life cycle savings of SCC. Details on the simulations to determine
+the cost-effectiveness of each proposal can be found in the Final Cost-Benefit Analysis of Select
+2021 WSEC Residential Provisions submitted to the SBCC before this report.
+
+3.1 Analysis
+PNNL merged proposals 1-8 together and incorporated the latest Washington code language
+into one model and analyzed them as one overall code change by EnergyPlus simulation for
+cost-effectiveness assessment. For the cost-effectiveness analysis of the proposals reflecting
+the 2021 WSEC-R, the energy credit options used in the simulations are detailed for the
+baseline case and the updated case. The PNNL single-family prototypes representing the
+2021 WSEC-R have a total of 5.0 credits from section R406. The multifamily prototypes for the
+2021 WSEC-R have 261 credits due to heat pump water heating which far exceeds the
+commercial credit requirements of 41 for R-2 buildings in Table C406.1 of the 2021 WSEC-C.
+The PNNL prototypes representing the 2018 WSEC-R baseline cases have a total of 6.0
+credits and 4.5 credits for single-family and multifamily homes, respectively. The baseline
+2018 WSEC-R prototypes use all four HVAC system types, while the 2021 WSEC-R
+prototypes use only heat pump systems (space heating and water heating). The energy credit
+options and corresponding credits values listed in the tables correspond to Table R406.3—
+Energy Credits in the 2021 WSEC-R, and Table C406.2—Efficiency Measure Credits in the
+2021 Commercial Washington State Energy Code, (2021 WSEC-C). The additional efficiency
+options used for the 2018 and 2021 WSEC-R analyses for the baseline case and updated
+case are shown in Table 5 and Table 6.
+Table 5. Baseline Model Descriptions for the 2018 WSEC-R
+Credits
+
+Single-Family
+Fossil Fuel
+
+Fuel Normalization Table
+
+Single-Family
+Electric
+
+Multifamily
+Fossil Fuel
+
+1.0
+
+1.2 (Window 0.20 U-factor)
+
+1.0
+1.0
+
+1.6 (30% UA Reduction)
+
+2.0
+
+2.0
+
+2.1 (3.0 ACH50)
+
+0.5
+
+0.5
+
+3.1 (95 AFUE Furnace)
+
+1.0
+
+5.5 (NEEA Tier III HPWH)
+
+2.0
+
+2.0
+
+7.1 (ENERGY STAR Appliances)
+
+0.5
+
+0.5
+
+Total Credits
+
+6.0
+
+6.0
+
+Multifamily
+Electric
+1.0
+
+1.0
+2.5
+
+2.5
+
+4.5
+
+4.5
+
+AFUE: annual fuel utilization efficiency. HPWH: heat pump water heater. NEEA: Northwest Energy
+Efficiency Alliance. UA: envelope UA value. UEF: uniform energy factor.
+
+2021 WSEC-R Analysis Results
+
+6
+
+Table 6. Updated Model Descriptions for the 2021 WSEC-R/WSEC-C
+Credits
+
+Single-Family
+Electric
+
+Multifamily
+Electric
+
+Fuel Normalization Table
+1.4 (30% UA Reduction)
+
+1.5
+
+2.1 2.0 ACH50 + HRV 65% SRE
+
+0.5
+
+4.1 (Ducts in Conditioned Space)
+
+0.5
+
+5.4 (NEEA Tier III HPWH)
+
+2.0
+
+7.1 (ENERGY STAR Appliances)
+
+0.5
+261
+
+C406.2.6.3 (Heat Pump Water Heating)
+Total Credits
+
+5.0
+
+261
+
+3.2 2021 WSEC-R Overall Savings and Cost-Effectiveness
+For this analysis, the incremental costs for installing the code change proposals include the
+avoided cost of installing the gas infrastructure in the fossil fuel prototypes. The prototypes
+with electric space heating and electric water heating are fully electric and do not have any
+gas infrastructure as part of the model. As a result, construction costs for the electric heating
+systems do not include the avoided cost of installing the gas infrastructure because the
+baseline is already fully electric. The $4,240 (single-family) and $3,151 (multifamily)
+incremental cost to install a heat pump applies only to the fossil fuel and electric furnace
+scenarios. It does not apply to the heat pump scenario because both the baseline and updated
+code models use a heat pump. The construction costs used for the complete 2021 WSEC-R
+analysis are shown below.
+Single-Family Construction Costs:
+• Install Heat Pump:
+• Remove 95 AFUE Furnace:
+• Remove Air Conditioner:
+• Avoided Gas Infrastructure:
+• Upgrade Electric Service:
+• Reduce Air Leakage to 2.0 ACH50
+• Install HRV with 65% SRE
+• Updated envelope efficiency
+• Fossil Fuel Prototype Construction Costs:
+• Electric Furnace Prototype Construction Costs:
+• Heat Pump Prototype Construction Costs:
+
+1
+
+$4,240
+$(3,633)
+$(1,133)
+$(2,300)1
+$7001
+$1,511
+$1,500
+$1,508
+$2,394
+$2,394
+$2,919
+
+https://www.swenergy.org/pubs/heat-pump-study-2022
+
+2021 WSEC-R Analysis Results
+
+7
+
+Multifamily Construction Costs:
+• Install Heat Pump:
+$3,151
+• Remove 95 AFUE Furnace:
+$(1,891)
+• Remove Air Conditioner:
+$(1,065)
+• Avoided Gas Infrastructure:
+$(2,300)1
+• Upgrade Electric Service:
+$7001
+• Window Change (U-factor 0.2 to 0.26):
+$(100)
+• Wood Frame Wall R-Value Change (R-21 to R-20+3.8):
+$(215)
+• Below Grade Wall R-Value Change (R21+5 to R-20+3.8):
+$(160)
+• Infiltration Change (5 ACH50 to 4 ACH50):
+$315
+• Duct Leakage Change (4 CFM25/100 sq ft to 8 CFM25/100 sq ft): $(161)
+• HRV with 60% Sensible Recovery Efficiency
+$1,040
+• Fossil Fuel Prototype Construction Costs:
+$106
+• Electric Furnace Prototype Construction Costs:
+$1,485
+• Heat Pump Prototype Construction Costs:
+$1,290
+
+This cost-effectiveness analysis shows that the 2021 WSEC-R amendments to the 2018
+WSEC-R will yield substantial energy and LCC savings. The individual consumer impact of the
+2021 WSEC-R is reduced annual energy costs of $170, resulting in $5,927 in additional lifecycle benefits from energy cost savings and SCC savings when compared to the 2018 WSECR. LCC savings are $4,568 and LCC savings of the SCC are $1,359. The 2021 WSEC-R does
+increase the energy use and cost of electricity due to the code provisions requiring space
+heating and SWH be electric. The life-cycle analysis results are shown in Table 7.
+Table 7. Consumer Impact of Combined Proposals for the 2021 WSEC-R
+Metric
+Annual (first year) energy cost savings ($)
+LCC savings ($)
+SCC LCC savings ($)
+Total LCC savings ($)
+Added construction cost ($)
+First year carbon emissions savings (tons)
+Simple payback period (yrs)
+Annual electric savings (kWh)
+Annual gas savings (therms)
+Annual fuel oil savings (gallons)
+
+1
+
+Compared to the 2018 WSEC-R
+$170
+$4,568
+$1,359
+$5,927
+$471
+30.5
+2.8
+–915
+243
+0.47
+
+https://www.swenergy.org/pubs/heat-pump-study-2022
+
+2021 WSEC-R Analysis Results
+
+8
+
+3.3 2021 WSEC-R Greenhouse Gas Emissions Reductions
+The 2021 WSEC-R will result in statewide societal benefits such as cost savings, reduced
+greenhouse gas emissions, and job creation. Shown in Table 8, Washington residents could
+expect to save over $2 billion in energy costs and reduce statewide CO2e emissions over 30
+years by 17,050,000 metric tons, equivalent to the annual CO2e emissions of 3,708,000 cars on
+the road (1 MMT CO2 = 217,480 cars driven/year).
+Table 8. 2021 WSEC-R Societal Benefits
+Statewide Impact
+Energy cost savings, $
+
+First Year
+5,739,000
+
+30 Years Cumulative
+2,005,000,000
+
+CO2e emission reduction, metric tons
+
+36,900
+
+17,050,000
+
+3.4 2021 WSEC-R Jobs Impacts
+Energy-efficient building codes impact job creation through two primary value streams:
+1. Dollars returned to the economy through reduction in utility bills and resulting increase in
+disposable income, and;
+2. An increase in construction-related activities associated with the incremental cost of
+construction that is required to produce a more energy efficient building.
+When a building is built to a more stringent energy code, there is the long-term benefit of the
+ratepayer paying lower utility bills.
+•
+
+This is partially offset by the increased cost of that efficiency, establishing a relationship
+between increased building energy efficiency and additional investments in construction
+activity.
+
+•
+
+Since building codes are cost-effective, (i.e., the savings outweigh the investment), a
+real and permanent increase in wealth occurs that can be spent on other goods and
+services in the economy, just like any other income, generating economic benefits and
+creating additional employment opportunities.
+
+Updating the Washington State energy code to the 2021 WSEC-R will also stimulate the
+creation of high-quality jobs across the state. As outlined in Table 9, the impact on utility bills
+and construction-related activities from adopting the 2021 WSEC-R will lead to over 10,000 jobs
+created in Washington over the next 30 years.
+
+2021 WSEC-R Analysis Results
+
+9
+
+Table 9. Impact of the 2021 WSEC-R on Washington State Jobs
+Statewide Impact
+Jobs created due to construction-related activities and
+reduced utility bills
+
+First Year
+365
+
+30 Years Cumulative
+10,300
+
+3.5 2021 WSEC-R Percent Reduction in Energy Use over 2006
+WSEC-R
+As shown in Table 10 on the following page, the simulated energy use index for the 2018
+WSEC-R compared to the 2006 WSEC-R is 60.5%. The energy use index of 60.5% indicates
+that the 2018 WSEC-R is 39.5% more efficient than the 2006 WSEC-R. This data is based on
+prior analyses by Ecotope and O’Brien360.
+Based on the current analysis conducted by PNNL comparing the 2021 WSEC-R to the 2018
+WSEC-R, the statewide weighted average whole building energy savings of 2021 WSEC-R
+relative to 2018 WSEC-R is 38.5%. Multiplying the 60.5% energy use index (2018 WSEC-R
+compared to 2006 WSEC-R) with the 38.5% savings (2021 WSEC-R relative to 2018 WSEC-R)
+yields a 23.3% reduction over the 2018 WSEC-R energy use index. The 2018 WSEC-R energy
+use index of 60.5% minus the 23.3% reduction yields the new 2021 WSEC-R energy use index
+of 37.2% relative to the 2006 WSEC-R.
+In other words, a newly constructed residential building that minimally complies with the 2021
+WSEC-R is expected to have 37.2% energy use intensity compared to a building that minimally
+complies with the 2006 WSEC-R, assuming in this example the building’s energy use matches
+the statewide weighted average energy use. This means that the new residential building will
+use 62.8% less energy than a home built to the provisions of the 2006 WSEC-R. Table 10 on
+the following page shows the current 2021 WSEC-R energy use index compared to previous
+editions of the WSEC.
+
+2021 WSEC-R Analysis Results
+
+10
+
+Table 10. 2021 WSEC-R Energy Use Index
+
+2021 WSEC-R Analysis Results
+
+11
+
+4.0 Individual Proposal Analyses (Qualitative)
+In this section, the cost-effectiveness analyses conducted for 2021 WSEC-R code change
+proposals 9 through 18 by the proponents are reviewed to determine if the quantification of
+energy and cost savings are plausible. This qualitative review is for the 2021 WSEC-R code
+change proposals that cannot be analyzed by simulation because they fit outside the normal
+functions of the PNNL prototype buildings and infrastructure. The reviews take a qualitative look
+at the cost-benefit analysis provided by the code change proponents and provide feedback if
+any necessary changes are required.
+
+4.1 Proposal 9: Additions (21-GP2-073 – review only)
+Proposal 21-GP2-073 for home additions adds an exemption that could be used by the authority
+having jurisdiction (AHJ) when a small addition has an undue burden (cost incurred by structural
+hindrances, real-life practicality of install, or overly costly requirements with little to no benefit)
+trying to achieve the R406.2 or R406.3 credit requirements.
+
+4.1.1
+
+Proposed Code Language for Additions
+
+R502.1 General. Additions to an existing building, building system, or portion thereof shall
+conform to the provisions of this code because those provisions relate to new construction
+without requiring the unaltered portion of the existing building or building system to comply with
+this code except as specified in this chapter. Additions shall not create unsafe or hazardous
+conditions or overload existing building systems. An addition shall be deemed compliant with
+this code when the addition alone complies, when the existing building and addition comply with
+this code as a single building, or when the building with the addition uses no more energy than
+the existing building. Additions shall be in accordance with Section R502.1.1 or R502.1.2.
+R502.1.1 Small additions. Additions not greater than 150 square feet (13.9 m2) shall not be
+required to comply with Section R406.
+R502.3 Prescriptive compliance. Additions shall comply with Sections R502.3.1 through
+R502.3.4.
+R502.3.1 Building envelope. New building envelope assemblies that are part of the
+addition shall comply with Sections R402.1, R402.2, R402.3.1 through R402.3.5, and
+R402.4.
+R502.3.1.1 Existing ceilings with attic spaces. Where an addition greater than 150
+square feet (13.9 m2) adjoins existing ceilings with attic spaces, the existing attic spaces
+shall comply with Section R402.
+R502.3.2 Heating and cooling systems. HVAC ducts newly installed as part of an addition
+shall comply with Section R403.
+Exception: The following need not comply with the testing requirements of Section R403.3.3:
+1. Additions of less than 150 square feet.
+2. Duct systems that are documented to have been previously sealed as confirmed through
+field verification and diagnostic testing in accordance with procedures in WSU RS-33.
+3. Existing duct systems constructed, insulated, or sealed with asbestos.
+
+Individual Proposal Analyses (Qualitative)
+
+12
+
+4.1.2
+
+Review
+
+The code change proposal mentions that there would be no cost impact to exempt additions
+less than or equal to 150 sq ft (13.9 m2) from the additional credit requirements. The purpose of
+the exemption is to alleviate cost burdens of Section R406 additional efficiency credits for very
+small additions. For very small projects (additions) with minimal impact on energy use, requiring
+additional efficiency items would prove an undue financial burden on the homeowners. The
+potential costs of the additional efficiency requirements could potentially be much larger than
+the cost of the addition itself. In effect, this proposal would result in overall cost savings without
+the requirement of the additional R406 efficiency credits.
+For the 2021 WSEC-R, an addition between 100 and 500 sq ft would require 2 credits of
+additional efficiency built in for the entire home.
+The following are energy credit examples from Table R406.3 and associated potential
+construction costs:
+• Option 1.6: 30% UA reduction in the envelope insulation ($5,000)
+• Option 2.3: Reduced air leakage to 0.6 ACH50 ($3,600)
+• Option 3.6: Ductless minisplit system ($3,060)
+• Option 5.4: NEEA Tier III hot water heating system ($1,900)
+Each of the above examples would result in a significant cost for a small (150 sq ft or less)
+addition to a home. The cost savings of not requiring additional efficiency would be substantial.
+The proposal to add an exemption from the additional efficiency requirements for small
+additions appears valid because those costs could overshadow the costs of the addition itself.
+An additional benefit of this code change proposal is less inspection time and permitting
+requirements for the AHJ. To run a cost-effectiveness analysis of residential additions to a home
+is outside the scope of the PNNL residential infrastructure and was not analyzed through
+simulation.
+
+4.2 Proposal 10: Testing Agency Certification (21-GP2-088 – review
+only)
+In the 2018 WSEC-R, any code official may require that air leakage testing be conducted by a
+third-party testing agency. Code change proposal 21-GP2-088 for testing agency certification
+improves the quality and consistency of the third-party testing agency by specifying the
+minimum credentials that testing agencies must have. To improve accuracy and accountability,
+this proposal also requires that the testing report include location verification and a time stamp
+of the date of the air leakage test.
+
+4.2.1
+
+Testing Agency Certification Proposed Code Language
+
+R402.4.1.2 Testing. The building or dwelling unit shall be tested for air leakage. The maximum
+air leakage rate for any building or dwelling unit under any compliance path shall not exceed 5.0
+air changes per hour. Testing shall be conducted with a blower door at a pressure of 0.2 inches
+w.g. (50 pascals). For this test only, the volume of the home shall be the conditioned floor area
+in ft2 (m2) multiplied by 8.5 feet (2.6 m). Where required by the code official, air leakage testing
+shall be conducted by an approved third party. A written report of the test results, including
+
+Individual Proposal Analyses (Qualitative)
+
+13
+
+verified location and time stamp of the date of the test, shall be signed by the testing agency
+and provided to the building owner and code official. Testing shall be performed at any time
+after creation of all penetrations of the building thermal envelope. Once visual inspection has
+confirmed that air sealing has been conducted in accordance with Table R402.4.1.1, operable
+windows and doors manufactured by a small business are permitted to be sealed off at the
+frame before the test.
+Testing of single-family dwellings and townhouses shall be conducted in accordance with
+RESNET/ICC 380. The test pressure and leakage rate shall comply with Section R402.4.1.3.
+For Group R-2 occupancies, testing shall be conducted in accordance with ASTM E779, ASTM
+E1827, or ASTM E3158. The individual performing the air leakage test shall be trained and
+certified by a certification body that is, at the time of permit application, an ISO 17024 accredited
+certification body, including but not limited to the Air Barrier Association of America.
+
+4.2.2
+
+Review
+
+Proposal 21-GP2-088 for air leakage testing agency certification is primarily editorial in nature to
+improve the quality and consistency of the third-party testing agency’s credentials. No
+assumption is made that clarifying the third-party testing qualifications would improve the air
+tightness of the home or the accuracy of the testing results. Simulation analysis would assume
+that the home meets the air sealing and testing requirements of Section R402.4.1.2 and that as
+a result, no energy or cost impacts would occur. This proposal would have no simulated energy
+impact.
+
+4.3 Proposal 11: Service Water Heating Circulation Control (21-GP2071 – review only)
+Code change proposal 21-GP2-071 for service water heating (SWH) circulation control aims to
+reduce the amount of energy required to maintain prompt delivery of service hot water to
+plumbing fixtures by optimizing the circulation system pump controls. The purpose of an SWH
+circulation system is to reduce the amount of time required to provide hot water to the furthest
+fixture. However, controls are needed to minimize circulation pump operation when there is no
+demand for hot water. This is particularly important in buildings with a central SWH system.
+This proposal requires electronically commutated motors (ECMs) for SWH circulation pumps in
+Group R-2 buildings where a central SWH system serves multiple dwelling units. Circulation
+pumps with ECMs offer improved energy savings compared to circulation pumps with standard
+induction motors. The ECM motor requirement aligns with the 2021 WSEC-C requirements. In
+addition, this proposal requires that the system return pipe in a circulation system be a
+dedicated return pipe rather than a cold-water pipe to reduce heat energy loss in the system.
+
+4.3.1
+
+Service Water Heating Circulation Control Proposed Code Language
+
+R403.5.1 Heated water circulation and temperature maintenance systems. Heated water
+circulation systems shall be in accordance with Section R403.5.1.1. Heat trace temperature
+maintenance systems shall be in accordance with Section R403.5.1.2. Automatic controls,
+temperature sensors, and pumps shall be in an accessible location. Manual controls shall be in
+a readily accessible location.
+
+Individual Proposal Analyses (Qualitative)
+
+14
+
+R403.5.1.1 Circulation systems. Heated water circulation systems shall be provided with a
+circulation pump. The system return pipe shall be a dedicated return pipe. Gravity and
+thermosiphon circulation systems are prohibited. Controls shall automatically turn off the
+circulation pump when the water in the circulation loop is at the desired temperature and
+when there is no demand for hot water.
+R403.5.1.1.1 Demand recirculation water systems serving an individual dwelling
+unit. Where installed, demand recirculation water systems shall have controls that start
+the pump upon receiving a signal from the action of a fixture or appliance user, sensing
+the presence of a fixture user, or sensing the flow of hot or tempered water to a fixture
+fitting or appliance.
+
+4.3.2
+
+Review
+
+The proponent of the SWH circulation control proposal states that one of the purposes of the
+proposed code language is to require ECMs in circulation pumps in Group R-2 buildings.
+However, the code change proposal contains no language toward requiring ECMs for the
+circulation pumps. The only significant code change with this proposal is removing the
+allowance of the cold-water supply pipe as an option for a return pipe. The remainder of the
+code change proposal was editorial. The proponent claims that having ECM motors in the
+circulation pumps will save 120 kWh/year due to the increased motor efficiency with an
+estimated 4,000 hours of operation. While the circulation pump motor energy savings based on
+the hours of pump operation is correct, the hours of operation seem excessive given the level of
+control required in the energy code. This assumption would mean the pumps run 11 hours per
+day every day of the year. Without any control, a circulation pump will run 8,760 hours per year.
+While there is no standard or measure of average circulation pump operational time, better
+circulation controls will reduce circulation pump and water heating time.
+The proponent claims that the incremental first cost for a circulation pump with an ECM motor is
+$250, which appears to be a correct assumption. There are many circulation pumps for
+residential hot water circulation on the market in the $300 range. It is not clear if the ECM
+requirement was overlooked in the code proposal or removed accidentally. Given the claim that
+ECM motors save 20% over a standard induction motor, the energy savings generated would
+be higher if the motor had a longer operational time, which the circulation controls will work to
+reduce. Given the small pump energy savings of the ECM motor for the circulation pump and
+improved circulation control, there will be energy savings compared to a standard induction
+motor without circulation control. However, there appears to be no ECM motor requirement in
+the code change proposal, so savings will only occur from circulation control.
+Per consultation with members of the PNNL Appliance Standards team, the claim that a
+dedicated hot water return pipe in a circulation system can reduce heat energy loss versus
+allowing a cold-water pipe to be used as the return is true. The heat loss reduction would be
+small and may not make a sufficient difference in energy use for service hot water. Calculating
+the savings could be complicated because there are many variables to consider in a residential
+setting, such as hot water demand profiles, fixture flow rates, and pipe length to the furthest
+fixture. Finally, allowing tepid water to flow into the domestic cold-water supply pipes could
+contribute to Legionella growth and introduction of dissolved metals from the hot water heater
+into the cold-water supply distribution piping.
+
+Individual Proposal Analyses (Qualitative)
+
+15
+
+4.4 Proposal 12: Energy Credit Options 3.1 and 3.2 (21-GP2-034 –
+review only)
+Code change proposal 21-GP2-034 provides a new connected thermostat credit option (Option
+3.7) for Table R406.3—Energy Credits in the 2021 WSEC-R. Option 3.7 of the High Efficiency
+HVAC Equipment Options section rewards a connected thermostat with 0.5 energy credits.
+Connected thermostat credit savings apply to gas furnaces (natural gas or propane) and central
+hydronic boiler systems (Option 3.1), as well as central ducted forced air heat pumps (Option
+3.2). The connected thermostat must be on the ENERGY STAR Certified Smart Thermostats
+list.1
+The proponent of this code change proposal makes the following claims:
+• Provides additional options for saving energy that are cost-effective (4-year simple payback)
+• Provides builder and occupant flexibility to meet energy credits.
+• Improves HVAC contractor compliance with R403.1 controls.
+• Reduces AHJ workload.
+The proponent provides additional benefits for occupant, utility, and climate goals related to the
+following:
+• Utility demand response.
+• HVAC fault detection.
+• Occupant and/or service technician maintenance and operation.
+• IoT platform for saving additional energy from:
+–
+
+Miscellaneous electric loads, ground fault interrupters, garage doors, smart plugs.
+
+–
+
+Lighting.
+
+–
+
+Appliances.
+
+–
+
+Smart ventilation.
+
+–
+
+Shutting off equipment besides HVAC when not needed (daily, weekly, or vacation
+modes).
+
+4.4.1
+
+Energy Credit Options 3.1 and 3.2 Proposed Code Language
+
+New Definition:
+CONNECTED THERMOSTAT. An internet-enabled device that automatically adjusts heating
+and cooling temperature settings.
+
+1
+
+https://www.energystar.gov/productfinder/product/certified-connected-thermostats/results
+
+Individual Proposal Analyses (Qualitative)
+
+16
+
+3.7b Connected thermostat meeting ENERGY STAR Certified Smart Thermostats | EPA
+ENERGY STAR specifications
+0.5
+0.5
+Footnote b: Option 3.7 can only be taken with Options 3.1 and 3.2.
+
+4.4.2
+
+Review
+
+The proponent stated that ENERGY STAR connected thermostats cost about $200 (after 35%
+markup from the contractor to the owner) which matches cost estimates from a PNNL technical
+brief: Demand Response in Residential Energy Code.1 ENERGY STAR claims that connected
+thermostats will save 8% on heating and cooling bills or $50 per year.2 According to the
+ENERGY STAR page for connected thermostats:
+“Savings from ENERGY STAR smart thermostats and the test method used to determine
+these savings are closely tied together. Together with interested stakeholders, EPA created
+a repeatable test procedure that determines whether or not a smart thermostat meets a
+minimum threshold of HVAC savings (e.g., percent runtime reductions) compared to the
+installed base of all other thermostats in the United States. The test method defines an
+auditable process to select a sample of homes spread across the country. It also specifies
+how to use EPA-provided software to analyze a year of data from each sample home and to
+aggregate the data from all homes. The results are submitted to a third-party certification
+body. This process ensures that savings aren’t simply the effects of regional overrepresentation. ENERGY STAR smart thermostats save energy – regardless of climate
+zone.”
+According to the proponent, consumer annual savings are expected to be roughly $30–
+$60/year, giving a simple payback between 4 to 8 years over a 15-year useful life. Based on
+ENERGY STAR expected savings with a connected thermostat, these results are plausible.
+Additional heat pump savings from connected thermostats can be realized from improved
+supplemental electric resistance heat lockout controls above 35 °F. AHJ field verifications
+1
+2
+
+https://www.energycodes.gov/sites/default/files/2021-10/TechBrief_GEB_Oct2021.pdf
+https://www.energystar.gov/products/heating_cooling/smart_thermostats/smart_thermostat_faq
+
+Individual Proposal Analyses (Qualitative)
+
+17
+
+typically do not include the scope of verifying the control settings. In addition, many HVAC
+contractors do not adjust from non-lockout electric resistance mode to lockout controls above
+35 °F mode. The lockout control algorithms in many EPA connected thermostats will result in
+more realized savings for single-speed heat pumps with 10–15 kW of strip heat. There will be
+no time impact for the AHJs, who typically do not have time to verify if a connected thermostat is
+in place.
+
+4.5 Proposal 13: Cold Climate Heat Pump – Table R406.3 Option 3.2
+(21-GP2-023)
+Code change proposal 21-GP2-023 requires the installation of a cold climate heat pump in
+areas where the winter design temperature is less than 23 °F to claim credit for R406.3 Option
+3.2 for centrally ducted heat pumps. If the home is constructed in a colder climate zone, it must
+install a Northeast Energy Efficiency Partnership (NEEP) qualified cold climate heat pump.
+Using cold climate heat pumps can significantly reduce electric consumption over standard heat
+pumps with strip heat supplemental systems. This change will encourage the use of cold climate
+heat pumps and reduce the need for large supplemental heat systems with heat pumps.
+
+4.5.1
+
+Cold Climate Heat Pump Option 3.2 Proposed Code Language
+
+3.2a Air-source centrally ducted heat pump with a minimum HSPF of 9.5. In areas where the
+winter design temperature as specified in WAC 51-11C-80100 is 23 °F or below, a cold climate
+heat pump found on the NEEP code climate ASHP qualified product list shall be used. NEEP
+cold climate heat pump list can be found here: https://neep.org/heatingelectrification/ccashpspecification-product-list.
+To qualify to claim this credit, the building permit drawings shall specify the option being
+selected and shall specify the heating equipment type, and the minimum equipment efficiency.
+a. An alternative heating source sized at a maximum of 0.5 watts/ft2 (equivalent) of heated floor area or 500 watts,
+whichever is bigger, may be installed in the dwelling unit.
+
+4.5.2
+
+Review
+
+The original code change proposal allowed a 9.0 HSPF cold climate heat pump to qualify for the
+Option 3.2 credit, which requires a 9.5 HSPF standard heat pump. The final version of the
+proposal requires a 9.5 HSPF cold climate heat pump in regions where the winter design
+temperature is less than 23 °F. According to NEEPs Cold Climate Air Source Heat Pump
+Specification (Version 4.0),1 a central air-conditioning heat pump must have a COP greater than
+or equal to 1.75 at 5 °F during maximum capacity operation. A cold climate heat pump will serve
+space heating from the compressor at lower temperatures than the standard heat pump and
+thus use less electric backup resistance heat.
+The proponent claimed that the incremental cost of switching from a 9.5 HSPF standard heat
+pump to a cold climate heat pump at 9.0 HSPF would be less than $1,000. The proponent also
+claimed that cold climate heat pumps do not need electric resistance backup heat (estimated
+cost: $550 for material and labor), an electrical connection for strip heat (estimated cost: $200
+for material and labor), or a strip heat lock out kit (estimated cost: $250 for material and labor).
+1
+
+https://neep.org/sites/default/files/media-files/cold_climate_air_source_heat_pump_specification__version_4.0_final.pdf
+
+Individual Proposal Analyses (Qualitative)
+
+18
+
+Total estimated savings from avoided accessories with a cold climate heat pump total $1,000.
+The net cost increase to go from a standard heat pump plus supplemental accessories to a cold
+climate heat pump that does not require these accessories is estimated at less than $1,000 per
+dwelling (≤ $2,000 increased cost for cold climate heat pump minus $1,000 avoided accessory
+cost for supplemental heat accessories). The proponent is not clear on whether the incremental
+cost is due to switching from a 9.5 HSPF to a 9.0 HSPF cold climate heat pump or switching to
+an equal-efficiency cold climate heat pump. Even though a cold climate heat pump will have
+higher capacities at lower air temperatures than a standard heat pump, there will be insufficient
+heating capacity to meet the heating load. Thus, completely removing the backup heating
+system would be inadvisable. The incremental construction costs seem plausible, but it is
+advisable to estimate the incremental cost at $2000 to cover the electric backup resistance
+heating.
+The original cost-effectiveness analysis conducted by the proponent showed that a 9.0 HSPF
+cold climate heat pump would save $410 in electric costs from removing electric resistance
+backup heating alone. No simulated or estimated operational cost savings from the heat pump
+compressors were submitted. While it may be possible to reduce the electric resistance backup
+heating for a cold climate heat pump, it would not be advisable to remove it completely. As a
+result, cost savings from a smaller-capacity electric resistance system would be lower than the
+estimated $410. PNNL conducted a simulation analysis comparing a 9.5 HSPF standard heat
+pump to a 9.5 HSPF cold climate heat pump in climate zone 5B. The cold climate heat pump
+utilized performance curves developed by Oak Ridge National Laboratory (ORNL) based on
+performance data from market-available heat pumps. The results (aggregated over all
+foundation types) showed the cold climate heat pump reduced total energy use in a singlefamily home by 14.1% and in a multifamily dwelling unit by 5.5%. This equates to electric annual
+energy savings of 2,377 kWh and annual energy cost savings of $230 for a single-family home,
+and annual energy savings of 484 kWh and cost savings of $48 for a multifamily dwelling unit.
+The cold climate heat pump saved over 37% of heating energy in the single-family home
+because more heating was served by the compressor than by the electric resistance backup
+heating. The multifamily dwelling unit showed annual heating energy reduction of 24% with a
+cold climate heat pump. The residential simulation infrastructure does not have the ability to
+aggregate electric backup heating consumption, but one case showed that the standard heat
+pump used 5,200 kWh of backup heating while the cold climate heat pump backup heat
+consumed only 51 kWh in a single-family home.
+The electric resistance heating capacity in the simulation models were auto-sized by
+EnergyPlus based on climate and compressor capacity. As a result, both heat pumps had the
+same size electric backup heating capacity due to similar sized heat pumps and the same
+climate. Because the cold climate heat pump could supply more heating capacity at lower air
+temperatures, it ran the electric resistance heating less frequently than the standard heat pump.
+Cold climate heat pump savings will occur from more efficient compressor operation at lower
+temperatures as well as reduced backup resistance heating consumption.
+
+4.6 Proposal 14: Cold Climate Heat Pump – Table R406.3 Option 3.5
+(21-GP2-024)
+Code change proposal 21-GP2-024 requires the installation of a NEEP-listed cold climate heat
+pump rated at 10.0 HSPF to obtain additional efficiency credits for Option 3.5 in areas with a
+heating design temperature below 23 °F. Option 3.5 of Table R406.3 mandates a standard
+centrally ducted air-source heat pump with an HSPF of 11.0. The use of cold climate heat
+
+Individual Proposal Analyses (Qualitative)
+
+19
+
+pumps can significantly reduce electric consumption over standard heat pumps with strip heat
+supplemental systems. Cold climate heat pumps have slightly lower HSPF ratings due to defrost
+cycles and base pan heaters. This change will encourage the use of cold climate heat pumps
+and reduce the need for large supplemental heat systems with standard centrally ducted airsource heat pumps.
+
+4.6.1
+
+Cold Climate Heat Pump Option 3.5 Proposed Code Language
+
+Option 3.5a: Air-source centrally ducted heat pump with minimum HSPF of 11.0. In areas where
+the winter design temperature as specified in WAC 51-11C-80100 is 23 °F or below, an airsource heat pump serving a centrally ducted system shall be a cold climate variable capacity
+heat pump as defined in the NEEP cold climate heat pump list, with a minimum HSPF of 10.0.
+To qualify to claim this credit, the building permit drawings shall specify the option being
+selected and shall specify the heating equipment type and the minimum equipment efficiency.
+a. An alternative heating source sized at a maximum of 0.5 watts/ft2 (equivalent) of heated floor area or 500 watts,
+whichever is bigger, may be installed in the dwelling unit.
+
+4.6.2
+
+Review
+
+This review shows similar results to those for code change proposal 21-GP2-023 for a 9.5
+HSPF cold climate heat pump. For this case, the proponent claims that the incremental cost of
+switching from an 11.0 HSPF standard air-source heat pump to a cold climate heat pump of
+10.0 HSPF is less than $2,500. The proponent also claimed that cold climate heat pumps do not
+require electric resistance backup heat (estimated cost: $550 for material and labor), electrical
+connections for strip heat (estimated cost: $200 material and labor), or strip heat lock out kits
+(estimated cost: $250 material and labor). Total estimated savings from avoided electric backup
+heating accessories with a cold climate heat pump are $1,000. Net cost increase to go from a
+standard heat pump plus supplemental accessories to a cold climate heat pump that does not
+require these accessories is estimated to be less than $1,500 per dwelling unit (≤ $2,500
+increased cost for a cold climate heat pump minus $1,000 avoided accessory cost for
+supplemental heat accessories). The incremental costs seem plausible, but it is better to
+estimate the incremental cost of a cold climate heat pump at $2,500 to cover the electric backup
+resistance heating.
+The cost-benefit analysis conducted by the proponent showed that a 10.0 HSPF cold climate
+heat pump would save $410 in annual electric costs by removing electric resistance backup
+heat. While it may be feasible to reduce the electric resistance backup heating for a cold climate
+heat pump, it would not be advisable to remove it completely. Based on the PNNL cold climate
+heat pump simulations described below, annual energy cost savings from the reduced use of
+the backup heating system are significant.
+PNNL conducted a simulation analysis comparing an 11.0 HSPF standard heat pump to a 10.0
+HSPF cold climate heat pump in climate zone 5B. The cold climate heat pumps utilized
+performance curves developed by ORNL based on performance data from market-available
+heat pumps. The results (aggregated over all foundation types) showed the cold climate heat
+pump reduced total energy use in a single-family home by 14.0% and a multifamily dwelling unit
+by 5.5%. This equates to annual electric energy savings of 2,365 kWh and annual energy cost
+savings of $228 for a single-family home, and annual energy savings of 475 kWh and cost
+savings of $46 for a multifamily dwelling unit. The cold climate heat pump saved over 38% of
+
+Individual Proposal Analyses (Qualitative)
+
+20
+
+annual heating energy in the single-family home because more space heating was served by
+the compressor than by the electric resistance backup heat. The multifamily dwelling unit
+showed annual heating energy reduction of 24.1% with a cold climate heat pump.
+The residential simulation infrastructure does not have the ability to aggregate electric backup
+heating consumption. However, one case showed the standard heat pump used 5,199 kWh of
+backup heating while the cold climate heat pump backup consumed only 51 kWh in a singlefamily home. These results matched up closely with those from proposal 13 because they had
+the same electric resistance backup heat and compressor capacities but different seasonal
+efficiencies.
+
+4.7 Proposal 15: Cold Climate Heat Pump – Table R406.3 Option 3.6
+(21-GP2-025 – review only)
+Code change proposal 21-GP2-025 provides an exception to Table R406.3 Option 3.6 for
+ductless minisplit systems to allow smaller multi-zone minisplit systems to be installed for
+dwelling units with a design heat load less than 24 kBtuh nominal. The current language for
+Option 3.6 requires a ductless minisplit system heat pump with no electric resistance and a
+minimum HSPF rating of 10. The code change proposal adds an exception for a home with a
+heating load of 24,000 Btuh, which can use a multi-zone minisplit system with a 9.0 HSPF for
+full credit.
+
+4.7.1
+
+Multi-Zone Minisplit Heat Pump Option 3.6 Proposed Code Language
+
+Option 3.6a: Ductless split system heat pumps with no electric resistance in the primary living
+areas. A ductless heat pump system with a minimum HSPF of 10 shall be sized and installed to
+provide heat to the entire dwelling unit at the design outdoor air temperature.
+Exception: In homes with total heating loads of 24,000 Btuh or less using multi-zone minisplit
+systems with nominal ratings of 24,000 Btuh or less, the minimum HSPF to claim this credit
+shall be 9 HSPF.
+a. An alternative heating source sized at a maximum of 0.5 watts/ft2 (equivalent) of heated floor area or 500 watts,
+whichever is bigger, may be installed in the dwelling unit.
+
+4.7.2
+
+Review
+
+In the reason statement for this code change proposal, the proponent claims that in the AirConditioning, Heating, and Refrigeration Institute (AHRI) database of multi-zone heat pump
+systems, all manufacturers have lower HSPF ratings for smaller-size multi-zone systems.
+Because smaller multi-zone minisplit systems have lower HSPF ratings, builders of small homes
+may consider using multiple single-zone systems to meet the 10 HSPF requirement. In many of
+these homes, small multi-zone systems are a better choice for cost-effective HVAC design.
+Some of these small homes with a design load under 24 kBtuh may not have adequate room to
+install multiple outdoor compressors. Installing multiple outdoor compressors will create a more
+expensive heat pump system due to increased material and labor costs. This code change will
+encourage small sustainable homes and cost-effective HVAC design with properly sized multizone minisplit systems.
+The proponent claims that material and labor costs for multi-zone minisplit installations on
+smaller homes may be lower than those for installing 2–4 single-zone minisplit systems. Each
+
+Individual Proposal Analyses (Qualitative)
+
+21
+
+additional outdoor unit installation has an approximate cost of $1,000 in material and labor
+(exclusive of the compressor costs). In this scenario, there would typically be 1–2 additional
+heat pump compressor installations avoided per small home by installing an appropriately sized
+multi-zone minisplit system. The avoided cost estimate would typically be $1,500 (1.5 × $1,000)
+in cost savings per average home.
+When comparing a multi-zone minisplit system at 9 HSPF to two single-zone minisplit systems,
+there is a negligible difference in energy use. However, in homes where there are three singlezone minisplit systems at 10 HSPF rather than a multi-zone minisplit system at 9 HSPF, there
+can be significant energy use advantages of using the multi-zone system. The energy use
+difference depends on where on the performance curves these systems operate during the
+year. Both systems might perform equally well given they are inverter-driven compressor
+systems that match the load of the building. Without direct energy simulation of each of these
+scenarios, it is difficult to prove the energy savings of the multi-zone system over the singlezone systems. The PNNL residential infrastructure is not capable of simulating multi-zone
+systems at this time. However, the argument that a multi-zone system would have a lower
+construction cost than multiple single-zone minisplit systems is plausible. It is possible that the
+multi-zone system would have more piping costs, but having one compressor is a cost saver. A
+home with a total design heating load of 24 kBtuh will not consume much heating energy, so
+savings might be minimal no matter how many single-zone minisplit systems are considered or
+installed.
+
+4.8 Proposal 16: R406 Option 3.7 (21-GP2-050 – review only)
+Code change proposal 21-GP2-050 adds a new additional efficiency option for air-to-water heat
+pumps rated with a COP. The code change proposal creates a new Table R406.3 Option 3.7 for
+an air-to-water heat pump with a minimum COP of 3.2 at 47 °F in accordance with AHRI
+Standard 550/590. The purpose behind the code change is to remove the current barrier for
+high-efficiency cold climate air-to-water heat pumps in residential sizes. These units are
+currently excluded from achieving Option 3 credits despite their high efficiency because they are
+only rated using COP. The COP efficiency allows credit for air-to-water heat pumps that are not
+rated with an HSPF. The new Option 3.7 rewards 1.5 credits for an air-to-water heat pump that
+meets the minimum COP requirement.
+
+4.8.1
+
+R406 Option 3.6 Proposed Code Language
+
+Option 3.: Air-to-water heat pump with a minimum COP of 3.2 at 47 °F, rated in accordance
+with AHRI 550/590 by an accredited or certified testing lab. 1.5 credits.
+
+4.8.2
+
+Review
+
+The proponent claims energy savings could be achieved regionally by removing the current
+barrier to high-efficiency cold climate air-to-water heat pumps (reverse chillers) in residential
+sizes. These units are currently excluded from achieving Option 3 credits despite their high
+efficiency because of the requirement for an HSPF rating. This provides a high-efficiency
+electric option for homeowners wanting a hydronic, radiant system when natural gas is not
+available.
+
+Individual Proposal Analyses (Qualitative)
+
+22
+
+The proponent provided unit costs for various sizes of cold climate air-to-water heat pumps per
+the Arctic Energy website, which shows first costs between $4,000 and $6,000.1 The standard
+electric resistance boiler used as a baseline can be in the range of $2,000–3,000 for similar
+sizes. This gives an incremental cost for the air-to-water heat pump of roughly $2,500. Given
+that the air-to-water heat pump would also cover cooling, construction costs would be reduced
+for the installation of an air conditioner.
+The proponent utilized an hourly UA load analysis (Q = UA x (Tin – Tout)) to estimate an energy
+savings of 5.8 kWh per square foot of floor area. For a 2,376 square foot home, this would
+equate to 13,780 kWh of energy savings. The PNNL prototype models do not include air-towater heat pump hydronic systems. However, the electric resistance furnace prototype (fully
+electric), which operates with a COP of 1.0 (similar to an electric boiler), consumes an average
+of 15,360 kWh annually in Washington climate zones. The space heating electric consumption
+is 4,034 kWh—switching to an air-to-water heat pump system with a COP of 3.2 would thus
+save approximately 2,700 kWh per year. This is far from the proponent’s estimate of 13,780
+kWh in savings for a single-family prototype. The 2,700 kWh energy savings equates to $261 of
+annual energy cost savings.
+While the electric savings claimed by the proponent might be overstated, the energy savings of
+2,700 kWh and corresponding annual energy cost savings of $261 over an electric boiler are
+substantial. Any air-to-water heat pump with a COP greater than 3.2 would generate additional
+energy savings. This proposal makes economic sense and removes a barrier to allowing air-towater heat pumps with efficiencies rated using COP.
+
+1
+
+https://www.arcticheatpumps.com/buy-cold-climate-heat-pump/heat-pumps-evi-low-temp.html
+
+Individual Proposal Analyses (Qualitative)
+
+23
+
+5.0 References
+Census 2010 – U.S. Census. 2010. Characteristics of New Housing. U.S. Census Bureau,
+Washington, D.C. Available at http://www.census.gov/construction/chars/completed.html
+NAHB – National Association of Home Builders. 2009. Builder Practices Reports. National
+Association of Home Builders, Upper Marlboro, Maryland. Available at
+http://www.homeinnovation.com/trends_and_reports/data/new_construction
+RECS – Residential Energy Consumption Survey. 2013. 2009 RECS Survey Data. U.S. Energy
+Information Administration. Washington D.C. Available at
+https://www.eia.gov/consumption/residential/data/2009/
+RESNET/ICC 380. 2019. Standard for Testing Airtightness of Building, Dwelling Unit, and
+Sleeping Unit Enclosures; Airtightness of Heating and Cooling Air Distribution Systems; and
+Airflow of Mechanical Ventilation Systems. International Code Council, Country Club Hills, IL.
+https://www.resnet.us/wp-content/uploads/ANSIRESNETICC_3802019_vf1.24.19_cover%5E0TOC-2.pdf
+Salcido V. Robert, Y Chen, Y Xie and ZT Taylor. 2021. National Cost Effectiveness of the
+Residential Provisions of the 2021 IECC. Pacific Northwest National Laboratory, Richland,
+Washington. Available at https://www.energycodes.gov/sites/default/files/202107/2021IECC_CostEffectiveness_Final_Residential.pdf
+Taylor ZT, VV Mendon, and N Fernandez. 2015. Methodology for Evaluating Cost-Effectiveness
+of Residential Energy Code Changes. Pacific Northwest National Laboratory, Richland,
+Washington. Available at
+https://www.energycodes.gov/sites/default/files/documents/residential_methodology_2015.pdf
+WSEC-R. 2018. 2018 Washington State Energy Code, Residential Provisions. Washington
+State Building Council, Olympia, WA. https://sbcc.wa.gov/sites/default/files/202102/2018%20WSEC_R%20Final%20package2a.pdf
+WSEC-R. 2021. 2021 Washington State Energy Code, Residential Provisions. Washington
+State Building Council, Olympia, WA.
+
+References
+
+24
+
+Pacific Northwest
+National Laboratory
+902 Battelle Boulevard
+P.O. Box 999
+Richland, WA 99354
+1-888-375-PNNL (7665)
+www.pnnl.gov
+
+

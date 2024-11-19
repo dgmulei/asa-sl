@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+sentence-transformers
+chromadb
+tqdm

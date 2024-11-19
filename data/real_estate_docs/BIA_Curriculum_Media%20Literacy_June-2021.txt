@@ -1,0 +1,1628 @@
+Media
+Literacy
+Lessons
+from the Be Internet Awesome Curriculum
+Updated June 2021
+
+Understanding media literacy is more important than ever before.
+There probably isn’t a teacher on the planet who isn’t feeling that at least
+a little bit, now—because the ways our children are consuming, making and
+sharing media have changed so much since we were in their shoes.
+So where do we start? With the lessons in this little handbook. They offer the
+foundational tools and concepts of literacy for today’s media environment.
+You’ll find six activities designed specifically for elementary school students.
+They’ll learn about…
+• Perspective and how we’re all media makers now, each maker with their
+own views and ways of interpreting what they see in media
+• Framing—how media makers make choices about what to leave in and
+leave out of what they create or share
+• Credibility: what it means and how to look for it to spot misinformation
+• Deception and manipulation in media so they can spot disinformation online
+• Sourcing and representation—why we need to make it a practice to ask,
+“Who made this and why?”
+Your students will also learn what media makers have always needed to think
+about: the impact of their messages. So welcome to a little handbook that
+offers something really big: learning how to navigate our media environment
+with confidence and competency.
+
+Table of Contents
+Media Literacy Lessons
+Unit 01 Share with Care
+
+4
+
+Lesson 3 That’s not what I meant!
+Lesson 4 Frame it
+
+Unit 02 Don’t Fall for Fake
+Lesson 3
+Lesson 4
+Lesson 5
+Lesson 6
+
+13
+
+Is that really true?
+Spotting untrustworthy information online
+If we were a search engine
+Practicing Internet search
+
+Unit 04 It’s Cool to Be Kind
+Lesson 5 How words can change the whole picture
+
+35
+
+Unit 01: Be Internet Smart
+
+Share
+with Care
+
+Protecting yourself, your information and your privacy online
+Media literacy
+lesson overview
+
+Lesson 3 That’s not what I meant!
+Lesson 4 Frame it
+
+Themes
+
+Teachers and parents understand how digital mistakes can hurt feelings, reputations,
+and privacy. But it can be harder to convince kids that a seemingly harmless post today
+could be misunderstood tomorrow—let alone in the future and by people they never
+thought would see it.
+
+Grades 2-6
+Grades 2-6
+
+These activities use concrete examples and thought‑provoking discussions to teach
+young learners how to maintain a positive online presence and protect their privacy.
+
+Goals for students
+
+✓
+✓
+✓
+✓
+
+Standards
+addressed
+
+ISTE Standards for Educators: 1a, 1b, 2a, 2c, 3b, 3c, 3d, 4b, 4d, 5a, 6a, 6b, 6d, 7a
+ISTE Standards for Students: 1c, 1d, 2a, 2b, 2d, 3b, 3d
+AASL Learning Standards: I.a.1, I.b.1, I.c.1, I.d.3, I.d.4, II.a.2, II.b.1, II.b.2, II.b.3, II.c.1,
+II.c.2, d.2., III.a.1, III.a.2, III.a.3, III.b.1, III.c.1, III.c.2, III.d.1, III.d.2, IV.a.1, IV.a.2, V.a.2,
+VI.a.1, VI.a.2, VI.a.3
+
+Share with Care
+
+C
+ reate and manage a positive reputation both online and offline.
+R
+ espect the privacy boundaries of others, even if different from one’s own.
+U
+ nderstand the potential impact of a mismanaged digital footprint.
+A
+ sk for adult help when dealing with sticky situations.
+
+4
+
+Share with Care
+Vocabulary
+Lesson 3
+Code: A word or phrase, an image (like a logo or
+emoji) or some other symbol or collection of symbols
+that represent a certain meaning or message.
+Sometimes it’s a secret code that only certain people
+understand; often it’s just a symbol that stands for
+something almost everybody understands.
+Context: Information that surrounds the message or
+whatever we’re seeing which helps us understand it.
+Context can include the place where the message is,
+the time when it appears or who it’s coming from.
+Interpret: The way a person understands a message,
+or the meaning they get from it
+Representation: A picture, symbol or description that
+says a lot about (or expresses a truth about) a thing,
+a person or a group
+
+Lesson 4
+Frame: When you take a photo or video of a
+landscape, person or object, the frame is what
+defines the section that the viewer can see. The
+part you decide to leave outside the frame is what
+your viewer won’t be able to see.
+
+5
+
+Share with Care: Lesson 3
+
+That’s not what I meant!
+Using only emojis, students create t‑shirts to represent themselves. In the process, they learn that different people
+can interpret the same message differently.
+
+Media literacy background for teachers: When we wear t‑shirts featuring corporate logos, sports teams, schools,
+musicians, politicians, etc., we are essentially walking billboards. This activity demonstrates that a t‑shirt is both direct
+communication and media at the same time and helps students see that screens aren’t the only kind of place where
+media can be found.
+
+Goals for students
+
+✓
+✓
+✓
+✓
+
+Letʼs talk
+
+
+Learn
+the importance of asking the question: How might others see this message
+differently from me?
+Grow awareness of the many visual cues people use to communicate.
+See that sharing something online as well as on a t‑shirt is making media.
+Learn what “context” and “representation” mean.
+
+Has anyone ever misunderstood something you said, did, wrote or posted online?
+Did they get mad or sad, so you had to explain that you didn’t mean what they thought
+you meant?
+Sometimes when we are communicating, we know what we mean, but the people we
+are communicating with don’t understand, especially if we aren’t in the same space.
+That’s because people’s experiences affect the way they interpret things like images
+and words.
+To add to the confusion, there are a lot of messages we communicate without even
+knowing it. We tell people who we are—and judge who they are—using cues like our
+clothes, our hair style, and even the way we walk or gesture with our hands. This is
+called “representation”—expressing something about a thing, person, or group by
+using pictures, symbols, style and words.
+Here’s an example: If you were online and saw a picture of a person wearing a sports
+jersey with a team logo, you would probably think that the person is a fan of that team,
+and you’d probably be right. That’s because most of us recognize the design of sports
+jerseys—we know that’s sports “code.” So even if we aren’t sure which team is being
+represented, we know it’s probably a sports team.
+But what if you saw a picture of someone wearing a cheese wedge on top of their
+head? What would you think about that person? If you live in Wisconsin or you’re
+a football fan, you know that “cheese head” is a nickname for Green Bay Packers
+football fans. The person in the picture was using the cheese wedge hat to represent
+their support for the Packers.
+If you didn’t know the Packers fan “code,” you might think that the cheese hat was part
+of a Halloween costume or just plain weird. You might even be tempted to comment on
+Continued on the next page →
+
+Share with Care
+
+6
+
+how weird it was. That might make Packer fans mad. To them, your comment is rude
+and they might be tempted to respond with a mean comment about you. That makes
+you mad, so we end up with a mess of negative comments and hurt feelings.
+So how do we make sure other people will understand what we mean when we post
+online? One way is to see ourselves as media creators—not just communicators or
+players. Every time we create an online profile, text someone, comment in game chat,
+or share a picture, we are making media. Like all good media creators, we want to be
+thoughtful about the media we make and share by pausing before we post and asking:
+“How might someone who is different from me interpret my message?”
+
+Activity
+
+Materials needed:
+•H
+ andout: “Blank t‑shirt”
+(one per student)
+•H
+ andout: “Emoji grid”
+(projected or posted so
+everyone can see)
+•M
+ arkers, colored pencils,
+or crayons to draw with
+•T
+ ape (or a way to display
+t‑shirt drawings for a
+walkabout)
+
+1. Describe yourself with emojis
+To help us think about being skillful media creators, we’re going to decorate t‑shirts.
+Using the handout of the blank t‑shirt outline, draw a representation of yourself using
+only emojis. You can use one, two, or three emojis, but no more. You can copy emojis
+from the grid or invent your own.
+2. Show and tell
+Pair up and try to guess what the emojis on your partner’s t‑shirt say about them.
+Are your guesses accurate or do you have to explain to each other what your emoji
+picks mean?
+3. Learn about each other
+Post the “t‑shirts” around the room so everyone can look at everyone else’s shirt.
+Can you accurately match each shirt with its owner?
+4. A
+ s a class, discuss:
+• What made it hard or easy to match shirts with classmates? What did you notice
+about the symbols on the shirts that were easy to match? Were some emojis used by
+lots of people? Were some used by only one person?
+• Did everyone agree on the meaning of every emoji? How can context change the
+meaning of the emoji? Look at the emoji of the hands with the two fingers. How do
+you know if it means peace, victory, or the number 2? How about the fire emoji? Does
+it mean danger/emergency? Really popular or successful (“You’re on fire, dude!”)?
+Does the meaning change depending on where it appears (grinning emoji on your
+homework might mean that your teacher thinks you did good work but in a text from
+a friend it might mean they’re happy or joking)? Does the meaning change depending
+on what other emojis it’s with?
+
+Takeaway
+
+7
+
+As media creators, before we post messages or pictures online, it’s a good idea to
+pause and ask: “How could someone who is different from me interpret this? Am I
+sure they’ll understand what I mean?” Could they take it wrong? And we should ask
+ourselves the same things before we post or comment too. “Am I sure I understand
+what they mean? How can I know?”
+
+Handout: Lesson 3
+
+Blank t‑shirt
+
+Share with Care
+
+8
+
+Handout: Lesson 3
+
+Emoji grid
+
+9
+
+Share with Care: Lesson 4
+
+Frame it
+Media literacy background for teachers: Media are made by people who make choices. The most basic of these are
+what to include and exclude. This lesson helps students see themselves as media makers when they decide what to
+share online.
+
+Goals for students
+
+✓
+✓
+✓
+
+
+Visualize
+themselves as media creators.
+Understand media makers make choices about what to show and what to keep
+outside the frame.
+Use the concept of framing to understand the difference between what to make
+visible and public and what to keep secure or invisible.
+
+Letʼs talk
+
+Visual media makers control how much information they want to share by framing.
+They decide what to include inside the frame (what we can see), and they decide what
+stays outside the frame (what’s invisible).
+
+Activity
+
+Run through each activity as a class, then discuss:
+
+Materials needed:
+• Index cards and scissors
+(one set per student)
+•H
+ andout: “What’s in
+the frame?” or screen
+or smartboard with
+images projected
+
+1. Framing
+All pieces of media are the product of a series of choices by their media makers.
+One important choice is what to include and another is what to leave out. When we
+take pictures or video, “in” and “out” are separated by a frame.
+To see how this works, take your index card and cut a rectangle out of the center to
+make your own frame.
+Hold the frame at arm’s length and move it slowly toward your face and back out (you
+could also try this with the zoom function on a camera). What do you notice about what
+you can see inside the frame? How about if you move it side to side? Is there a way to
+hold the frame so you can see some of your classmates but not others, or some of the
+things on a wall but not others?
+When you control the frame, you are the media maker. You have the power to decide
+what to include or leave out. What you choose to leave outside the frame is still there
+in real life, but people who view the media you made would never be able to see it.
+
+2. Keep it in or leave it out?
+Grab a handout, and look at picture 1A. What do you think you’re looking at and how
+do you know? Now look at 1B. How does the added information help you get a better
+idea of what you’re looking at?
+
+Continued on the next page →
+
+Share with Care
+
+10
+
+Try it again with picture 2A. What do you think is casting the shadow? What’s your
+evidence? 2B adds more information. Was your guess correct?
+3. Too Much Information (TMI)?
+Extra information isn’t always welcome. Sometimes it’s a distraction that takes away
+from our ability to enjoy or understand the smaller frame image. Take a look at
+example #3 on the handout.
+It’s fun to see how things are made sometimes. But what would it be like if every
+time you watched a movie, a TV show, or video you weren’t just seeing the small
+frame—what if you were also seeing all the cameras, microphones, crew members,
+and the edges of the set? Do you think you would enjoy the story as much?
+
+4. You decide
+Every time you share something online, you are making media. And like the producers
+of a film, video or TV show, you can decide what people will see—what’s inside the
+frame and what stays out of sight, outside the frame.
+
+Takeaway
+
+11
+
+As a media maker, you put a “frame” around what you share online so other people see
+only what you want them to see.
+
+Handout: Lesson 4
+
+What’s in the frame?
+
+1A
+
+1B
+
+2A
+
+2B
+
+Tiger
+
+3A
+
+Share with Care
+
+3B
+
+12
+
+Unit 02: Be Internet Alert
+
+Don’t Fall
+for Fake
+Steering clear of scammers, fakers, info that doesn’t help and other Internet stuff that
+tries to trick your brain—and learning how to find the good stuff
+Media literacy
+lesson overview
+
+Lesson 3
+Lesson 4
+Lesson 5
+Lesson 6
+
+Themes
+
+Itʼs important for kids to understand that contacts or content they encounter online
+arenʼt necessarily true or reliable, and could involve efforts to trick them or steal their
+information, identity or property. Online scams aim to get Internet users of all ages to
+respond to fraudulent posts and pitches—sometimes from people pretending to be
+someone they know.
+
+Goals for students
+
+✓ U
+ nderstand that what people tell you online isn’t necessarily true.
+✓ L
+ earn how scams work, why they’re a threat, and how to avoid them.
+✓ Determine the validity of information and messages online and be wary of
+manipulation, unsubstantiated claims, fake offers or prizes and other online scams.
+
+Standards
+addressed
+
+ISTE Standards for Educators: 1a, 2c, 3b, 3c, 4b, 5a, 6a, 6d, 7a
+ISTE Standards for Students 2016: 1c, 1d, 2b, 2d, 3b, 3d, 7b, 7c
+AASL Learning Standards: I.b.1, I.c.1, I.c.2, Ic.3, I.d.3, I.d.4, II.a.1, II.a.2, II.b.1, II.b.2,
+II.b.3, II.c.1, II.c.2, II.d.1, II.d.2., III.a.1, III.a.2, III.a.3, III.b.1, III.c.1, III.c.2, III.d.1, III.d.2,
+IV.a.1, IV.a.2, IV.b.3, V.a.2, VI.a.1, VI.a.2, VI.a.3
+
+Don’t Fall for Fake
+
+Is that really true?
+Spotting untrustworthy information online
+If we were a search engine
+Practicing Internet search
+
+Grades 2-6
+Grades 4-6
+Grades 2-6
+Grades 2-6
+
+13
+
+Don’t Fall for Fake
+Vocabulary
+Lesson 3
+Credible: Believable; someone who is credible uses
+evidence, and you can be confident they are telling
+the truth.
+
+Lessons 5 and 6
+Clickbait: Content that attracts attention and could
+push you to click on a link to a certain site by using
+interesting formatting or catchy phrases
+
+Expertise: Special skill or knowledge about a
+particular thing; experts have expertise
+
+Keyword: A word directly related to the topic of your
+Internet search—one of the words you really need to
+do your search because no other word describes your
+topic better
+
+Motive: The reason that someone does something;
+intention
+Source: Someone or something that provides
+information
+Vlogger: A person who is known for regularly posting
+short videos on a blog or social media.
+
+Lesson 4
+Deceptive: False; an action or message designed to
+fool, trick or lie to someone
+Deceptive news: News that intentionally lies or
+distorts the truth—the popular name for it these
+days is “fake news”
+Disinformation: False information intended to trick
+or mislead you
+Evidence: Facts or examples that prove something
+is true or false
+Misinformation: False Information
+Skeptical: Willing to question claims of truth
+
+14
+
+Query: A keyword, set of keywords or a question you
+type into a search window (or box) to find information
+online. Sometimes a search takes more than one
+query to find what you’re looking for.
+Search engine/Internet search: A software program
+or “tool” people use to find information—including
+locations, photos and videos—on the Web
+Search results: A collection of information you get in
+a search engine after you type your query and hit the
+“Search” or “Send” button
+
+Donʼt Fall for Fake: Lesson 3
+
+Is that really true?
+Media literacy background for teachers: In addition to helping students use analytical questions to evaluate source
+credibility, we also want them to understand that information comes from lots of places (not just textbooks). So they
+need to apply their skills to analyze all types of media. When they get to that point, they’re ready to move on to analyzing
+special categories of media, like news or scientific data.
+Note: This is a media literacy lesson good for everybody to learn but may be a little over the heads of students in grades
+2−3, so see a suggested modification below under “Activity.”
+
+Goals for students
+
+✓
+✓
+✓
+✓
+✓
+
+Letʼs talk
+
+
+Identify
+the tools you already use to know that information is credible.
+Consider how certain things like expertise and motive affect credibility.
+Learn 4 questions for evaluating source credibility.
+Understand that a source that’s credible on one topic is not necessarily credible
+on other topics.
+Know that checking multiple sources often helps you see whether information
+is credible.
+
+What makes something or someone credible or trustworthy?
+Every day you make decisions about what to believe and what not to believe. Was that
+video you saw credible? Was it trying to persuade you of something? Is your older
+brother telling you the truth or teasing? Is that rumor you heard about a friend true?
+What do you do when you’re trying to decide if someone is telling the truth? Do you
+already use these clues?:
+•	What you know about a person
+For example, you know if a classmate is really good at something or has a history of
+being truthful or playing practical jokes or being mean, so you can usually tell when
+they are serious or joking or lying.
+•	What a person knows about you
+For example, your parents know what kinds of foods give you a stomachache; the
+ads on TV do not, so you follow your parents’ advice about what to eat. The school
+librarian knows your interests and what kinds of books you like, so you trust her book
+recommendations.
+•	Tone of voice and facial expression
+For example, you know that your friend means the opposite of the words they say if
+they roll their eyes and act snarky while they tell you they had a terrible time at the
+new skate park.
+•	The situation
+For example, when friends are playing around and one teases you about your new
+haircut, you know it’s just a joke. But if someone at school says the exact same words
+to embarrass you in front of the whole class, it’s an insult.
+Continued on the next page →
+
+Don’t Fall for Fake
+
+15
+
+When we hear things from a media source like a video, a person on TV, or website,
+we don’t personally know the source and they don’t know us. We may not be sure
+about whether to believe them.
+Even when someone we know sends us a text there are no clues from facial
+expressions or tone of voice, so we might not be sure what they mean. That’s when
+we need to ask questions…
+
+Activity
+
+Materials needed:
+•H
+ andout: “Deciding what’s
+credible” (one per student)
+
+Recommended modification for grades 2−3: If you feel your students are ready to
+discuss whether a source is credible, complete steps 1 and 2 only.
+1. Evaluating sources
+If you wanted a recommendation for a great new video game, would you ask your
+grandmother? Or, to ask it another way, is your grandmother a credible source for
+information on video games? A credible source is one that we can trust to give us
+accurate and relevant information.
+Make a pro/con list to explain the benefits and drawbacks of asking your grandmother
+for video game advice.
+Did your list look something like this?
+PRO
+
+CON
+
+Grandma loves me and wants me
+to be happy
+
+Grandma doesn’t play video games
+and doesn’t know much about them
+
+Grandma is pretty good at finding
+information when she doesn’t know
+the answer herself
+
+Grandma doesn’t know which games
+I already have or what types of games
+I like
+
+If your list looked like that, you’ve just used two of the most common tools we have
+to decide if a source is credible: motive and expertise. “Expertise” is a special skill
+or knowledge about a particular thing; experts have expertise. “Motive” is someone’s
+intention, the reason they say or do something.
+Which item in the list gives you information about grandma’s motives? Which items
+say something about her expertise? So is the grandma on this pro/con chart a credible
+source for information about which new video game to get? She wouldn’t lie, but it
+would probably be better to ask someone who cares about us and who also knows
+something about gaming and the types of games we like.
+
+16
+
+We may also know that Dad is a great cook but is clueless about fashion, our coach
+knows basketball but not gymnastics, or that Grandma can fix almost any toy but
+doesn’t know anything about video games. Just because a person is an expert on
+one thing doesn’t make them an expert on everything.
+
+2. Make your own pros and cons list
+If this is the first time you have thought about how you use motive and expertise as
+clues to decide which information sources are credible, you might want to practice
+some more.
+Imagine that you want to know how to be a better soccer player. Make pro/con lists
+for these choices so you can decide if they’re credible sources:
+•	your grandma
+•	a blog by a winning high school basketball coach
+•	the best player on your team
+•	a website that sells soccer shoes and gives advice
+•	Videos that teach soccer practice techniques
+What do you notice about the strengths and weaknesses of each source?
+•	Is there one that knows how to teach, but may not be familiar with soccer skills?
+•	Is there one that is a soccer expert but may not know how to teach?
+•	Is there one whose advice always seems to include buying something from them?
+•	Is there one that knows soccer but doesn’t know you or which skills you need to
+work on?
+Discuss: Who would be a good source to go to and why do you think so?
+Credibility is rarely an all‑or‑nothing call. Most sources have strengths and weaknesses.
+That’s why the very best answers often come from asking many sources and comparing
+their answers.
+
+3. Steps to consider
+Credibility isn’t just about who we believe. It’s also about what we believe. We get
+ideas about the world from all sorts of places, not just directly from people. A movie
+about a tsunami shows a giant wave—taller than a skyscraper—heading towards people
+on shore. Is that what tsunamis really look like? An ad implies that most scientists are
+men with crazy hair who wear thick glasses and white lab coats all the time. Is that true?
+We can check out any source using the 3 Steps on the Deciding what’s credible
+handout. They’re about what we already know about motive and expertise.
+
+Continued on the next page →
+
+Don’t Fall for Fake
+
+17
+
+Step 1: Use common sense
+Ask: Is it logical—does it make sense?
+If a) what you’re seeing doesn’t make sense, b) you know it isn’t true from your own
+experience, or c) it just doesn’t work with facts you already know, you don’t have to
+take any additional steps. You are looking at a source that is not credible.
+Step 2: Ask questions
+Not just any questions, but these four:
+Expertise
+a) Does this source know me or care about me?
+The answer to this question depends on the information you’re looking for. If you’re
+checking some information about plastic water bottles polluting the ocean, it really
+doesn’t matter if the source knows you or not. But if a site promises that you will love
+their new toy, it would need to know what kinds of toys, games, or activities you like
+for their promise to be credible.
+b) Does this source know a lot about this topic? How did they learn what they know?
+Some people think that the easiest way to find credible information is to ask a digital
+voice assistant. Digital assistants seem to know everything! Did you ever wonder
+how they can know all those answers? They use mathematical calculations (called
+“algorithms”) to find answers.
+For simple questions that only have one possible answer (like the temperature
+outside or the name of a celebrity famous for singing a particular pop song) they
+are usually a credible source. But if the question is complicated, it would be better
+to start with people or groups who have lots of experience or have earned awards
+or PhDs related to your topic. Then you can use a voice assistant to confirm that
+information (see Step 3).
+
+Motive
+c) What does this source want me to do or believe and why would they want me to do
+or believe that?
+Does the source make money if you follow their advice? For example, do you think
+an influencer earns a fee if you buy the product they’re wearing or talking about?
+Does a professional athlete wear a certain brand of shoe or shirt just because they
+like that brand or because they’re paid to talk about it?
+Money can often be one reason why you’re seeing a logo or brand name in a video
+or ad—it can affect what the influencer or athlete is telling you (and what they’re
+not telling you). They probably don’t intend to hurt you, but it’s possible that making
+money is more important to them than giving you all the facts or saying what is
+good for you.
+
+18
+
+d) Who benefits and who might be hurt if people believe this source?
+This isn’t always easy to tell. Here’s an example:
+Imagine an ad for an app that promises to make you a better student.
+•W
+ hat are the possible benefits? The app maker would benefit if you buy the app
+because they would make money. And you might benefit if the app really helped
+you.
+•W
+ ho might be hurt if you believed the ad? You might be wasting your money if
+you bought the app. You might also be spending time practicing the wrong things,
+and then actually do worse in school. Or you might rely on the app, which can only
+make guesses about what you need, instead of seeking help from your teacher,
+who actually knows what you need.
+
+Step 3: Confirm
+Ask: Do other credible sources back up what this source says?
+The job isn’t just to check more sources. It’s to look for a variety of sources. If you
+can’t find a variety of credible sources that agree with the source you are checking,
+you shouldn’t believe that source.
+4. Check your sources
+Now that you understand, it’s time to practice. Pick a question related to something
+you are covering in class or something you have seen online. Find a source that
+provides an answer to that question and, in small groups, use the questions on the
+handout to decide if the source is credible.
+If you need some ideas, here you go:
+•	You need ideas for a birthday present for your friend. An ad for a local store claims
+their search tool, which has every item offered by the store, can help you find a gift
+for anyone on your list. Does that work for you?
+•	You are reading online reviews of a new pizza place and notice that three of the six
+5‑star reviews are from people with the same last name as the restaurant. Two
+others say it is the best pizza on the planet and one says it was not bad for a cheap
+slice. There are also fourteen negative comments. Would the positive reviews
+convince you to try their pizza?
+•	A pop up ad says that you are part of a very small group that has been selected to try
+a special “mermaid pill” that will give you the power to breathe underwater without
+scuba gear. All you have to do is send $9.99 to cover shipping. Would you do it?
+•	You like a lot of the videos by a popular vlogger because they’re funny, but they also
+say nasty things that you don’t like about minority groups. Do you buy what they say
+because they’re funny and really popular? Do you think that influences people?
+
+Takeaway
+
+Don’t Fall for Fake
+
+Questions are our friends. When you ask good questions about sources and the
+information they provide, you’ll get much better information. The more sources you
+use, the better. And remember that a great source for one subject doesn’t mean it’s
+great for everything.
+19
+
+Handout: Lesson 3
+
+Deciding what’s credible
+Helpful steps to identify credible from non-credible sources.
+
+Step 1
+
+Use common sense
+Is it logical?
+
+Step 2
+
+Ask questions
+Not just any questions, but these four:
+Expertise
+•	Does this source know me or care about me (and does that matter)?
+•	Does this source know a lot about this topic? How did they learn what they know?
+Motive
+•	What does this source want me to do or believe and why would they want me to do
+or believe that?
+•	Who benefits and who might be hurt if people believe this source?
+
+Step 3
+
+20
+
+Confirm
+Do other credible sources back up what this source says? Use online search—or work
+with your school media specialist in the library—to find other sources of information
+about your subject (the sources could be book or news or magazine articles, online or
+offline). Go through Steps 1 and 2 with them too—ask the same questions about these
+sources too. If they’re giving you the same information about your subject, it’s pretty
+likely they’re confirming that your source is credible.
+
+Donʼt Fall for Fake: Lesson 4
+
+Spotting untrustworthy information online
+Media literacy background for teachers: Media literacy questions and observation techniques give students tools to
+navigate their way through disinformation without getting stuck in arguments or hurting relationships with friends and
+family. But they need to ask questions and get used to applying critical inquiry to information that comes their way.
+
+Goals for students
+
+✓
+✓
+✓
+✓
+
+Letʼs talk
+
+I dentify clues which indicate that a news or information source is deceptive.
+Use analytical questions and careful observation to evaluate source credibility.
+Understand the importance of checking a source’s credibility before sharing their
+message.
+Develop the habit of analyzing all news and information, not just the stories we
+think are suspicious.
+
+Did you ever play one of those games where you hunt for mistakes hidden in a picture?
+Sometimes dealing with news is like that. There are a lot of people and groups who are
+so passionate about what they believe that they twist the truth to get us to agree with
+them. When their twisting is disguised as a news story, that’s disinformation.
+Some people don’t learn how to spot fake information, but they share it anyway. That’s
+how it spreads. And when people make choices about the things they do or believe
+based on that disinformation, it can get really hard for people to listen to each other
+calmly, argue respectfully, understand each other better, and solve problems.
+So, if something looks or sounds like news, how can we tell the difference between
+what’s real or credible and what’s fake or misleading? There are clues we can learn to
+spot it—tricks used by people who are trying to mislead you. And there are questions
+we can ask that help us spot stories that aren’t based on facts.
+
+Continued on the next page →
+
+Don’t Fall for Fake
+
+21
+
+Activity
+
+1. What’s wrong with this picture?
+Take a look at the image below. Look carefully. Can you spot the differences between
+the two pictures?
+
+Materials needed:
+• Image: “What’s Wrong
+with this picture”
+• Handout: “Deciding
+what’s credible” from
+Lesson 3 (page 54)
+• Worksheet: “Spotting
+phony URLs”
+Answers for worksheet:
+“Spotting phony URLs”
+Real:
+abcnews.go.com
+bbc.com/news
+nbcnews.com
+nytimes.com
+washingtonpost.com
+usatoday.com
+Fake:
+abcnews.com.co
+abcnews‑us.com
+nbc.com.co
+nytimesofficial.com
+bbc1.site/business‑news
+washinqtonpost.com
+washingtonpost.com.co
+usatosday.com
+
+What if someone told you where to look? Would that make it easier?
+
+22
+
+There are 9 differences, did you spot them all?
+
+Trying to tell if a news story is real or fake is sort of like this picture game. By looking
+really carefully, you can find important information. And it’s a lot easier if you know
+what to look for.
+So here are some clues to finding disinformation. If you spot these things, you are
+probably looking at a fake, or deceptive, story.
+
+Spotting phony URL’s Handout
+The first thing to look at is the URL (web address) for the site that published the story.
+Some fake sites try to fool you by choosing names that mimic a real site but with small
+differences. Most companies use short URLs because they are easier to remember and
+type, so URLs with added, unnecessary letters are often sites with false information.
+Look at the handout:
+• Circle all of the URLs that you think are real.
+• When everyone is done, look at the answer key. Did you get them all right?
+How could you check to see if a URL was a real news site? One way is to do a web
+search for the news organization or the URL. If the organization is credible a box can
+appear to the right of the search results on many platforms with a description of the
+organization, including their website address. If the URL isn’t credible, you will often be
+able to scroll down and see headlines about the site being reported as a fake—or you’ll
+find out the site isn’t available anymore.
+
+Continued on the next page →
+
+Don’t Fall for Fake
+
+23
+
+2. Inspecting headlines
+Sometimes someone shares a news story without a URL. In those cases, here are
+some clues to use:
+a) A
+ story starts with a picture of something that would interest us, like a cute dog,
+a celebrity, or an unusual stunt. But when we click, the story has little or nothing to
+do with the picture.
+b) Instead of letting you decide for yourself, people who are trying to convince you
+to agree with them sometimes use things like boldface, ALL CAPS, underlining,
+or exclamation points to get you to think what you’re seeing is important and click
+on them, called clickbait. Real journalists don’t use those techniques.
+c) To get you to read a story, some people include words in the headline like “shocking”
+or “outrageous” or “surprising.” They know words like that make us curious. But real
+journalists let the news speak for itself. They tell the story and let us decide if it is
+shocking or surprising.
+For example, look at this picture and headline:
+
+The shocking truth about what
+teachers do after school
+Without reading ahead, what do you imagine the story is going to say? Why do you think
+that? What’s your evidence?
+
+24
+
+Here’s the story:
+“A recent State University survey of teachers found that 86% of teachers do what
+everyone does after work. They run errands, fix dinner, spend time with family, do
+household chores, and get ready for the next day. But lately, many teachers have
+been doing something unexpected.
+A decade ago, economic troubles led many states to slash education budgets. That
+meant years without a pay raise for teachers. Unable to meet basic expenses on low
+salaries, many teachers now work second jobs. In some states teachers have even
+gone on strike for pay increases so they can quit second jobs and devote more time
+to their students.”
+Was the story what you thought it would be? Do you think that the picture and headline
+were accurate or misleading? What’s your evidence?
+
+3. Inspecting sources
+When we analyze news, clues can be helpful, but they aren’t always enough. Sometimes
+trustworthy news stories use techniques to attract our attention, and that can make
+them seem fake. And sometimes fake sources are so good at copying the real thing
+that it’s hard to tell they’re not. It’s hard to tell them apart. For example…
+Do these sound like trustworthy news organizations to you?:
+American News
+National Review
+News Examiner
+World News Daily Report
+Weekly World News
+NewsWatch33
+Actually, only National Review is real. How could you find that out? You could start by
+doing a Web search of the organization’s name. See where the name appears besides
+the organization’s own website. If it appears in Wikipedia or an article at a newspaper
+or news magazine’s site, it’s probably a credible organization. But see what those
+articles say about it! It’s possible that they’re all saying it’s fake.
+Find a story about your school, community, the latest diet fad, or anything in the news
+that interests you. Use the 3 Steps on the Deciding what’s credible handout, along with
+the new clues you know, to decide if the story is real or deceptive.
+
+Continued on the next page →
+
+Don’t Fall for Fake
+
+25
+
+Step 1: Use common sense
+Ask: Is it logical—does it make sense?
+Sometimes it’s obvious. If you see a headline like: CELEBRITY HAS SECRET BABY
+WITH SPACE ALIEN, logic probably tells you it isn’t real.
+Sometimes it isn’t so obvious. If:
+a) what you’re seeing doesn’t make sense
+b) you know it isn’t true from your own experience, or
+c) it just doesn’t work with facts your already know
+…you are looking at a source that is probably fake news.
+
+Step 2: Ask the expertise and motive questions
+(see pages 52 and 53)
+Step 3: Confirm
+Ask: Do other credible sources back up what this source says?
+Who else is reporting this story? (You can use Internet search to see if this story is
+covered by other news sources…) What other stories does the site include? Are they
+all from the same perspective or are there many views included? If you can’t find a
+variety of reliable sources that are covering the story, you should be skeptical of
+that source.
+
+Takeaway
+
+26
+
+Now that you know how to use clues and questions to spot disinformation, you can
+ask smart questions and make careful observation part of your daily routine and
+with time, you’ll be an expert in spotting fake stuff online. You now know how to
+analyze the information you get online. It’s called critical thinking, and it’s a media
+user’s superpower.
+
+Worksheet: Lesson 4
+
+Spotting phony URLs
+Real or fake?
+
+usatoday.com
+
+Real
+
+Fake
+
+abcnews.com.co
+
+Real
+
+Fake
+
+washinqtonpost.com
+
+Real
+
+Fake
+
+abcnews‑us.com
+
+Real
+
+Fake
+
+bbc.com/news
+
+Real
+
+Fake
+
+abcnews.go.com
+
+Real
+
+Fake
+
+nytimesofficial.com
+
+Real
+
+Fake
+
+nbc.com.co
+
+Real
+
+Fake
+
+washingtonpost.com
+
+Real
+
+Fake
+
+nytimes.com
+
+Real
+
+Fake
+
+washingtonpost.com.co
+
+Real
+
+Fake
+
+bbc1.site/business‑news
+
+Real
+
+Fake
+
+nbcnews.com
+
+Real
+
+Fake
+
+usatosday.com
+
+Real
+
+Fake
+
+Circle the correct answer.
+
+Don’t Fall for Fake
+
+27
+
+Donʼt Fall for Fake: Lesson 5
+
+If we were a search engine
+Without using any technology (we’ll do that in the next activity), students create “search results” together to start
+learning how Internet search works from the “inside out.”
+
+Goals for students
+
+✓
+✓
+✓
+
+Letʼs talk
+
+What is search?
+The internet is a place that has a gazillion (well, billions and billions of) pieces of
+information. Internet search, sometimes called a search engine, helps us narrow down
+that crazy amount of information that comes from all over the world. It’s a software
+tool that people use to find information on all kinds of topics.
+
+ earn fundamentals of online search.
+L
+Search for information about a topic.
+Understand that search results are collections of information, not usually answers
+to a question.
+
+You might already know that, to use this tool, you type a few key words about a topic
+you want to know more about into the search bar (the empty box on a search engine
+page) or in your browser window (where you also type web addresses). Then, when
+you’re ready, you hit the Return or Search key, and—voila!—the search engine works its
+magic (in about a half second), and you get your search results. Ok, so it’s not actually
+magic. Internet search uses algorithms, which is a fancy way of saying people at the
+search company taught the software how to find and turn up information for you. Don’t
+worry about how algorithms work for now. You just need to know that Search does the
+“searching” for you.
+It’s also good to know that search results aren’t necessarily answers to a question.
+They’re just collections of information you’re interested in or looking for. If you do have
+a question that you’re taking to a search engine, you can often find an answer in your
+search results, but sometimes it takes a few queries to get to the answer you’re looking
+for. That’s called “refining” your search.
+So let’s practice how search works by pretending to be a search engine together…
+
+Activity
+
+1. Organize students into groups of 2.
+2. Distribute a copy of the worksheet to each student.
+3. S
+ hare a search topic with the class. Here are some possibilities:
+
+Materials needed:
+•W
+ orksheet: “If we were
+a search engine” (one
+per student)
+
+28
+
+• pizza
+• tornado
+• airplane
+
+• solar system
+• farmer
+• soccer
+
+• volcanoes
+• cooking
+• sharks
+
+• basketball
+• dentist
+• construction
+
+4. Students work with their partners to create possible “search results” in each
+category on the handout: “Website,” “Image,” “Map” and “Video.” Their results can be
+in the form of words or drawings, as appropriate.
+Encourage students to be creative, and make sure they know there are no “wrong”
+answers. For example, if the topic is “sharks,” students might brainstorm the following
+search results:
+•	Website: information about different kinds of sharks
+•	Image: a drawing of a shark
+•	Video: sharks swimming through the ocean
+•	Map: the location of a beach where people saw a shark
+5. When students finish all four search result categories for the given topic, pick which
+category (website, image, video or map) to talk about as a class.
+6. Have one student from each pair share out their example of one of the search
+results.
+For example, let’s say the topic is “pizza.” You can decide to have each group share
+their image results for pizza. Students can hold up their drawing and explain what they
+created. This allows students to see all the different search results that can be generated
+from a single query.
+7. After students share examples, ask the class the following discussion questions:
+•	About how many different results did we have?
+•	About how many results were similar?
+•	If I changed my topic to
+, how do you think that would change your
+results? For example, if the search topic was “pizza,” how would the results change if
+I changed my query to “pepperoni pizza”?
+Suggestion: Complete 4 rounds in total…
+•	Choose a different topic from each round and repeat the same steps as listed above.
+•	Complete 4 rounds so you can have discussions about the 4 main types of search
+results.
+
+Takeaway
+
+Don’t Fall for Fake
+
+Internet search is a tool you can use to find information online. The info can be in the
+form of text on a website, videos, images, maps and more. The key words you type into
+a search engine determine what results you get.
+
+29
+
+Worksheet: Lesson 5
+
+If we were a search engine
+Search Topic
+
+Image | Video | Map
+
+30
+
+Website
+
+Donʼt Fall for Fake: Lesson 6
+
+Practicing Internet search
+Using an Internet connection, students explore using a search engine and practice creating ever more effective
+search queries.
+
+Goals for students
+
+✓
+✓
+✓
+✓
+
+Letʼs talk
+
+Search is a tool that helps you find information on the internet. To use search, you can
+go to a search engine and type a query—a question or keywords—into the search bar
+to get info on a topic you want to know more about. Sometimes using keywords works
+better than just asking a question. That’s because, first, the words you use in your query
+and, second, the order you put them in are really important. If you just ask a question,
+it may not have the words and the order that help the search engine turn up the results
+you’re looking for. But—no worries—it’s perfectly fine to start with a question if you like.
+
+
+Navigate
+a search engine.
+Practice searching for information about a topic.
+Create search queries.
+Change keywords and notice differences in search results.
+
+The important thing is, just start, because lots of times it takes more than one query to
+get to the information you want. So type your question into the search engine, look at
+the search results and—if they’re not good enough—you can use those results to guide
+you on how to create a better query and get even closer to what you’re looking for.
+For example: Let’s say I want to start a garden. I want to grow vegetables I can use to
+cook in my kitchen.
+• I have no idea how to do this, so I’m going to do an Internet search to find out how.
+I go to a search engine and type in the question, “How do I start a garden?”
+Display your computer screen so students can see you searching.
+• Ok, let’s take a look at these results.
+Review the results with your class. Be sure to point out that there are websites, images,
+videos and other types of results. Also point out search results that are not relevant to
+helping you grow a garden for vegetables and spices for cooking.
+• I’m noticing that a lot of these results are about all kinds of gardens, but I need
+information about creating a garden at home, in my own yard. Also, I only want
+to grow stuff I can eat. I should probably include a keyword about vegetables, right?
+Ok, let’s try searching this: “home garden vegetables”.
+Display your computer screen so students can see you searching.
+• Take a look at these results. What do you notice?
+Allow the students to share what they notice in the search results.
+ oth sets of search results gave me information about starting a garden, right? But
+B
+the first set was about all kinds of gardens. It showed me I had to add a couple of
+important keywords to my original query to get the search results I needed to learn
+how to start a garden for cooking (BTW, did you know that’s called a “kitchen garden”?).
+Continued on the next page →
+
+Don’t Fall for Fake
+
+31
+
+The more you practice creating search queries, the easier search gets. You can
+always start with a question, and if you don’t get your answer, the search results will
+give you keywords you can try to get closer to what you need to know. If you want
+to start with keywords and aren’t sure which ones to use, just know that there are
+no wrong keywords. Just try some! You can always try a different query if you’re not
+seeing the results you were hoping for. Let’s try it out…
+
+Activity
+
+Materials needed:
+• Worksheet: “Practicing
+Internet search” (one per
+student)
+• Internet‑connected device
+
+1. Create the first search query
+Explain to students that they are going to explore using a search engine and practice
+creating search queries. On the handout, they’ll find four different characters, each
+character thinking (in a thought bubble) about something they want to learn more
+about. Then have your students…
+•	Type the original search query (provided on the handout) into the search engine,
+and explore the search results.
+•	Record 4−5 search results on their handout.
+2. Create their own (second) search query
+Have students look again at what the character wants to know (in the thought bubble).
+Ask students, did the original search results give enough information relevant to this
+topic?
+•	Direct students to change the original query to include keywords that will get them
+more useful search results.
+Hint: Students can look for keywords they found in the first search results or in the
+character’s thought bubble.
+•	Have them type this second search query into the search engine and explore the
+search results.
+•	Have students record 4−5 results on their handout.
+3. Discuss
+Have students find a partner and ask them to share with their partners how they
+changed the original search query and the types of results they got from that revised
+search query. Ask them to share what they discovered in a brief class discussion.
+4. Repeat Steps 1−3 for the remaining characters
+
+Takeaway
+
+32
+
+The more you practice creating search queries, the easier it will get to find the
+information you are looking for in a search engine.
+
+Worksheet: Lesson 6
+
+Practicing Internet search
+Original search query
+Books about imaginary characters and mystery
+I’m looking for a book to read.
+I love mysteries! I also enjoy reading books that
+
+Search results
+
+have imaginary characters that live in the future.
+I think my teacher calls that sci-fi.
+
+Revised search query
+
+Search results
+
+I want to make a cake for my sister’s birthday.
+She doesn’t like chocolate but loves fruit.
+
+Original search query
+No chocolate cake with fruit
+Search results
+
+I wonder what kind of cake I can make.
+
+Revised search query
+
+Search results
+
+Continued on the next page →
+
+Don’t Fall for Fake
+
+33
+
+Original search query
+Video game jobs
+Search results
+
+I love playing video games.
+I wonder what it would be like if I grew up
+and worked for a video gaming company.
+It would be so cool if that was my job someday!
+
+Revised search query
+
+Search results
+
+Original search query
+What do I need to fish?
+Search results
+
+My cousin invited me to go fishing.
+I have never fished before so I don’t know
+what kind of equipment I need to bring with me.
+
+Revised search query
+
+Search results
+
+34
+
+Unit 04: Be Internet Kind
+
+It’s Cool to
+Be Kind
+Learning and practicing the power of online kindness
+Media literacy
+lesson overview
+
+Lesson 5 How words can change the whole picture
+
+Themes
+
+The digital world creates new challenges and opportunities for social interaction,
+for kids and all the rest of us. Social cues can be harder to read online, constant
+connecting can bring both comfort and anxiety, and anonymity can fuel crushes
+and compliments as well as harm to ourselves and others.
+
+Grades 2-6
+
+It’s complicated, but we know that the Internet can amplify kindness as well as
+negativity. Learning to express kindness and empathy—and how to respond to
+negativity and harassment—is essential for building healthy relationships and
+reducing bullying, depression, academic struggles and other problems.
+Research shows that, rather than simply telling kids not to be negative online, two
+kinds of teaching can help address the underlying causes of negative behaviors:
+social‑emotional learning and bullying prevention. These activities don’t replace
+evidence‑based programs; they lay a great foundation, encouraging students to
+interact positively and deal with negativity from the start.
+
+Goals for students
+
+✓ D
+ efine what being positive means and looks like, online and offline.
+✓ L
+ ead with positivity in online communications.
+✓ I dentify situations in which a trusted adult should be consulted.
+
+Standards
+addressed
+
+ISTE Standards for Educators: 1a, 1c, 2c, 3a, 3b, 3c, 4b, 5a, 5b, 6a, 6b, 6d, 7a
+ISTE Standards for Students 2016: 1c, 2b, 3d, 4d, 7a, 7b, 7c
+AASL Learning Standards: I.a.1, I.a.2, I.b.1, I.b.2, I.b.3, I.c.1, I.c.2, I.c.3, I.d.3, I.d.4, II.a.1,
+II.a.2, II.b.1, II.b.2, II.b.3, II.c.1, II.c.2, II.d.1, II.d.2, II.d.3, III.a.1, III.a.2, III.a.3, III.b.1, III.b.2,
+III.c.1, III.c.2, III.d.1, III.d.2, IV.b.2, IV.b.3, IV.d.2, V.a.2, V.a.3, V.c.1, V.c.3, V.d.1, V.d.2, V.d.3,
+VI.a.1, VI.a.2, VI.d.1, VI.d.3
+
+It’s Cool to Be Kind
+
+35
+
+It’s Cool to Be Kind
+Vocabulary
+Lesson 5
+Bullying: Purposefully mean behavior that is usually
+repeated. The person being targeted often has a
+hard time defending him or herself.
+Cyberbullying: Bullying that happens online or
+through using digital devices
+Harassment: A more general term than bullying
+that can take many forms—pestering, annoying,
+intimidating, humiliating, etc.—and can happen
+online too
+
+36
+
+Itʼs Cool to Be Kind: Lesson 5
+
+How words can change the whole picture
+Media literacy background for teachers: This lesson lays a foundation for elementary grade students by asking them
+to grapple with simple captions about individual people. In developmentally appropriate ways, this lesson covers these
+media literacy concepts and questions:
+1. Knowing that all media are “constructed”—made by people who make choices about what to include and how to
+present it.
+2. Routinely asking “Who made this and why?”
+3. Routinely reflecting on the media we create by asking: “How might this message affect others?”
+
+Goals for students
+
+✓
+✓
+✓
+✓
+✓
+
+ earn that we make meaning from the combination of pictures and words.
+L
+Understand how a caption can change what we think a picture is communicating.
+Begin to see the power of your words, especially when combined with pictures
+you post.
+Understand how to be a responsible media maker.
+Develop the habit of asking, “Who posted this and why?”
+
+Letʼs talk
+
+How can words change a picture?!
+Pictures combined with words are a powerful way to communicate. Imagine a news
+photo of a house on fire. One caption says “Family loses house but everyone gets out
+safely, including the dog.” That would be sad, and maybe a little scary, right? But what
+if the caption said, “Firefighters set empty house on fire so they could practice using
+new firefighting tools.” You’re still looking at a house on fire, but you have a very
+different idea about what’s happening. You might even feel safe instead of scared.
+
+Activity
+
+Divide the class into small groups. Without revealing to students that you’re handing out
+two different versions, give half the groups the handout with the positive caption and the
+other half the one with the negative caption.
+
+Materials needed:
+• See following page
+
+1. Pictures + words
+Take a look at the image. With your group, describe the person in the picture. What sort
+of person do you think they are? Do you think you’d like to spend time with them or be
+their teammate? Why or why not?
+The evidence will quickly reveal that groups were looking at pictures with different
+captions. Have each group hold up their picture so the others can see the difference.
+Finally, briefly discuss: What does this show about the power of words to shape our
+ideas?
+
+2. Still not sure?
+Take a look at some more examples (see How words can change a picture)…
+
+Continued on the next page →
+
+It’s Cool to Be Kind
+
+37
+
+Materials needed:
+•P
+ ictures of teachers and
+staff from your school going
+through their daily routines.
+For 2−3 weeks prior to the
+activity, you’ll want to gather
+a few digital photos, or assign
+the students to gather them
+without revealing the pictures’
+role in this activity (always
+with the subjects’ permission,
+of course).
+If that isn’t possible, you
+could gather age‑appropriate
+pictures from magazines or
+news sources.
+•O
+ ptional: At least one picture
+of every student in the class
+• Handout: “Sports images”
+•H
+ andout: “How words can
+change a picture”
+
+Think about what it would feel like to get or see a message that included one of the
+pictures with the negative caption. Seeing or hearing negative messages doesn’t
+only hurt the person in the picture. It can make other people who see the picture
+uncomfortable too.
+When you get the message or photo, what do you do? You always have a choice.
+You can…
+•	Choose not to share the picture with anyone else, or…
+•	Tell the sender that you would rather not get messages that are meant to hurt
+someone, or…
+•	Support the person in the picture by letting them know that you know it isn’t true, or…
+•	All the above.
+You could also send a positive message. Not an answer—just your own positive
+message. Seeing or hearing positive messages supports the person in the picture
+and can make others feel good and want to post their own positive messages.
+
+3. Someone at our school
+Teacher selects random photo from shuffled set of school staff photos.
+Practice creating different kinds of captions. First make up some captions that would
+make the person in the photo feel happy or proud. How many different captions can
+you think up?
+Now let’s talk about funny captions. Is there a difference between writing what’s
+funny to you and what might be funny to the person in the photo? Is there a difference
+between a joke that’s kind and funny to everyone, and a joke that makes fun of
+someone and is only “funny” to a few people?
+Write some captions that are examples of what we discussed, then let’s all pick a caption
+for each photo that’s both funny and kind—not hurtful to the person in the photo.
+Keep practicing using pictures of other people at our school. Did you get any new ideas
+about kind things to say by looking at the captions that your classmates wrote?
+
+4. Class collage
+Create a collage of pictures of every person in your class, each with a kind caption
+written on it.
+
+Takeaway
+
+38
+
+Captions can change what we think—and feel—about a picture and the messages
+we think we’re getting. It’s good to think or pause before posting pictures with captions,
+to consider how the whole thing might make others feel. And before accepting pictures
+and captions that others post, ask, “Who posted this and why?”
+
+Extension
+
+It’s Cool to Be Kind
+
+Try this experiment. Distribute a short comic strip in which all the words have been
+deleted. Then have every student, working individually, fill in the thought/conversation
+bubbles to tell the story they see. Compare the results. Did everyone see the same story
+or write the same words? Why not? What does the experiment show about how we use
+words to provide context or understand what a picture’s “saying”?
+
+39
+
+Handout: Lesson 5
+
+Sports images
+
+Awesome!
+
+Show Off!
+
+Awesome!
+
+Show Off!
+
+40
+
+Handout: Lesson 5
+
+How words can change a picture
+
+Original artwork wins
+first place.
+
+Hot Mess.
+
+I discovered a new species
+in the world!
+
+Mmm Dinner!
+
+Nailed it!
+
+Awkward - not even close!
+
+Youngest scientist in
+the world!
+
+Nerding out. #lame
+
+Finally, my own phone!
+
+Got my mom’s lame
+old phone. :/
+
+Grew my hair out and
+donated it to a cancer
+patient. <3
+
+WORST. HAIRCUT. EVER!
+
+It’s Cool to Be Kind
+
+41
+
+g.co/BeInternetAwesome
+
+© 2021 Google Inc.
+
+

@@ -1,0 +1,2031 @@
+WASHINGTON STATE CENTER
+FOR COURT RESEARCH
+Administrative Office of the Courts
+Mary Campbell McQueen
+Administrator
+
+Truancy Case Processing Practices
+May 2004
+
+Prepared by:
+Washington State Center for Court Research
+1206 South Quince Street
+P.O. Box 41170
+Olympia, Washington 98504‐1170
+Voice: (360) 753‐3365
+Fax: (360) 586‐8869
+
+Truancy Case Processing Practices
+Executive Summary
+In 1995, the legislature enacted the “Becca Bill,” which requires school districts to take legal
+action against children or their parents when they fail to comply with state compulsory school
+attendance laws.1 The law created new responsibilities for both schools and courts in fighting
+truancy and is invaluable for making state compulsory education laws enforceable. However, the
+new responsibilities have been challenging for both the schools and the courts. The legislation
+has more than doubled the non-offender juvenile caseload and contributed to a substantial
+growth in the backlog of unresolved cases. This study focuses on the processes that courts in
+Washington use to handle truancy cases. The study is based on a statewide survey of juvenile
+court administrators that was conducted in December 2003.
+We found that many courts have implemented case processing innovations that reduce the
+truancy case burden. Most courts have access to a variety of government, community, and
+private resources to help resolve serious issues that contribute to a student’s attendance
+problems. Most courts also use a series of escalating sanctions when students fail to comply with
+their court order to attend school. We also found that courts typically have established close
+relationships with schools in developing truancy programs and policies. Nearly all courts provide
+training to school personnel on the truancy petition process, and many have other outreach
+programs that involve regular meetings between school and court personnel or that involve staff
+positions that serve as a liaison with school districts.
+This study also identified a number of areas that raise concerns. Failures to appear are common
+at truancy petition hearings and are contributing to backlogs of unresolved cases. Many courts
+have no provisions for personal service and bench warrants to compel a courtroom appearance
+for truancy. Court supervision of school attendance is another weak point in the process, because
+most courts do not get attendance reports from schools, and schools have trouble keeping up with
+contempt motions. Contempt standards and sanctions are remarkably different among the courts.
+These inconsistencies and the reluctance of courts to use sanctions with real teeth have
+contributed to schools’ reluctance to file truancy petitions with the courts.
+Major findings include:
+Case Processing Innovations:
+• In eight courts (26 percent) prosecutors file truancy petitions, relieving some of the
+burden on schools and providing an initial review for legal sufficiency for the courts.
+• Seven courts (22 percent) use expedited case processing practices that do not require
+individual hearings between students and a judge or commissioner for the initial truancy
+petition hearing. Two courts (6 percent) do not involve judges or commissioners at all in
+the initial truancy petition hearing.
+
+1
+
+The Becca Bill also covers child in need of services and at-risk youth petitions, but this study focuses on the
+truancy aspects of the Becca Bill.
+
+1
+
+The Relationship between Courts and Schools:
+• Fifteen courts (48 percent) report that they work together with schools in establishing
+policies and programs, and 16 courts (52 percent) report that courts and schools
+understand and cooperate with each other’s policies.
+• Twenty-eight courts (88 percent) provide training to school personnel on the truancy
+petition process.
+Areas for Concern:
+• Schools in three juvenile court district (9 percent) do not provide information on their
+intervention efforts as a part of the truancy petition, even though this is required by the
+statute.
+• Schools in only six juvenile court district (19 percent) submit regular attendance reports
+for students under court orders to attend school.
+• Twenty-three courts (74 percent) rely on schools to file contempt motions, but schools
+typically have difficulty keeping up with both truancy petitions and contempt motions.
+• In twelve juvenile court districts (38 percent) the threshold for contempt on an order to
+attend school is one additional unexcused absence, but in other juvenile court districts the
+threshold is as low as one class period skipped or as high as several months of noncompliance.
+• More than one-third of the courts impose no sanction after the first finding of contempt or
+allow the sanction to be purge by simply attending school.
+Top Three Recommendations for Helping Schools Meet Their Becca Bill Truancy Obligations:
+• 47 % Increase the funding, resources, or incentives available to schools for the Becca
+truancy process.
+• 28% More school training, more consistent policies among school districts, or more
+leadership from the Office of the Superintendent of Public Instruction on truancy
+matters.
+• 25% Make filing truancy petitions mandatory by imposing sanctions on schools (or
+school personnel) that don’t comply with the law.
+
+2
+
+Truancy Case Processing Practices
+Introduction
+In 1995, the legislature enacted the “Becca Bill,” which in part requires school districts to take
+legal action against children or their parents when they fail to comply with state compulsory
+school attendance laws. The law created new responsibilities for both schools and courts in
+fighting truancy, and a number of studies have been conducted to assess the impact of law. This
+study adds to our understanding of truancy reduction efforts by focusing on the court processes
+used to handle truancy cases in courts across the state. This study will be of interest to judicial
+officers and court administrators who continue to innovate in court processes, policy-makers
+who want to evaluate the effectiveness of the truancy petition process, and school officials who
+want to better understand court procedures and improve collaborative efforts with the courts in
+addressing truancy.
+
+The Truancy Petition Process: School and Court Responsibilities
+The legislature passed the Becca Bill to give parents and communities better tools to help at-risk,
+runaway, and truant youth. In the area of truancy, the law was designed to put teeth into
+compulsory attendance laws by requiring schools to take certain steps to help students and
+parents eliminate unexcused absences and then to take legal action if students or parents do not
+respond to school efforts. The law makes truancy reduction a cooperative effort between schools
+and courts. If schools do not do their part, the courts cannot intervene, and if the courts do not do
+their part, the schools have no recourse to compel attendance.
+School responsibilities begin with the first unexcused absence. After the first unexcused absence
+in any month during the school year, the school must notify parents of the absence and inform
+them of the potential consequences of truancy (see RCW 28A.225.020). After the second
+unexcused absence within a month, the school must schedule a conference with the student and
+the student’s parents and take steps to reduce absences, such as adjusting the student’s schedule,
+providing vocational courses, referring them to a community truancy board, or requiring the
+student to attend an alternative school. After the fifth unexcused absence within a month, the
+school must file a truancy petition with the court, enter into an agreement with the student about
+attendance requirements, or refer the student to a community truancy board (see RCW
+28A.225.030). The school district must file a truancy petition with the court if a student has
+accrued seven unexcused absence within a single month or ten unexcused absence in the entire
+school year. The petition alleges that the student has violated state compulsory attendance laws,
+that school efforts at reducing the student’s absences have not been effective, and that court
+intervention is necessary to reduce absences(see RCW 28A.225.035). The petition must also
+identify the child, document the absences, list school efforts to reduce absences, and provide
+recommendations as to what the actions the court should take. If the court assumes jurisdiction
+and enters an order, the school must regularly report additional unexcused absences.
+Court responsibilities begin once the school has filed the truancy petition. The court must
+schedule a hearing to consider the petition or refer the student to a community truancy board. If
+
+3
+
+the allegations in the petition are established by a preponderance of evidence or by agreement
+with the student, the court enters an order and supervises the student’s school attendance. The
+order may require students to attend their current school, attend another public or nonsectarian
+school, participate in a public educational program, work with a community truancy board, or
+submit to drug or alcohol testing (see RCW 28A.225.090). A student who does not comply with
+the order may be subject to a civil contempt proceeding and be subject to up to seven days of
+detention or detention alternatives. Any parent violating the order may be fined $25 per day for
+each unexcused absence or required to provide community restitution.
+
+Impacts and Trends
+Most studies of the truancy petition process have reported positive impacts. An early study
+reports a great increase in the number of petitions filed over the first two years of implementation
+and a general strengthening of attendance monitoring and enforcement policies among schools.2
+Later studies found that students were more likely to stay in school and that high school
+enrollment rates increase after the Becca law was passed.3 A survey of school principals
+demonstrated that three out of four survey respondents felt that the truancy petition process has
+reduced unexcused absences.4 However, questions still remain as to the effectiveness of the
+program. The findings with regard to increasing high school enrollment were based on aggregate
+data, and a study using individual level data found that filing a truancy petition has no impact on
+the likelihood that a student will remain in school.5 There has been no research conducted to
+assess whether school interventions have been effective.
+The court community is committed to the truancy petition process as a way of improving school
+attendance but also sees additional benefits. The Becca Bill truancy process provides a way to
+reach out to youth who are at risk for developing more serious legal issues. Mason County
+Commissioner Richard C. Adamson explains that the Becca Bill truancy process “peeled back
+the layers society, exposing a whole strata of dysfunctional families that we had not seen
+before.” Bringing these youth back to school and providing additional services where necessary
+can help break the cycle of disfunctionality and connect these young people to a brighter future.
+Achieving these positive results has placed heavy burdens on both the courts and the schools.
+The Becca truancy process has resulted in a tremendous increase in the non-offender juvenile
+caseload (see Figure 1). As a result of the legislation, the number of truancy filings grew from 91
+in 1994 to 10,232 in 1996, surpassing the total number of all other types of non-offender juvenile
+cases. Truancy filings reached their peak in 1998 with 16,607 new cases compared to 7,587 new
+
+2
+
+Mason Burley and Edie Harding. “Truant Students: Evaluating the Impact of the “Becca Bill” Truancy Petition
+Requirements,” Washington State Institute for Public Policy, 1998.
+3
+Steve Aos, “Keeping Kids in School: The Impacts of the Truancy Provisios in Washington’s 1995 “Becca
+Bill,”Washington State Institute for Public Policy, 2002; Mason Burley, “Assessing the Impact of Washington’s
+Truancy Petition Process: A Exploratory Analysis of the Seattle School District,” Washington State Institute for
+Public Policy, 2000.
+4
+Joseph Hauth, “Washington’s Truancy Petition Process,” a report prepared by Quadrant Solutions, LLC for the
+Office of the Superintendent of Public Instruction.
+5
+Burley, “Assessing the Impact of Washington’s Truancy Petition Process,” 4 .
+
+4
+
+filings for all other types of juvenile dependency cases. This study documents many of the
+innovations courts have used to handle the increased caseload.
+Figure 1. Impact of the Becca Bill Truancy Process on the Non-offender Juvenile Caseload
+18,000
+Truancy filings
+15,000
+12,000
+9,000
+6,000
+
+All other filings*
+
+3,000
+0
+1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002
+
+Notes: * All other filings include child in need of services, dependency, developmental
+disability placement, termination, and at-risk youth filings.
+The Becca Bill presented schools with a somewhat different challenge. While the courts faced
+growing caseloads, the schools had to develop entirely new processes for performing early
+interventions and filing petitions. Schools have had difficulty adapting to these new
+responsibilities, and state funding for these functions falls far short of the actual costs. The state
+provides no funding for early interventions or contempt filings and only about $90 per truancy
+petition, compare to the $360 estimated the cost of preparing and submitting each truancy
+petition.6 The financial burdens of early interventions and petition filing have grown as a result
+of funding cuts for schools.
+These institutional and financial burdens have resulted in low and declining school support for
+the truancy petition process. During the 1996-97 school year 30 percent of the state’s school
+districts filed no truancy petitions, and by the 2000-01 school year 40 percent of the state’s
+school districts filed no petitions.7 Similarly, the number of truancy petitions filed has declined
+as a percentage of the students who have ten or more unexcused absences.8 School participation
+6
+
+Hauth, “Washington’s Truancy Petition Process,” 2.
+Burley and Harding, “Truant Students,” i.; Hauth, “Washington’s Truancy Petition Process,” 4.
+8
+This discussion uses the ten or more absence threshold as the benchmark for school participation in the Becca
+truacy process, because schools report the number of students who reach this threshold, and filing at this point is
+mandatory. Schools must also file a truancy petition when a student has seven unexcused absences in a month, but
+they do not report the number of students who reach this threshold. Schools report the number of students with five
+7
+
+5
+
+in the Becca truancy process reached its peak in the 1997-98 school year when truancy petitions
+were filed on 46 percent of students with ten or more unexcused absences (see Figure 2). By the
+2002-2003 school year filings were down to 31 percent of the number of students with ten or
+more unexcused absences. Even at the height of support for the program, the Becca Bill truancy
+process reached less than half of the targeted students, and now it reaches less than one-third of
+those students.
+Figure 2. Truancy Petitions Filed as a Percent of the Number of Students with Ten or More
+Unexcused Absences
+50%
+40%
+30%
+20%
+10%
+0%
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+School Year
+
+Notes: One school district had not reported absences for the 2002-2003 school year to the
+Office of the Superintendent of Public Instruction at the time this report was prepared. This
+has no impact on the percentages reported here, since it is a small school district and there
+were only five students from this district with ten or more absences in the 2001-2002 school
+year.
+
+The Truancy Case Processing Survey
+This study examines court procedures for truancy cases, as well as the relationship between
+courts and schools in addressing truancy issues. The study is based on a survey of juvenile court
+administrators throughout the state (See the appendix for a copy of the questionnaire.). The
+survey design process involved site visits to five juvenile courts during October and November
+of 2003 to observe truancy proceedings and interview court personnel. We mailed the Truancy
+absences in a month, but filing at this point is optional. Schools have the option to enter into an agreement with the
+student establishing attendance requirements or to refer the student to a truancy board rather than filing a truancy
+petition with the court.
+
+6
+
+Case Processing Survey to the juvenile court administrators of all 33 juvenile courts on
+December 12, 2003, and followed-up by phone with non-responding courts in January 2004. We
+obtained responses from 32 courts for a response rate of 97 percent. The percentages given in the
+tables throughout this report are for the 32 responding courts, not all 33 courts. On a few tables
+the number of respondents is 31 rather than 32, because some courts did not answer all the
+questions.
+
+7
+
+I. Truancy Petitions
+Filing
+Court involvement in school attendance is initiated by the filing of a truancy petition. The
+petition alleges that a student has violated compulsory attendance laws and requests the court to
+take jurisdiction over the matter. Schools define what constitutes an unexcused absence and track
+attendance. School districts are required to file a truancy petition when a student has seven
+unexcused absences in a month or ten unexcused absences during the school year. Schools
+districts in 26 percent of the responding juvenile court districts have arranged to submit an
+attendance report to the prosecutor’s office and have the prosecutor file the legal documents with
+the court (see Table 1). This arrangement reduces the school workload involved in filing
+petitions and serves as a filter for the court by reviewing the legal sufficiency of the case. The
+prosecutor’s office also usually presents the cases in court, which can reduce the amount of time
+school officials must spend in court. Some of these school districts pass all or part of the state
+reimbursement for truancy petition filing on to the prosecutor’s office.
+Table 1. Truancy Petition Filer
+
+School district
+Prosecutor’s office
+
+Number of
+Courts
+23
+8
+31
+
+Percent of
+Courts
+74%
+26%
+100%
+
+Petition Hearings
+Juvenile courts have developed a variety of procedures for handling the workload of truancy
+petition proceedings. Some of these differing strategies can be seen by identifying the
+participants in truancy petition hearings. Judicial officers (either judges or court commissioners)
+are involved in truancy petition hearings in 30 courts (94 percent), whereas two courts (6
+percent) use procedures that do not involve judicial officers (see Table 2). The initial hearing
+typically gives students the option of signing an agreed order compelling school attendance or
+contesting the petition. For an agreed order, the student rather than a judicial officer makes the
+determination on whether compulsory attendance laws were broken. Accordingly, some courts
+have structured their process to minimize or eliminate the involvement of judicial officers until a
+student contests the petition or fails to comply with the order. Others believe that the judicial
+officer plays an important symbolic role in the hearing by emphasizing the seriousness with
+which the court regards truancy matters.
+After judicial officers, school officials are the second most common participant in truancy
+petition hearings. They are involved in the truancy petition hearings in 22 courts (69 percent). In
+courts where each student receives an individual hearing with a judge or commissioner, school
+officials typically are present to provide testimony on attendance records and school
+
+8
+
+interventions. Some courts use the hearing as an opportunity to have truant students meet with
+either school or school district officials to begin the process of assessing their education program
+and overcoming obstacles to academic progress.
+Probation officers are involved in truancy hearings in 60 percent of the responding courts even
+though truancy is not a criminal offense and does not involve probation. In some courts
+probation officers help organize the hearing and facilitate case flow. Other courts use probation
+officers to help identify students with special needs and help connect them to court and
+community resources. Some courts use probation officers to conduct the hearing as a group
+session with or without the involvement of a judge or commissioner. Five courts have case
+managers separate from probation staff to perform these functions. These case managers are
+typically funded through grants, but one county has drawn upon a volunteer community
+organization for case work.
+Table 2. Truancy Petition Hearing Participants
+
+A judge or commissioner
+School officials
+School district officials
+Probation officers
+Case managers
+Prosecutors
+Public defenders
+
+Number of
+Courts
+30
+22
+8
+19
+5
+11
+9
+
+Percent of
+Courts
+94%
+69%
+25%
+59%
+16%
+34%
+28%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+Prosecutors are involved in truancy petition hearings in 11 courts (34 percent), and public
+defenders are involved in 9 courts (28 percent). Prosecutors present truancy petitions in courts
+where the school districts have arranged for the prosecutor’s office to file truancy petitions. In
+three additional courts, prosecutors appear in court after school officials prepare and file
+petitions. Public defenders are used for contempt hearings because students’ liberty is at stake,
+but they also may be present during truancy petition hearings in courts where all truancy matters
+are scheduled on the same docket.
+Twenty-five courts (78 percent) use the typical judicial process of giving each case an individual
+hearing (see Table 3). Other courts have adopted procedures that reduce the amount of time that
+truancy petition hearings take or limit the role of judicial officers. Three courts (9 percent) have
+students meet individually with school officials, probation officers, or prosecutors who explain
+the process and the penalties for further absences and, in some cases, develop education plans to
+avoid future absences rather than appearing before a judge or commissioner. Four courts (13
+percent) process truancy petitions entirely in batch mode with no individualized attention unless
+
+9
+
+students want to contest the petition. In these courts respondents to the truancy petitions typically
+meet as a group with a probation officer who explains the petition process and potential
+consequences and fields questions from the group.
+Table 3. Format of Truancy Petition Hearings
+Each respondent:
+Has an individual hearing with a commissioner or judge
+Meets individually with a school official, probation officer, and/or
+prosecutor.
+Receives individual attention only if the respondent contests the
+petition.
+
+Number of
+Courts
+25
+
+Percent of
+Courts
+78%
+
+3
+
+9%
+
+4
+32
+
+13%
+100%
+
+Contesting the Petition
+Though most students sign an agreed order, some choose to contest the petition. In 53 percent of
+the courts, students who wish to contest the petition can do so on the same day as the initial
+hearing on the petition (see Table 4). If the court is using individual hearings for each
+respondent, an additional proceeding is not usually required, but if the court is using a group
+format for the hearing, an individual hearing is held after the group hearing has been completed.
+These courts feel that this procedure reduces the time students are out of school for courtroom
+appearances and that reducing the time between the offense and the sanction is particularly
+important for helping teenagers modify their behavior. Forty-seven percent of the courts
+schedule the contested hearings for another day, typically in one to two weeks.
+Table 4. Contested Hearing Scheduling
+Contested hearings are:
+Held on the same day as the initial court room appearance.
+Scheduled for another day.
+
+Number of
+Courts
+17
+15
+32
+
+Percent of
+Courts
+53%
+47%
+100%
+
+Failure-to-Appear
+Students who skip school may also have a tendency to miss their court dates. The failure-toappear (FTA) rate on truancy petitions is as high as 30 percent in some courts. No shows at
+
+10
+
+truancy petition hearings seem to be the primary cause of the 29 percent increase in pending
+juvenile dependency cases over the period of 1998 to 2002.
+Courts typically issue bench warrants when FTAs occur. For truancy matters, RCW 28A.225.030
+requires personal service of the notice and summons if certified mail service is unsuccessful.
+Actual court practice appears to diverge somewhat from the statutory requirement. We asked
+juvenile court administrators to identify the sequence of events they follow after a student fails to
+appear for their truancy petition hearing. Their responses indicate that 55 percent of the
+responding courts require personal service before issuing a bench warrant or entering a default
+order, whereas 32 percent do not. An additional 13 percent indicated that they do not use bench
+warrants or default orders on truancy petitions (see Table 5).
+Table 5. Personal Service Requirements
+
+Personal service is required before issuing a bench warrant or
+entering a default order
+Personal service is not required before issuing a bench warrant
+or entering a default order
+Default orders/bench warrants are not used for truancy
+
+Number of
+Courts
+
+Percent of
+Courts
+
+17
+
+55%
+
+10
+4
+31
+
+32%
+13%
+100%
+
+Personal service is usually the responsibility of the petitioner, but personal service is expensive,
+and many schools are already financially strained by filing petitions. When asked, “Who
+arranges and pays for personal service of the summons when students fail to respond to a mail
+notice and summons for a truancy petition?” only 3 courts (9 percent) replied that the school or
+school district arranges and pays for personal service (see Table 6). Three courts (9 percent)
+report that the prosecutor’s office handles personal service, but the responsibility for personal
+service has largely fallen to the courts if it is done at all. Forty-seven percent of courts handle
+personal service. The sheriff performs personal service for one court. Nearly one-third of the
+courts indicated that personal service is not typically used for truancy petitions.
+
+11
+
+Table 6. Responsibility for Personal Service
+Who arranges and pays for personal service?
+The school or school district
+The prosecutor’s office
+The court
+Sheriff
+In person service is not typically done
+
+Number of
+Courts
+3
+3
+15
+1
+10
+32
+
+Percent of
+Courts
+9%
+9%
+47%
+3%
+31%
+100%*
+
+* The reported percentages do not sum to100 percent due to rounding.
+
+Special Programs
+Many juvenile courts have developed special programs to better manage their truancy caseload
+and improve outcomes for students. These programs typically involve cooperative efforts
+between the court, schools, and community organizations to serve troubled youth. These special
+programs include court-at-school, truancy classes, and deferred petition programs.
+Court-at-school:
+One of the simplest programs involves holding court sessions at school for truancy petitions.
+This reduces the time students must spend away from school for court room appearances, and
+helps some students return to school. Holding regular court sessions at school can also facilitate
+communications between court and school officials and can make holding regular review
+hearings less onerous. Mason County and Island County have both established court-at-school
+programs for truancy.
+Truancy Classes:
+Ten courts provide or require students to attend truancy classes or attendance workshops. The
+formats for these programs vary substantially, but they all include information about attendance
+laws, the truancy petition process, and the consequences of being found in contempt of the court.
+Some of these programs also include content that emphasizes the importance of education in
+becoming independent and self-sufficient. Some of these programs also help students develop
+personal education plans. In Jefferson County students attend a truancy class as part of the prepetition school interventions. The King, Lincoln, and Skagit county juvenile courts use truancy
+classes as part of a deferred petition program. The Snohomish and Thurston county juvenile
+courts hold a truancy class at the beginning of the truancy petition hearing. The Pierce, Spokane,
+Benton/Franklin, and Clark county juvenile courts requires students to participate in a truancy
+class offered by a school or community organization as a part of the truancy order.
+Deferred Truancy Petition Programs:
+Twelve courts have deferred petition programs that keep students out of court if they participate
+in a truancy intervention program. These programs can substantially reduce the number of
+
+12
+
+truancy petition hearings and provide better support to the majority of students who are willing
+to change their behavior. In King County, students who previously have not had a truancy
+petition or other matter before the court are given the option to participate in an attendance
+workshop rather than appear in court. Attendance workshops last for two and a half hours and
+involve presentations on truancy law by a deputy prosecuting attorney. Parents and students
+participate in separate small group sessions conducted by trained facilitators. Students enter into
+a contract that specifies steps they will take to improve their attendance. The contracts are placed
+in their court file, and school districts report on their progress after 30 days. The court then
+schedules a preliminary hearing for students whose attendance does not improve. Most students
+successfully complete their contract, and the program has reduced the number of preliminary
+truancy hearings by as much as 57 percent.
+The Benton/Franklin Juvenile Court uses truancy boards to provide individualized
+assistance to students with attendance problems and reduce the court resources involved in
+preliminary truancy petition hearings. When a school files a truancy petition, the court refers the
+student to a truancy board. No court room appearance is necessary unless the student does not
+attend the truancy board hearing. The board makes every effort to help students make their
+hearing appointment. Truancy board hearings are usually held at the mall, because it is a hub for
+the county transit system, and occasionally the board even holds hearings at students’ homes.
+During the hearing, the student signs a court order compelling school attendance, and the board
+assesses the student’s personal and family issues that are interfering with school attendance. The
+board then develops an intervention plan, which may include referrals to agencies or community
+resources. A case manager follows-up with service referrals and maintains weekly contact with
+the school. The case manager works with the student for the duration of the order, which is
+usually for the current school year.
+
+13
+
+II. Truancy Orders and Court Supervision
+If the student signs an agreed order or the court determines that the student has reached the
+threshold for unexcused absences in a contested hearing, the court enters a truancy order
+compelling school attendance. However, 30 counties (94 percent) will not enter a truancy order if
+the school has not met any of its responsibilities for early interventions. Although the statute
+requires schools to meet all their intervention obligations before filing, two courts accept
+petitions even if none of the school interventions have been made. Determining if schools have
+fulfilled their obligations requires information on schools’ intervention efforts, but a few schools
+do not provide this information in the attendance reports they submit to the courts (see Table 20).
+
+Attendance Reports
+Even after the juvenile court assumes jurisdiction for supervising attendance, the court still must
+rely on the schools for attendance information. RCW 28A.225.035 requires that “the school
+district shall regularly report to the court any additional unexcused absences by the child.”
+However, regular reporting is not at all common. Only 6 (19 percent) of the courts receive
+attendance reports on a regular periodic basis (see Table 8). Attendance reports are primarily
+obtained through requests by the court or are submitted along with contempt motions. Regular
+reporting may be uncommon because schools are only required to make a report if there are
+additional unexcused absences after a court order is entered, and many schools file contempt
+motions after one additional absence. Unfortunately, courts cannot tell if the schools are keeping
+up with contempt motions, unless the schools also provide regular attendance reports.
+Table 7. Attendance Reporting
+Schools provide attendance reports:
+On a regular periodic basis.
+When the court requests attendance information.
+When the school district files a contempt motion.
+Other
+
+Number of
+Courts
+6
+23
+25
+2
+
+Percent of
+Courts
+19%
+75%
+78%
+6%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+Method of Supervising Attendance
+Courts may use proactive or reactive approaches to supervise attendance. A proactive approach
+typically involves holding review hearings to determine if the court order is being followed,
+whereas reactive approaches typically wait for schools to file a contempt motion before taking
+further action. One-quarter of the courts use the proactive approach, which gives the court a
+more direct means of supervising attendance (see Table 6). However, review hearings require a
+
+14
+
+lot of court time given the volume of the truancy caseload, and they also take students out of the
+classroom. The reactive approach is more popular, with three-quarters of the courts waiting for
+the schools to file contempt motions. This option is more efficient in terms of court time, but
+schools are not reimbursed for filing contempt motions so they may delay or fail altogether to do
+so.
+Interviews with court personnel indicate that schools often get behind on their contempt motions.
+A prosecutor reported that in some cases schools have waited until students have accrued more
+than forty additional unexcused absences before filing a contempt motion. During court visits in
+conjunction with this study, the author observed several examples of the problem. In one case
+where a gifted but unmotivated high school student had dropped out of an alternative education
+program that he had been order to attend, the parent complained, “I’m frustrated because they
+[the school] didn’t send this to court last year when they dropped him from the program.” In
+another case, a student had failed to comply with a court order from the previous school year to
+return to school. The mother was a single parent, who had to leave early each morning to take a
+bus to work and did not know her daughter was not attending school. These delays in filing
+contempt motions allow students to fall even further behind in their academic progress,
+increasing the likelihood that they will not graduate.
+Table 8. Method of Supervising Attendance
+After a student is found truant:
+Another hearing date is set to review school attendance.
+Students return to court only if the school files a contempt motion.
+
+Number of
+Courts
+8
+23
+31
+
+Percent of
+Courts
+26%
+74%
+100%
+
+Length of Attendance Supervision
+When the Becca Bill was passed in 1995, it authorized courts to take jurisdiction over school
+attendance only for the current school year in which a student violates mandatory attendance
+laws. In 1997 the legislature amended the law to give courts discretion in setting the period of
+supervision. Many courts choose not to exercise this additional discretion. Thirteen court (fortyone percent) still take jurisdiction over attendance only for the current school year (see Table 9).
+Four courts (13 percent) extended jurisdiction into the next school year when truancy petitions
+are filed near the end of the school year, and two courts (6 percent) always supervise attendance
+into the next school year to make sure students with attendance problems are registered and
+attending school after the summer break. Six courts (19 percent) supervise attendance for a
+period of one calendar year, which usually will take them into the next school year. Four courts
+have opted to maintain supervision until a student turns 18 or receives a GED.
+
+15
+
+Table 9. Length of Attendance Supervision
+The court typically supervises school attendance for:
+The current school year.
+The current school year, and into the next school year for filings
+near the end of the current school year.
+The current school year and into the fall of the next school year.
+One calendar year.
+The time the student is subject to mandatory attendance laws (until
+18 or GED completion).
+Other
+
+Number of
+Courts
+13
+4
+
+Percent of
+Courts
+41%
+12%
+
+2
+6
+4
+
+6%
+19%
+13%
+
+3
+32
+
+9%
+101%
+
+Before the 1997 amendment, the only way to maintain court supervision over students whose
+petition was filed at the end of the school year was to get a court order extending jurisdiction into
+the next school year. Although it is no longer necessary, 13 courts still require a separate order to
+extend jurisdiction into the next school year. The additional court proceeding to extend the order
+could be avoided by specifying the period of supervision in the initial order or by taking
+jurisdiction until the student is not subject to compulsory attendance laws.
+Table 10. Case Management
+Case management is provided by:
+Case managers
+Probation officers
+Volunteers
+Other
+No case management for truancy
+
+Number of
+Courts
+2
+17
+2
+6
+9
+
+Percent of
+Courts
+6%
+53%
+6%
+19%
+28%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+Case Management
+Some students under court supervision need additional resources to help them overcome issues
+that are interfering with school attendance or follow-up to make sure they comply with the court
+order. The courts use a variety of resources to help troubled students connect with community
+resources and follow-up on their attendance. About half of courts rely on probation officers to
+help with truancy cases (see Table 10). Using grants, two courts have hired case managers to
+16
+
+focus exclusively on truancy cases, and two additional courts use volunteers. Six courts have
+made other arrangements, typically using outside resources such as the county health department,
+school attendance counselors, or school truant officers. Nine courts have no provisions for case
+management for truancy.
+
+17
+
+III. Noncompliance/Contempt
+Many students return to school or improve their attendance as a result of a court truancy order,
+but others do not. If a student continues to be truant after a court order to attend school is
+entered, the student may be found to be in contempt of the court.
+
+Filing Contempt Motions
+Truancy takes place outside the presence of the court, so court enforcement of the order is
+usually initiated by a motion from the filer of the truancy petition. Fifty-six percent of the courts
+rely on the school or school district to file a contempt motion if a student continues to be truant
+(see Table 11). The prosecutor’s office files contempt motions in thirty-four percent of the
+courts. These are typically the same courts where schools have arranged for the prosecutor’s
+office to file truancy petitions, but the prosecutor’s office files contempt motions in three
+additional courts. Two courts (6 percent) file contempt motions themselves. Both of these courts
+use probation officers for case management and request attendance information from schools.
+This practice may allow better enforcement of court truancy orders, since school RCW28A.225
+only requires schools to file petitions, not contempt motions, and schools are not reimbursed for
+filing contempt motions. In one juvenile court district, the school notifies the juvenile department
+of additional unexcused absences and the juvenile department files the contempt motion.
+Table 11. Contempt Motion Filer
+
+School/school district
+The prosecutor’s office
+The court
+Other
+
+Number of
+Courts
+18
+11
+2
+1
+32
+
+Percent of
+Courts
+56%
+35%
+6%
+3%
+100%
+
+Contempt Proceeding Participants
+Once a contempt motion is filed, the court schedules a show cause hearing. There are some
+important differences between truancy petition hearings and contempt hearings. Although the
+role of judicial officers in truancy petition hearings differs among many of the courts, a judge or
+commissioner always conducts the show cause hearing on contempt motions in all the courts,
+and each student receives an individual hearing (see Table 12). Public defenders are present to
+represent students in all but two courts. School or school district officials are more likely to be
+present to give testimony on contempt motions, and more courts use prosecutors to present
+contempt motions than truancy petitions. Probation officers also are more likely to be involved.
+
+18
+
+Table 12. Show Cause Hearing Participants
+
+A judge or commissioner
+School officials
+School district officials
+Probation officers
+Case managers
+Prosecutors
+Public defenders
+
+Number of
+Courts
+32
+25
+7
+21
+4
+18
+30
+
+Percent of
+Courts
+100%
+78%
+22%
+66%
+13%
+56%
+94%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+Supervising School Attendance for Students Found in Contempt
+The courts typically take a more proactive role in supervising the attendance of students found to
+be in contempt of the truancy order. Whereas only about one-quarter of the courts set hearings to
+review attendance after an order is issued in response to a truancy petition, 65 percent of the
+courts set review hearings for students who have been found to be in contempt on their court
+order (see Table 13).
+Table 13. Method of Supervising Attendance for Students in Contempt
+After a student is found to be in contempt:
+Students return to court only if the school files a contempt motion.
+A hearing date is typically set to review attendance.
+A hearing date is typically set to review the completion of any court
+ordered services.
+
+Number of
+Courts
+17
+20
+
+Percent of
+Courts
+55%
+65%
+
+20
+
+65%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+Standards for Contempt
+Standards for filing a contempt motion are so remarkably varied among juvenile court districts
+that in one county a contempt motion could be filed if a student skips a single class period while
+in another county a contempt motion would only be filed after a student continues to be truant
+for several months. Some schools take into consideration factors, such as tardies and discipline
+problems, but all of the courts report that additional absences are a cause for filing a contempt
+motion (see Table 14). However there is little uniformity on the threshold of absences at which
+19
+
+schools file contempt motions. One court reports that the threshold is one class missed. This
+standard is rather surprising since an unexcused absence is typically defined as failure “to attend
+the majority of hours or period in an average school day” (RCW 28A.225.020), though schools
+do have the option of setting more restrictive policies. Twelve courts (38 percent) report that
+schools use a threshold of a single additional unexcused absence, and another three courts (9
+percent) report that the threshold is two additional unexcused absences. Another court reports
+that schools file contempt motions after the third unexcused absence. Several courts report that
+schools use more flexible standards, such as one to three additional unexcused absences or five
+to ten additional unexcused absences. One court reports that contempt motions are filed only as a
+last resort after months of noncompliance and other interventions aren’t working.
+Table 14. Factors Considered in Filing Contempt Motions
+
+Additional Absences
+Tardies
+Discipline problems
+Failure to complete previously ordered services
+Other
+
+Number of
+Courts
+32
+21
+14
+25
+2
+
+Percent of
+Courts
+100%
+66%
+44%
+78%
+6%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+Sanctions
+RCW 28A.225.090 authorizes courts to place students who fail to comply with a court order in
+detention for up to seven days or to use detention alternatives. Because noncompliance with a
+court order on a truancy matter is a civil contempt of the court, the court must offer purge
+conditions, which enable the student to avoid the continued imposition of the sanction. Purge
+conditions must be reasonably related to the contempt and within the youth’s power to fulfill.
+However, the issue of contempt has been volleyed back and forth between the legislature and
+appellate courts, causing some uncertainty at the trial level regarding the appropriateness of
+detention as a sanction for truancy contempt. Survey responses from some courts suggest that
+court practices with regard to sanctions and purge conditions may depart from what is
+specifically authorized by statute. For example, one court reports that the court orders 30 days
+detention for each finding of contempt. At least one court requires completion of detention time
+on the third finding of contempt without a purge condition.
+Most courts have several types of sanctions at their disposal for enforcing truancy orders.
+Detention is the most common sanction (see Table 15). The courts that don’t use detention rely
+on sanctions such as community service, day detention, and weekend detention. Community
+service is the second most common sanction. Other sanctions, such as day detention, weekend
+detention, and electronic home monitoring are less common, but give the courts more flexibility
+
+20
+
+to impose incrementally more severe sanctions. They also may provide options when detention
+facilities are full.
+Table 15. Sanctions
+
+Detention
+Community service for the student
+Fines for the parents
+Weekend detention
+Participation in a special program
+Day detention
+Electronic home monitoring
+Community service for the parent
+Fines for the student
+Other
+
+Number of
+Courts
+27
+24
+11
+10
+9
+7
+5
+4
+2
+12
+
+Percent of
+Courts
+84%
+75%
+34%
+31%
+28%
+22%
+16%
+13%
+6%
+38%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+We asked court administrators to report the purge conditions that their court typically uses for
+the first finding of contempt. Their responses show that many courts are slow to impose
+sanctions in truancy cases. Even after students have failed to respond to numerous school
+interventions and a court order to attend school, four courts (13 percent) do not use a sanction for
+the first finding of contempt (see Table 16). Ten additional courts (31 percent) merely require
+that students attend school to purge the first finding of contempt. Some schools have been
+reluctant to file truancy petitions, because they do not feel that the truancy process has any real
+teeth. Four juvenile court administrators suggested that swifter sanctions would help encourage
+schools to fulfill their obligations to file truancy petitions (see Table 24).
+However, most courts impose sanctions and purge conditions that require some effort. Seven
+courts (22 percent) require the completion of an essay, make-up work, or other assignments as
+the purge condition. Some of these courts allow the work to be completed prior to reporting to
+detention, whereas others require the work to be completed in detention. Ten courts (31 percent)
+use purge conditions that may involve community service. At least one court suspends detention
+to give the student an opportunity to complete the required hours of community service. It is not
+clear whether other courts suspend detention to allow community service to be completed or
+whether they order community service as a detention alternative without providing purge
+conditions. The court that orders 30 days of detention for each finding of contempt did not
+specify any purge conditions.
+
+21
+
+Table 16. Purge Conditions for First Finding of Contempt
+Purge conditions:
+No sanction, therefore no purge condition
+Attendance at school
+Essay, make-up work, or other assignments
+Community service or other detention alternative
+No purge condition (30 days of detention ordered)
+
+Number of
+Courts
+4
+10
+7
+10
+1
+32
+
+Percent of
+Courts
+13%
+31%
+22%
+31%
+3%
+100%
+
+22
+
+IV. Services
+Some students have serious issues that are interfering with their school attendance. Courts often
+try to help students address underlying problems that contribute to truancy. Many courts have
+developed cooperative arrangements with outside resources, such as other government agencies,
+nonprofit organizations, and even private service providers, to help students get the help they
+need. RCW 28A.225.090 authorizes courts to order a truant student to submit to testing for drug
+and alcohol use. Twenty-nine of the 32 responding courts are exercising this authority (see Table
+17). The courts typically refer students to nonprofit organizations or private providers for drug
+and alcohol evaluations. Parents are usually responsible for the costs, but many nonprofit
+organizations do not charge for their services, and some courts are willing to pay for drug testing
+if finances are an issue. Most courts also refer students who may have psychological issues for
+mental evaluations and to counseling. Other services that many courts utilize include anger
+management classes, counseling for parents, parenting classes, tutoring, and case management.
+Only two courts address economic issues such as food and housing. Issues such as homelessness
+can be a serious impediment to school attendance, and courts can refer students facing economic
+hardships to the many government and community programs that are available to provide
+assistance.
+Table 17. Court Ordered/Referred Services
+Service
+Drug/alcohol
+evaluation
+Counseling for the
+student
+Mental evaluation
+Anger management
+class
+Counseling for the
+parents
+Parenting classes
+Tutoring
+Case management
+Food and/or housing
+
+Number
+of courts
+using
+
+Court
+
+Gov’t
+Agency
+
+29
+
+6
+
+7
+
+24
+
+4
+
+21
+17
+
+Provider
+Nonprofit
+organization
+
+Payer
+Private
+provider
+
+Parent
+
+Court
+
+Service
+provider
+
+16
+
+17
+
+23
+
+9
+
+12
+
+11
+
+13
+
+18
+
+21
+
+10
+
+11
+
+5
+9
+
+6
+4
+
+8
+7
+
+14
+7
+
+15
+10
+
+10
+11
+
+9
+6
+
+16
+
+2
+
+7
+
+8
+
+13
+
+15
+
+6
+
+9
+
+15
+15
+15
+2
+
+5
+4
+11
+0
+
+6
+8
+9
+2
+
+8
+8
+3
+2
+
+10
+5
+2
+1
+
+13
+9
+4
+0
+
+7
+6
+14
+1
+
+6
+11
+4
+2
+
+Notes: Figures represent the number of courts. Many courts use more than one provider and payer for ordered
+services.
+
+The courts may have difficulty identifying issues that are interfering with a student’s school
+attendance, but early identification of serious issues can help students begin to make progress
+and avoid further court appearances. Most courts try to identify issues at the truancy petition
+hearing rather than waiting until a contempt motion is filed against a student (see Table 17).
+Identifying these issues is especially difficult given the short amount of time that a student
+spends in the courtroom with a judge. Nearly one-third of the courts report that judges initiate
+
+23
+
+requests for services, but most courts rely heavily on others who know the students better to
+make recommendations for services. School officials the most common initiator of a request for
+services. Schools typically make recommendations for services as a part of their truancy petition
+or contempt motion. RCW 28A.225.035 specifies that the truancy petition should “provide
+information about what the court might order,” and most schools follow this procedure (see
+Table 20). Probation officers or case managers are the second most common initiator of service
+requests and are typically more involved once the student is found in contempt of the initial court
+order. Some courts also report that parents and student’s legal counsel also initiate requests for
+services.
+Table 17. Timing of Needs Identification
+Needs for services are usually identified:
+At the truancy petition hearing
+At a contempt hearing
+At both/either the petition or contempt hearing
+
+Number of
+Courts
+17
+10
+5
+32
+
+Percent of
+Courts
+53%
+31%
+16%
+100%
+
+Table 18. Requests for Services
+Requests for services are typically initiated by:
+A parent
+A school official
+A probation officer or case manager
+A commissioner or a judge
+The student’s lawyer
+
+In conjunction with the:
+Petition hearing Contempt hearing
+23%
+19%
+74%
+71%
+45%
+55%
+32%
+23%
+--16%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+24
+
+V. Schools
+Schools have the responsibility for early truancy interventions and initiating court action against
+students who don’t comply with mandatory attendance laws. Because schools are so important to
+the Becca Bill truancy process, we asked courts several questions about school practices and the
+relationship between the schools and courts on truancy matters.
+
+Early School Interventions
+Schools have the primary responsibility for preventing truancy, and the courts only become
+involved when students fail to respond to school efforts to encourage attendance. According to
+RCW 28A.225.020 after the first unexcused absence, schools contact the student’s parents to
+inform them of the absence and the potential consequences. After two unexcused absence within
+a single month, the school schedules a conference with the student and the student’s parents and
+takes steps to eliminate or reduce absences. The school may adjust the student’s schedule, place
+the student in a vocational education program, require attendance in an alternative education
+program, or refer the student to a community truancy board. After the fifth absence in a month,
+the school is required to enter into an agreement with the student establishing attendance
+requirements, refer the student to a community truancy board, or file a petition with the court
+alleging a violation of the mandatory attendance requirements. Upon the seventh unexcused
+absence in a month or the tenth unexcused absence in a school year, the school district is
+required to file a petition with the court. We asked courts whether schools were fulfilling these
+responsibilities for early interventions. Nearly all (91 percent) of the courts replied that schools
+are making the required efforts (see Table 19). This is important, because the petition is not valid
+unless schools have made these efforts. However, a number of courts also qualified their answer
+by indicating that while the schools make attempts to contact parents and to schedule
+conferences, those efforts are often unsuccessful. Several courts did not know whether schools
+were making the required interventions, because schools in their juvenile court district do not
+provide the information on truancy petitions.
+Table 19. School Interventions and Petitions
+Before the school files a truancy petition, has the school
+conducted the interventions specified in the Becca Bill?
+No
+Yes
+Don’t know
+
+Number of
+Courts
+0
+29
+3
+32
+
+Percent of
+Courts
+0%
+91%
+9%
+100%
+
+25
+
+Information Provided by the Schools in Truancy Petitions
+RCW 28A.225.035 specifies that truancy petitions submitted to the court must include the
+number of unexcused absences the student has accrued, a report on the actions the school has
+taken to reduce absences, and recommendations on what the court might order. All of the courts
+indicate that truancy petitions report the number of unexcused absences in their truancy petitions,
+but schools in some juvenile court districts omit some of the other required information while
+schools in other court districts provide additional information that may be helpful to the court.
+Eighty-eight percent of the courts report that truancy petitions contain the number of excused
+absences that students have (see Table 20). Some schools may be concerned that parents write
+excuses for students who have missed a lot of days to avoid having the child sent to court.
+Ninety-one percent of the courts indicated that truancy petitions provide information about the
+steps the schools have taken to reduce absences. Truancy petitions filed in three courts do not
+provide this information, even though it is mandated in the statute. Truancy petitions in most
+courts also provide information on discipline issues, grades, and academic progress. For
+example, the Shelton school district’s attendance secretary emails teachers a request for
+comments on students with truancy petition hearings or review hearings and includes teachers’
+responses in the reports submitted to the court. Truancy petitions in 72 percent of the courts
+provide recommendations for court actions or services that the student might need. Truancy
+petitions in nine courts do not contain this information, even though it is mandated by the statute.
+Table 20. Information in Truancy Petitions and Attendance Reports
+Truancy petitions/attendance reports typically contain:
+The number of unexcused absences
+The number of excused absences
+School interventions
+Information on discipline issues
+Grades
+Information on academic progress (i.e. comments from teachers)
+Recommendations for court actions or services needed
+
+Number of
+Courts
+32
+28
+29
+25
+22
+22
+23
+
+Percent of
+Courts
+100%
+88%
+91%
+78%
+69%
+69%
+72%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+Court Training and Outreach Efforts with Schools
+Some courts provide training to help schools understand their Becca truancy responsibilities and
+to make sure that school personnel understand the process of filing petitions with the court.
+Thirty-four percent of the courts have no specific schedule for providing training (see Table 21).
+These courts may provide training on request from a school or if there seems to be a specific
+training need. Thirty-eight percent of the courts provide training when there is turnover in a
+school position involved in the truancy petition process. Thirty-four percent of the courts provide
+
+26
+
+training annually, and another 16 percent of the courts conduct training two or more times during
+the school year. Four courts provide no training to school personnel.
+Table 21. Frequency of Training Given to Schools by the Court
+Frequency of Training
+As needed or upon request, no specific schedule
+When there is staff turnover in a school
+Annually
+Two or more times during the school year
+No training is provided
+
+Number of
+Courts
+11
+1
+11
+5
+4
+
+Percent of
+Courts
+34%
+38%
+34%
+16%
+13%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+The most common formats for training meetings are seminars with personnel from all of the
+school districts in the juvenile court district, followed by site visits, in which the court or
+prosecutor’s office sends a representative to each school district to provide individual training.
+Five courts hold a court day that allows school officials to observe truancy proceedings and
+receive instruction on the filing process.
+Table 22. Format for School Truancy Training
+Format of Training Meeting
+Seminar—school officials from all school districts in the county
+are trained together
+Court day—school officials visit the court to observe truancy
+proceedings and the court or prosecutor makes presentations
+before or after the truancy proceedings
+Site visits—court personnel or prosecutors visit each school to
+provide trainings
+Other
+
+Number of
+Courts
+17
+
+Percent of
+Courts
+68%
+
+5
+
+20%
+
+14
+
+56%
+
+6
+
+24%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+In addition to training efforts, many courts have other outreach programs to improve cooperation
+between schools and the court on truancy matters. Some courts rely on informal methods such as
+frequent phone contact while others participate in regularly scheduled meetings with school
+personnel. Regular meetings may include other juvenile issues in addition to truancy. For
+27
+
+example, one court conducts bi-monthly meetings with school officials for pre-filing reviews and
+post-filing monitoring of at-risk youth, child-in-need-services, and truancy cases. Some courts
+participate in separate meetings focusing on truancy. One court participates in regular meetings
+for a truancy team composed of school district attendance officers, community truancy board
+representatives, and court personnel. A few courts have established staff positions jointly with
+schools districts or used grant funding to hire a staff member who facilitates communications
+between the court and the schools. Other courts have newsletters or produce public education
+materials to help schools and the community stay informed of court policies and processes
+relating to truancy.
+
+Cooperation Between Schools and the Courts
+Addressing truancy is a cooperative effort with both schools and courts shouldering a part the
+responsibilities. Truancy reduction can be most effective when there is close communication and
+cooperation between the courts and the schools. We asked courts to evaluate their relationship
+with schools in addressing truancy, and the responses were remarkably positive. Forty-eight
+percent of the courts responded that the court and the schools work together in establishing
+policies and programs, and 52 percent reported that the court and the schools understand and
+cooperate with one another’s policies. None of the courts felt that they were not very familiar
+with one another’s policies, or that they had conflicting polices, or a severe lack of cooperation
+with schools.
+Table 23. Cooperation Between Schools and Courts on Truancy
+
+Work together in establishing policies and programs
+Understand and cooperate with one another’s policies
+Not very familiar with one another’s policies on truancy
+Have conflicting policies or don’t cooperate with one another’s
+policies
+
+Number of
+Courts
+15
+16
+0
+0
+
+Percent of
+Courts
+48%
+52%
+0%
+0%
+
+31
+
+100%
+
+Ways to Help Schools Meet Their Becca Bill Truancy Obligations
+We asked court administrators for suggestions about how the truancy petition process could be
+changed to help schools meet their obligations to file petitions, because the low rate of school
+filings appears to be a serious limitation on the ability of the courts to address truancy. We
+grouped similar responses into several categories. The most common recommendation (47
+percent of the courts) is to increase the funding, resources, or incentives for schools to file
+petitions. Twenty-eight percent of the courts thought that schools need more training on the
+requirements of the law, that more consistent policies between school districts were necessary, or
+that more leadership from the Office of the Superintendent of Public Instruction is necessary to
+
+28
+
+encourage more school districts be more vigilant in filing truancy petitions. One-quarter of the
+courts felt that the law needed to be changed to make filing mandatory for schools by imposing
+sanctions for noncompliance, much like the federal “No Student Left Behind” law imposes
+penalties for noncompliance. Five courts said that they needed options for stronger sanctions for
+students who don’t respond to seven days of detention or parents who don’t respond to $25 fines.
+Four courts indicated that schools would have more confidence in the process if the courts
+processed petitions more quickly and didn’t wait so long before imposing sanctions on students
+who continue to be truant. Three courts recommended that burdens on the schools from the
+paperwork involved in filing petitions and making courtroom appearances to provide testimony
+on attendance should be reduced. One court mentioned that schools should be prohibited from
+expelling students or dropping students from their rolls for truancy, and one court suggested that
+every school district should have attendance counselors to help to work with students.
+Table 24. Recommended Changes to Help Schools Meet Becca Bill Obligations
+
+Increase funding/resources/incentives for schools
+More school training, consistent policies between districts,
+leadership from OSPI
+Make filing truancy petitions mandatory by imposing sanctions
+on schools (or school personnel) that don’t comply with the law
+Courts need options for stronger sanctions for truant students or
+their parents
+Courts need to process petitions and impose sanctions more
+quickly
+Ease paperwork and court attendance requirements for schools
+Prohibit schools from expelling or dropping students from rolls
+for truancy
+Every school district must have attendance counselors
+Other or no comment
+
+Number of
+Courts
+15
+9
+
+Percent of
+Courts
+47%
+28%
+
+8
+
+25%
+
+5
+
+16%
+
+4
+
+13%
+
+3
+1
+
+9%
+3%
+
+1
+8
+
+3%
+25%
+
+* The number of courts does not sum to 32 and the percent of courts does not sum to 100%
+because the question allowed responses to more than one category.
+
+29
+
+Appendix I
+The Administrative Office of the Courts
+
+TRUANCY CASE PROCESSING SURVEY
+I. Truancy Petitions:
+1. Are truancy petition hearings typically held in a court room or at school?
+A. Court room
+B. School
+2. Are truancy petitions filed by the school district or by the prosecutor’s office?
+A. School district
+B. Prosecutor’s office
+3. Does the court offer a deferred petition program that issues a stay on the truancy petition if a
+student participates in an attendance workshop, truancy class, or some other program?
+A. No
+B. Yes
+4. Who typically participates in truancy petition hearings? (Circle all that apply.)
+A. School officials
+B. School district officials
+C. Probation officers
+D. Case managers
+E. Prosecutors
+F. Public defenders
+G. A judge or commissioner
+5. Who usually conducts truancy petition hearings?
+A. A judge or commissioner
+B. A probation officer
+C. A prosecutor
+D. Other: ______________________________________________________________
+6. At the truancy petition hearing, each student typically: (Circle all that apply.)
+A. Has an individual hearing with a commissioner or judge
+B. Meets individually with a school official
+C. Meets individually with a probation officer or case manager
+D. Meets individually with a prosecutor
+E. Receives individualized attention only if they have questions about signing an agreed
+order or want to request special services
+F. Other: ______________________________________________________________
+7. Students who wish to contest the petition typically:
+A. Meet with a commissioner or judge for a fact finding hearing on the same day as the
+initial court room appearance
+B. Schedule a fact finding hearing for another day
+
+30
+
+8. Truancy classes or attendance workshops are:
+A. Used as a deferment program for students with their first truancy petition and no
+previous court record
+B. Held at court for everyone at the beginning of the truancy petition hearing
+C. Held at court for students who are found to be truant
+D. Conducted by a school or community organization for students who are found to be
+truant
+E. Not used in this county
+9. When a student fails to appear for the truancy petition hearing: (Number the items in the
+sequence that the court follows.)
+___ A. Another notice and summons is sent by standard mail
+___ B. Another notice and summons is sent by registered mail
+___ C. The notice and summons is served in person
+___ D. A bench warrant is issued
+___ E. A default order is entered
+___ F. Other: _________________________________________________________
+10. Who arranges and pays for in person service of the summons when students fail to respond to
+a mail notice and summons for a truancy petition?
+A. The school or school district
+B. The prosecutor’s office
+C. The court
+D. Other: ____________________________________________________________
+E. In person service is not typically done
+11. If a school district files a truancy petition on a student but the school has not met any of its
+Becca responsibilities for early interventions (informing parents of absences and
+consequences; scheduling a conference and taking steps to reduce absences; entering into an
+agreement with the student and parent establishing attendance requirements), will the court
+enter a truancy order on the student?
+A. No
+B. Yes
+12. Are elementary school students handled differently than junior high or high school students?
+A. No
+B. Yes—Please describe any differences in procedures.
+
+II. Truancy Orders and Court Supervision:
+1. After a student is found truant:
+A. Another hearing date is typically set to review school attendance
+B. Students return to court only if the school files a contempt motion
+2. How long does the court typically supervise school attendance after a student is found to be
+truant?
+
+31
+
+3. Does the court require an order extending jurisdiction to continue court supervision past the
+current school year?
+A. No
+B. Yes
+4. When do schools in your county provide the court with reports on the attendance of students
+who are under truancy orders? (Circle all that apply.)
+A. On a regular period basis—please describe: ________________________________
+B. When the court requests attendance information for a review hearing
+C. When the school files a contempt motion on a student
+D. Some schools do not respond to requests or subpoenas for attendance information
+E. Other: ______________________________________________________________
+5. Is case management provided by: (Circle all that apply.)
+A. Case managers
+B. Probation officers
+C. Volunteers
+D. Other: ______________________________________________________________
+E. No case management is provided for truancy cases
+III. Noncompliance/Contempt:
+1. Who typically files contempt motions?
+A. Schools/school districts
+B. The prosecutor’s office
+C. The court
+D. Other: _______________________________________________________________
+2. Who typically participates in show cause hearings for contempt on truancy orders?
+A. School officials
+B. School district officials
+C. Probation officers
+D. Prosecutors
+E. Case managers
+F. Public defenders
+G. A judge or commissioner
+3. If the court provides legal counsel for a contempt hearing, is the student assessed a fee?
+A. No
+B. Yes—Amount of the fee: ___________
+C. The court does not provide legal counsel for students for truancy contempt hearings
+4. After students are found to be in contempt of their truancy order: (Circle all that apply.)
+A. Students return to court only if the school files another contempt motion
+B. A hearing date is typically set to review school attendance
+C. A hearing date is typically set to review the completion of any court ordered services
+
+32
+
+5. What factors are considered in filing contempt motions? (Circle all that apply.)
+A. Additional absences: Threshold for filing contempt: ______________________
+B. Tardies
+C. Discipline problems
+D. Failure to complete previously ordered services, such as a drug/alcohol assessment
+E. Other: _____________________________________________________________
+
+IV. Services and Sanctions:
+1. What services may the court order to address issues interfering with school attendance, who
+provides the services, and who pays for the services? (Mark all that apply.)
+Service
+A. Drug/alcohol
+evaluation
+B. Mental evaluation
+C. Medical evaluation
+D. Counseling for the
+student
+F. Counseling for the
+parents
+G. Parenting classes
+H. Food and/or
+housing
+I. Tutoring
+J. Case management
+K. Anger management
+class
+L. Other:__________
+_______________
+M. Other:_________
+_______________
+
+Court
+
+Gov’t
+Agency
+
+Provider
+Nonprofit
+organization
+
+Private
+provider
+
+Parent
+
+Court
+
+Service
+provider
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+○
+
+○
+○
+
+○
+○
+
+○
+○
+
+○
+○
+
+○
+○
+
+○
+○
+
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Not ordered
+for truancy
+
+Payer
+
+2. When students require services to help address issues interfering with school attendance, are
+these needs usually identified at the initial truancy petition hearing or at a contempt hearing
+after attendance does not improve?
+A. At the truancy petition hearing
+B. At a contempt hearing
+3. In connection with the truancy petition, who typically initiates a request for services when
+there are issues interfering with school attendance?
+A. A parent
+B. A school official
+C. A probation officer or case manager
+D. A commissioner or a judge
+
+33
+
+4. If students are referred to services in conjunction with a contempt hearing, who typically
+initiates the request for services?
+A. A parent
+B. A school official
+C. A probation officer or case manager
+D. A commissioner or a judge
+E. The student’s lawyer
+5. What types of sanctions does the court typically use for the first, second, and third contempt
+orders on a student? (Write the appropriate number on the blank in front of the letter.)
+___ A. Fines for the student—Amount: __________
+___ B. Fines for the parent—Amount: __________
+___ C. Community service for student—Number of hours: _______
+___ D. Community service for parent—Number of hours: _______
+___ E. Weekend detention—Number of weekends: _______
+___ F. Electronic home monitoring—Number of days: _______
+___ G. Day detention—Number of days: _______
+___ H. Detention—Number of days: _______
+___ I. Participation in a special school or court program (please describe below)
+___ J. Other (please describe below)
+6. What are the purge conditions for the first, second, and third contempt orders?
+A. First Contempt: _______________________________________________________
+B. Second Contempt: _____________________________________________________
+C. Third Contempt: _______________________________________________________
+7. What sanctions do schools in your county use for unexcused absences reaching the threshold
+for a truancy petition? (Circle all that apply.)
+A. In school detention
+B. Suspension
+C. Expulsion
+D. File the truancy petition only, no additional school sanction
+E. Other _______________________________________________________________
+F. Don’t know
+
+V. Schools:
+1. Before the school files a truancy petition, has the school typically held a conference with the
+parent and the student to identify steps to reduce absences after two unexcused absences and
+entered into an agreement with the student and the parent establishing attendance
+requirements after five unexcused absences?
+A. No
+B. Yes
+C. Don’t know
+
+34
+
+2. How do school officials give testimony at contested truancy petition hearings and show cause
+hearings on contempt motions?
+A. In person
+B. By submitting a notarized affidavit and an attendance report
+C. By submitting an attendance report
+3. What information do school truancy petitions, contempt motions, and reports for review
+hearings typically contain? (Circle all that apply.)
+A. The number of unexcused absences
+B. The number of excused absences
+C. School interventions
+D. Information on discipline issues
+E. Grades
+F. Information on academic progress (i.e. comments from teachers, etc.)
+G. Recommendations for court actions or services needed
+4. How often is training provided for school officials involved in the Becca truancy process?
+A. As needed or upon request, no specific schedule
+B. When there is staff turnover in a school position involved with truancy
+C. Annually
+D. Two or more times during the school year
+E. No training is provided
+5. What is the format for the training meeting?
+A. Seminar—school officials from all schools in the county are trained together
+B. Court day—school officials visit the court to observe truancy proceedings and the
+court or prosecutor makes presentations before or after the truancy proceedings
+C. Site visits—court personnel or prosecutors visit each school to provide training
+D. Other: ___________________________________________________________
+6. What other outreach efforts has the court taken with school or school district officials?
+
+7. How would you describe the level of cooperation between schools and the courts on truancy?
+A. Work together in establishing policies and programs
+B. Understand and cooperate with one another’s policies
+C. Not very familiar with one another’s policies on truancy
+D. Have conflicting policies or don’t cooperate with one another’s policies
+8. School attendance data indicates that most schools file petitions on less than half of the
+students who have ten or more unexcused absences. What changes (statutory or in court
+processes) do you feel would help schools meet their obligations under the Becca truancy
+process?
+
+Please enclose a copy of the truancy petition form and the notice and summons.
+35
+
+

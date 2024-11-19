@@ -1,0 +1,1530 @@
+Frequently Asked Questions
+Cross-Connection Control Annual Summary Report Forms
+This document provides Department of Health (DOH) answers to questions about how to
+properly complete Cross-Connection Control (CCC) Annual Summary Report forms. We’ve
+answered general questions first, and then we’ve answered form-specific questions.
+Reference Guide
+Topic
+
+Section
+
+Page
+
+Abbreviations and acronyms
+Using the web-based application to meet reporting requirements
+Which ASR forms to complete
+CCC website – access, Save vs. Submit
+Contact information screen
+Data logic/type pop-up messages
+Required field messages
+Error messages
+Help (on-line and from DOH)
+Activities form (blue)
+General
+Part 2 (program status)
+Part 3A (counting connections)
+Part 3B (high-hazard table) and Part 3C (medical category table)
+Part 4A (backflow preventer inventory/testing)
+Part 5 (backflow incidents, off-normal events)
+Program Summary form (cream)
+Exceptions form (green)
+Severe Health Hazard Facilities Report (gray)
+
+A
+B
+B
+C
+D
+E
+E
+F
+G
+
+1
+1
+2
+2
+3
+3
+4
+4
+4
+
+H
+H
+H
+H
+H
+H
+I
+J
+K
+
+5
+5
+5
+6
+7
+10
+10
+12
+14
+
+Section A: Abbreviations and Acronyms
+Abbreviations and Acronyms
+AG
+
+Air Gap
+
+DOH
+
+WA State Department of Health
+
+AHJ
+
+Authority Having Jurisdiction
+
+PWS
+
+Public Water System
+
+AVB
+
+Atmospheric Vacuum Breaker
+
+RPBA Reduced Pressure Backflow Assembly
+
+BAT
+
+Backflow Assembly Tester
+
+RPDA Reduced Pressure Detector Assembly
+
+CCC
+
+Cross-Connection Control
+
+SHHF Severe Health Hazard Facility
+
+CCS
+
+Cross-Connection Control Specialist
+
+SVBA Spill Resistant Vacuum Breaker Assembly
+
+DCDA Double Check Detector Assembly
+
+UPC
+
+Uniform Plumbing Code
+
+DCVA Double Check Valve Assembly
+
+WFI
+
+Water Facilities Inventory
+
+ASR FAQs
+
+Page 1
+
+January 31, 2018
+
+Section B: General Questions
+Q B-1: If I properly complete, certify, and submit my system’s ASR Forms Package to DOH using
+the website, do I also need to submit signed hard copies of the completed forms to DOH?
+A:
+
+No. ASR systems must use the website to complete, certify, and submit all their required ASR
+forms for the reporting year. You don’t need to mail hard copies to DOH.
+
+Q B-2: If I properly complete, certify, and submit all my system’s required ASR forms to DOH via
+the website, will my PWS comply with the annual CCC reporting requirements of WAC
+246-290-490(8)(d)?
+A:
+
+Yes.
+
+Q B-3: This reporting year, we had a written CCC Program Plan, but no implementation activities.
+We plan to start implementing our CCC Program soon. What ASR forms should we
+complete for this reporting year and what should we report?
+A:
+
+At a minimum, all ASR systems must submit blue and cream forms and report CCC Program
+information for the previous calendar year. You should:
+•
+
+Complete the cream form based on your written CCC Program Plan, policies, and
+procedures.
+
+•
+
+On the blue form, page 1 Part 2, select the “No” radio button on CCC implementation
+activities. Fill out the rest of the blue form as much as possible. Enter a comment on your
+blue form explaining your plans and schedule to implement your CCC Program.
+
+•
+
+Report information on your system’s implementation activities on next year’s ASR forms.
+
+Q B-4: We had no written CCC Program Plan and no CCC implementation activities this
+reporting year. Do we still have to submit ASR forms for this reporting year?
+A:
+
+Yes, at a minimum, all ASR systems must submit blue and cream forms. You should:
+•
+
+Fill out the blue form as much as possible. On the blue form, page 1 Part 2, select the “No”
+radio button on written CCC Program Plan and the “No” radio button on CCC
+implementation activities.
+
+•
+
+Fill out the cream form as much as possible and reflect any CCC policies or procedures
+you’ve developed or currently follow.
+
+•
+
+Contact DOH as soon as possible for help in developing and implementing your CCC
+Program.
+
+Q B-5: Do I have to complete an Exception to Premises Isolation Form, if I didn’t grant any new
+exceptions in the current reporting year?
+A:
+
+Generally, no, you don’t need to complete any new Exception forms for this reporting year.
+However, if you granted an exception in a past reporting year, but didn’t submit a completed
+Exception form to DOH that reporting year, you must complete an Exception form for the
+previously granted exception. See Q J-3 for more information on this subject.
+
+Q B-6: Do I need to complete every field on the PWS Contact Screen and each ASR form?
+A:
+
+Generally, yes, you must complete most data fields on the PWS Contact Information Screen to
+successfully Submit your information and access new ASR forms. When you click Submit, the
+website will mark certain fields as “required” in red if you’ve left them blank.
+
+ASR FAQs
+
+Page 2
+
+January 31, 2018
+
+Similarly, you must complete most data fields on the ASR forms to successfully Submit your ASR
+Forms Package to DOH. When you click Ready to Submit or Ready to Submit All ASR Forms,
+the website will mark certain fields on the ASR forms as “required” if you’ve left them blank.
+This rule doesn’t apply to fields the website completes for you. These fields appear grayed out,
+and the website disables them to block entry of data by users.
+To summarize, the website flags missing required fields on the:
+o
+
+PWS Contact Screen when you click Submit.
+
+o
+
+ASR forms when you click Ready to Submit.
+
+o
+
+ASR forms when you click Ready to Submit All ASR Forms from the
+New/Edit/Print Forms Screen.
+
+Q B-7: Is it OK to estimate number field values on my ASR forms?
+A:
+
+We discourage ASR systems from estimating values for number fields. You should always fill out
+your ASR forms as accurately as possible, because DOH uses ASR data as the basis for CCC
+compliance.
+If you enter estimated values on any of your ASR forms, note this in the Comments Section for the
+specific form, explain why you don’t have accurate data for this reporting year, and tell us what
+steps you’re taking so you can report accurate data the next reporting year.
+
+Q B-8: When I’m working on one of my ASR forms, when do I click the Save button and when do I
+click Ready to Submit?
+A:
+
+Use the Save button to save your ASR form as a draft (work in progress). We recommend you
+Save:
+•
+
+Before your session times out.
+
+•
+
+When you must leave your computer during a data entry session.
+
+•
+
+When your data entry session is interrupted by a phone call, visitor, need to go into the
+field, etc.
+
+Note: any time you change pages within an ASR form, the website auto-saves the data entered on
+the page you’re leaving.
+Click the Ready to Submit button when you’re finished entering data for your entire ASR form.
+This will save your entire form and prompt the website to check for data errors within the form.
+You can Save or click Ready to Submit from any page within an ASR form.
+Q B-9: When do I click the Ready to Submit All ASR Forms button on the New/Edit/Print Screen?
+A:
+
+When you’re done filling out all your ASR forms, click the Ready to Submit All ASR Forms
+button on the New/Edit/Print Forms Screen. This action will trigger the website to check for
+data errors within and between forms.
+
+Q B-10: What should I do if the Data Errors Screen displays?
+A:
+
+If the Data Errors Screen displays, you’ll need to resolve the data problems listed to complete
+the ASR Forms Package certification and submission process.
+For data errors within ASR forms:
+1. Click the page links to go to the page(s) with the error(s).
+
+ASR FAQs
+
+Page 3
+
+January 31, 2018
+
+2. Look for the required fields messages and data logic messages (in red) to help you
+identify the data errors on that page.
+3. Correct the errors noted and repeat the Ready to Submit process until the
+New/Edit/Print Screen displays and the ASR form’s status changes to Ready to Submit.
+4. When all your forms display a Ready to Submit status, click on the Ready to Submit All
+ASR Forms button on the New/Edit/Print Screen.
+For data errors between ASR forms:
+1. The website will note you’ve entered illogical data between ASR forms. The message
+will identify which two forms have conflicting data and state the problem.
+2. Click the form and page links to go to the forms and page(s) with the error(s). Correct
+all the between form data logic errors listed on the screen.
+3. Repeat the Ready to Submit All ASR Forms process until the ASR Forms Package
+Certification and Submission Screen displays.
+4. Certify your final forms and Submit the ASR Forms Package to DOH to complete the
+reporting process for this year.
+Q B-10: If I find a mistake, can I update my ASR forms after I’ve certified and submitted my ASR
+Forms Package?
+A:
+
+Yes, you can make changes to one or more of your certified/submitted ASR forms as long as you
+complete the corrections before the ASR due date (while the website is open/unlocked). Once the
+website is locked, you won’t be able to change your submitted ASR forms.
+Follow these steps to make changes to certified/submitted forms:
+•
+
+On the New/Edit/Print Screen, click on the Unsubmit All ASR Forms button under the
+Update Submitted Forms heading.
+
+•
+
+Select the ASR form you need to correct, and click the Edit button.
+
+•
+
+You’ll receive a pop-up warning. Click Yes to proceed. A message will display that all
+ASR forms for the reporting year have been unsubmitted.
+
+•
+
+When you’re done editing the selected ASR form, click the Ready to Submit button to
+prompt the website to check your data for errors (within the form).
+
+•
+
+If the Data Errors Screen displays, correct the errors noted, and repeat the Ready to
+Submit process until the status of the form changes to Ready to Submit on the
+New/Edit/Print Forms Screen.
+
+•
+
+Repeat this process for your other ASR forms as needed.
+
+•
+
+When you’re done correcting all your forms, click the Ready to Submit All ASR Forms
+button on the New/Edit/Print Forms Screen.
+
+•
+
+Repeat the certification and submission process to submit your final, corrected forms
+package to DOH.
+
+Section C: Website Access Questions
+Q C-1: What is the web address for the ASR website?
+A:
+
+The ASR website’s address is https://fortress.wa.gov/doh/ccc/
+
+ASR FAQs
+
+Page 4
+
+January 31, 2018
+
+Q C-2: When I try to access the website, I get a message saying the page is not available.
+A:
+
+The ASR website may be temporarily unavailable due to the programmer making updates. If you
+can’t access the website, wait 15 to 30 minutes and try again.
+Sometimes typing https://fortress.wa.gov/doh/ccc/ in your browser’s address box will solve the
+problem.
+If you’re still have trouble accessing the website, contact your Information Technology (IT) staff,
+email DOH EPH CCC Program, or call DOH CCC Program staff in Olympia for help.
+
+Section D – PWS Contact Information Screen
+Q D-1: We have several certified CCSs that work for our system. Whose name should appear on
+the PWS Contact Information Screen?
+
+A:
+
+We define CCC Program Manager and PWS Manager as follows:
+CCC Program Manager is the certified Cross-Connection Control Specialist (CCS) who:
+•
+
+Is designated by the purveyor to be in responsible charge of the CCC Program, as
+required in WAC 246-292-054(4).
+
+•
+
+Manages the CCC Program for the PWS.
+
+•
+
+Is responsible for the development and day-to-day implementation of the CCC Program.
+
+PWS Manager is either the:
+•
+
+Person that directly supervises the Designated CCS/CCC Program Manager; or
+
+•
+
+Manager having direct oversight of the CCC Program.
+
+Note: the PWS Manager doesn’t need to be in charge of the entire PWS.
+Q D-1: In our water system, the same person fills both the CCC Program Manager and the PWS
+Manager roles. Do you want us to enter identical information in both columns on the PWS
+Contact Information Screen?
+
+A:
+
+We recommend you enter two different email addresses on the PWS Contact Information
+Screen, if you’re a water system where the same person fills both the CCC Program Manager
+and the PWS Manager roles.
+Since we send all ASR-related correspondence via email, we appreciate having two different
+email addresses for your system, in case one email address becomes corrupted, is no longer
+valid, or contains a typo. Providing two email addresses will help ensure that your system
+receives all our ASR-related emails.
+
+Q D-2: On the PWS Contact Information Screen, when should I use the Save button and when
+should I click Submit?
+A:
+
+Use Save to:
+
+ASR FAQs
+
+•
+
+Save your contact information as a draft (work in progress) for this reporting year.
+
+•
+
+Update your information on the Contact Information Screen only. This action will not
+update the contact information on your ASR forms for this reporting year.
+
+•
+
+Help ensure that we have updated contact information for your system for ASR-related
+correspondence.
+
+Page 5
+
+January 31, 2018
+
+Use Submit:
+•
+
+When you’ve finished entering data in all the required fields in both columns on the
+Contact Information Screen, and want the website to check your entries for errors.
+
+•
+
+To trigger access to new ASR forms for this reporting year.
+
+•
+
+Display your contact information on new ASR forms for this reporting year.
+
+•
+
+Update/change your contact information on saved ASR forms for this reporting year.
+
+Q D-3: When I clicked the Submit button, the Contact Information Screen continued to display.
+Also, I can’t access new forms for this reporting year on the Navigation Screen, because the
+Step 2: Start a New Form button is disabled (grayed out). What am I doing wrong?
+A:
+
+The Submit button on the Contact Information Screen prompts the website to check your
+system’s contact information for errors.
+If you remain on the Contact Information Screen after clicking Submit, you have data errors on
+this page. Errors may include:
+•
+
+Missing required fields.
+
+•
+
+Invalid phone number or email formats.
+
+•
+
+Emails within a column that don’t match.
+
+To resolve the data errors:
+1. Scroll down the page to see the problem fields marked in red.
+2. Correct all data errors noted.
+3. Click Submit again.
+4. Repeat this process until you get the “Submit confirmation” message at the top of the
+Navigation Screen.
+5. Once the Submit confirmation message displays, the Step 2 button will be enabled on the
+Navigation Screen, and you’ll have access to new ASR forms for this reporting year.
+
+Section E: Required Field, Data Validation Error, Pop-Up, and Warning Messages
+Q E 1: When working on the PWS Contact Information Screen or one of my ASR forms, a red
+“required” displayed when I tabbed away from certain fields. What is this and what should
+I do?
+A:
+
+This is a Required Field Message. These messages appear when you’ve failed to enter data into
+a field DOH requires you to complete. You must complete all required fields to:
+•
+
+Successfully Submit your PWS Contact Information and gain access to new ASR forms.
+
+•
+
+Pass the data error checks within forms and change the status of each ASR form to
+Ready to Submit.
+
+•
+
+Pass the data error checks between forms and proceed to the ASR Forms Package
+Certification and Submission Screen.
+
+Q E 2: When I tried to Submit my PWS Contact Information, a gray Validation Error message
+popped up. What is this and what should I do?
+A:
+
+This is a Validation Error Message pop-up for a missing phone number.
+
+ASR FAQs
+
+Page 6
+
+January 31, 2018
+
+You must complete the phone number fields in both the CCS/CCC Program Manager and PWS
+Manager columns to successfully Submit your PWS Contact Information and gain access to new
+ASR forms.
+Q E 3: Sometimes I get a gray box that pops up when I leave a field on one of the ASR forms.
+What is this and what should I do?
+A:
+
+This is either a Data Logic Message or Reminder Message pop-up. We’ve developed:
+•
+
+Data Logic Messages to let you know you’ve entered illogical data on an ASR form. For
+example, we’ve included data logic messages on pages 2, 3, 4, and 5 of the blue form.
+
+•
+
+Reminder Messages to remind you to complete additional:
+o
+
+ASR forms, such as the Severe Health Hazard Facilities Form (gray) or new
+Exceptions Forms (green), based on the data just entered.
+
+o
+
+Steps to Submit your ASR Forms Package to DOH.
+
+If you get a pop-up message, click “Close” to get rid of the pop-up box, and for:
+•
+
+Data Logic Messages, correct the data entered, either in the field in question or in the
+comparison field, to make the values logical; or
+
+•
+
+Reminder Messages, complete the additional ASR form(s) and/or form submission steps
+noted.
+
+Q E 4: A Warning! message box popped up when I clicked the Unsubmit All ASR Forms button.
+What is this and what should I do?
+A:
+
+This is a Warning Message pop-up. We’ve developed these messages to caution you about the
+action you’re about to take and to make sure you want to proceed with the requested action.
+If the Unsubmit Warning Message box displays, click the “Yes” button to proceed with the
+Unsubmit process. Select “No” to stop the requested action.
+
+Section F – Application Error Messages
+Q F-1: I received a CCC Application Error Message when I was working in the ASR website.
+Have I lost all my data? What should I do now?
+A:
+
+No, we’ve designed the ASR website to prevent data loss.
+If you get an Application Error Message:
+•
+
+Contact DOH CCC Program Staff right away.
+
+•
+
+Follow the on-screen instructions.
+
+•
+
+Don’t work on the ASR form page or screen that triggered the error message until you
+hear from DOH.
+
+When you receive an Application Error Message, the website automatically notifies DOH IT
+staff, so our programmer can troubleshoot the problem.
+Once the programmer identifies the cause of the problem, DOH CCC staff will contact you.
+We’ll let you know we’ve fixed the error at DOH (if the website caused the problem), or we’ll tell
+you what corrections you need to make to resolve the problem.
+
+ASR FAQs
+
+Page 7
+
+January 31, 2018
+
+Section G - Getting Help
+Q G-1: Where can I get help, if I’m not sure how to properly complete my system’s ASR forms?
+A:
+
+We’ve posted documents on the Downloads page to help you complete your ASR forms.
+Use the Downloads link in the left Site Directory to access the Downloads page. The left Site
+Directory displays on the Navigation Screen, PWS Contact Information Screen, and the
+New/Edit/Print Forms Screen.
+If you can’t find the answers to your questions, contact DOH CCC Program staff by email at
+cccprogram@doh.wa.gov or by phone.
+
+Section H - CCC Activities Annual Summary Report (blue form)
+Blue Form General
+Q H-1: Do I have to complete every field on the blue form?
+A:
+
+Generally, yes, with the following exceptions:
+•
+
+Page 1, Part 2. If you answer “No” to the:
+o
+
+Written CCC Program Plan question, the Written Program Plan date field and the
+Written Program Plan column will be grayed out to block data entry.
+
+o
+
+CCC implementation activities question, the Being Implemented or Is Completed column
+will be grayed out to block data entry.
+
+•
+
+Pages 2 and 3, Part 3B and 3C. If the PWS doesn’t serve any severe or high-hazard
+premises, and you answer “No” to Question 1 at the top of page 2, the website will gray out
+pages 2 and 3 to block data entry.
+
+•
+
+Page 3, Part 3C. If the PWS serves severe or high-hazard premises in the general category,
+but doesn’t serve any high-hazard medical category premises, and you answer “No” to
+Question 2 at the top of page 2, the website will gray out page 3 to block data entry.
+
+•
+
+Page 5, Part 4B. If you answer “No” to any of the page 5 questions, the website will gray
+out the related number fields to block data entry.
+
+Blue Form Page 1 Part 2: Status of CCC Program
+Q H-2: Our CCC Program Plan doesn’t address the minimum elements in the WAC and DOH
+hasn’t approved it. We just began implementing our program. How should we report this?
+A:
+
+Provide your answers using the following guidance:
+1. Written CCC Program Plan: Check “Yes”, if the PWS has any written CCC Program Plan,
+policies or procedures, even if the program doesn’t meet the WAC or isn’t DOH-approved.
+2. CCC Implementation Activities: Check “Yes”, if the PWS had any CCC implementation
+activities during the reporting year, such as:
+a. Establishing legal authority.
+b. Conducting hazard evaluations and requiring backflow assemblies to be installed to
+protect the PWS.
+c. Requiring assembly testing.
+d. Developing and maintaining CCC records.
+e. Enforcing the PWS’s CCC Program requirements..
+
+ASR FAQs
+
+Page 8
+
+January 31, 2018
+
+Blue Form Part 3: System Characteristics
+Q H-3: How do I count connections for purposes of Page 1 Part 3A? Do I use actual connections
+(as counted by our system), “DOH calculated,” or “DOH-approved” as shown on our Water
+Facilities Inventory (WFI) form?
+A:
+
+For purposes of Part 3A, use the actual number of service connections counted by your water
+system. This may differ from the WFI information, because of counting methods.
+For example, for WFI purposes, DOH counts the living units in a multifamily building as
+separate connections, but the water purveyor may count a multi-family building as a single
+connection because the building has a single meter.
+For CCC purposes, the count of actual connections to the water distribution system is more
+useful than the count used for the WFI, since actual connections represent conduits for
+contaminants to enter the public water system’s distribution system. We use residential and
+non-residential connection numbers to assess the reasonableness of data you report on the blue
+form pages 2, 3 and 4.
+We recognize water systems may categorize types of connections differently. For example, some
+water systems may consider a large multifamily building as a “commercial” connection rather
+than a “residential” connection. If your data in Part 3A warrants an explanation, enter
+additional information in Part 6 Comments and Clarification.
+Note: we use WFI total connection information to identify which systems must submit ASR forms.
+
+Q H-4: On Parts 3B and 3C, the severe and high-hazard premises tables, should I include Table 9
+premises that currently have only in-premises backflow prevention?
+A:
+
+Count the connections to these premises only in the Number Served (Column A).
+Don’t include them in the With Premises Isolation by AG or RP (Column B) or in the Premises
+Isolation AG Inspected or RP Tested (Column C), even if all the in-premises preventers have
+been inspected and tested.
+Note: severe and high-hazard premises with in-premises backflow prevention only don’t comply
+with the mandatory premises isolation requirements (by AG or RP) in the drinking water rules
+[WAC 246-290-490(4)(b)]. Water systems reporting Table 9-type premises without premises
+isolation by AG or RP will be subject to DOH enforcement.
+
+Q H-5: On Parts 3B and 3C, should I include severe and high-hazard premises that currently have
+only double check valve assemblies (DCVAs) installed for premises isolation?
+A:
+
+Follow the “counting” directions in QH-4 above.
+Table 9 type premises isolated with DCVAs don’t comply with the requirements for mandatory
+premises isolation by AG or RP in the drinking water rules [WAC 246-290-490(4)(b)]. Water
+systems reporting Table 9 type premises without premises isolation by AG or RP will be subject
+to DOH enforcement.
+
+Q H-6: On Parts 3B and 3C, should I include “other” premises that we consider Table-9 type
+premises requiring isolation with an RP-type assembly?
+A:
+
+Table 9 of WAC 246-290-490 is not all-inclusive.
+Thus, we expect water systems to use the “Other” rows near the bottom of the tables on pages 2
+and 3 to identify other types of severe and high-hazard premises served by the PWS.
+
+ASR FAQs
+
+Page 9
+
+January 31, 2018
+
+You may enter as many “other” rows as needed on pages 2 and 3. You may also group like
+premises into categories, for example, “Other Commercial” or “Other Manufacturing”.
+Don’t enter low-hazard premises (such as tall buildings) on pages 2 or 3 where the water system
+requires a DCVA for premises isolation. In Part 1J of the cream form, indicate whether the PWS
+requires non-residential, low-hazard premises to install premises isolation preventers.
+Q H-7: On Part 3B, what shall I enter on the row pertaining to wastewater lift stations and
+pumping stations (non-residential only)?
+A:
+
+Count only non-residential connections with wastewater pump stations where your system’s
+potable water supply is available for maintenance of the pump station. This would include pump
+stations such as those belonging to the wastewater collection agency (usually the municipal
+sewage system) and those located on commercial and industrial premises.
+Count connections only to the non-residential wastewater lift or pump stations where your
+system’s water is supplied in any of the following ways:
+•
+
+Hard plumbed to the pump station itself.
+
+•
+
+Not hard-plumbed to the pump station, but instead is located on the same property as the
+pump station, such as through a yard hydrant or hose bib.
+
+•
+
+Not hard plumbed to the pump station, but instead is readily available in the vicinity of
+the pump station, such that it would be reasonable to assume that the potable water could
+be used for maintenance of the pump station.
+
+The purveyor’s Designated Cross-Connection Control Specialist/CCC Program Manager is
+responsible for making determinations of water use related to wastewater lift and pump stations.
+Q H-8: On Part 3B, should I include premises such as large grocery stores with meat departments
+as food processing plants?
+A:
+
+DOH doesn’t generally include grocery stores with meat departments in the food processing
+plants category. However, PWSs that require premises isolation by AG/RP for such premises can
+report these grocery store connections in the “Other” row at the bottom of the table.
+
+Q H 9: For Part 3C, how can I find out the type and number of Medical Category premises my
+system serves?
+A:
+
+Use the Medical Category Table Resource Information on the ASR website’s Downloads page.
+The Medical Category table lists websites and other information sources to help you determine
+whether your PWS serves any of the medical-type premises listed on Part 3C.
+
+Q H 10: For Part 3C, how should I count a connection that serves more than one type of medical
+category? For example, how should I count a building with a same-day surgery center and
+a psychiatric clinic?
+A:
+
+For multi-tenant facilities where you serve different medical category premises through a
+common service connection, count the connection under the medical category your Designated
+CCS considers to pose the highest contamination hazard to the water system. In this example,
+count this connection in the same-day surgery category. Do not count the service connection
+more than once on the table on page 3, Part 3C.
+
+Q H 11: Will my water system be subject to compliance if I report medical premises that are not
+isolated by an RP or AG?
+A:
+
+Yes, unless you’ve granted the premises an exception to mandatory premises isolation based on
+the results of a recent hazard survey by your system’s CCS.
+
+ASR FAQs
+
+Page 10
+
+January 31, 2018
+
+Blue Form Part 4A: Backflow Preventer Inventory and Testing During Reporting Year
+Q H-12: Can you clarify what the terms “premises isolation” and “in-premises prevention” mean?
+A:
+
+These backflow industry terms are defined as follows:
+•
+
+Premises isolation means a backflow prevention strategy in which an approved backflow
+preventer (RP or AG) is installed on the service line at or near the meter or property line (or
+where the service line first enters the building) to isolate the customer’s entire plumbing
+system from the public water system. Premises isolation preventers directly protect the
+public water system’s distribution system from contamination and are required for severe
+and high-hazard premises of the type on Table 9.
+
+•
+
+In-premises prevention means a backflow prevention strategy in which an approved
+backflow preventer is installed either at the point of hazard such as a plumbing fixture
+(fixture protection) or at a location to isolate an area, such as a laboratory wing, within the
+customer’s premises (area isolation). In-premises preventers protect the customer’s
+plumbing system from contamination, and in most cases are required by the Uniform
+Plumbing Code amended for Washington. Under the drinking water rules, water systems
+may rely solely on in-premises preventers to protect the public water system from
+contamination for non-Table 9 type premises only.
+
+Q H-13: Many of the rows in the Backflow Preventer Inventory and Testing tables seem to ask for
+the same data. Can you clarify what the different rows mean?
+A:
+
+The two tables reflect DOH’s interest in inventory and testing data for two different categories
+of backflow preventers:
+1. Premises isolation preventers (Table 1).
+2. In-premises preventers installed for fixture protection or area isolation (Table 2).
+Some rows do ask for the same type of data. However, Rows 1-7 apply only to the premises
+isolation preventers; and Rows 8-14 apply only to in-premises preventers.
+In addition to the two preventer categories described above, DOH is also interested in
+inventory and testing data on existing versus new backflow preventers. We’re specifically
+interested in data on backflow preventers placed into service:
+1. Before the current reporting year.
+2. During the current reporting year.
+
+Q H-14: We don’t track atmospheric vacuum breakers (AVBs) on irrigation systems. How do we
+report this?
+A:
+
+If you don’t track AVBs on irrigation systems, answer “No” to the AVB question located
+between Tables 1 and 2 on page 4. This will prompt the website to enter “unk” in the AVB
+column fields in rows 8 through 14.
+
+Q-H-15: What is a failure? Why is it important that all failures be counted and reported to DOH?
+A:
+
+We define a failure as any time a backflow preventer fails to pass a field test or inspection by
+a DOH-certified Backflow Assembly Tester (BAT) in the reporting year. When this occurs,
+count it as one failure in the appropriate rows on the tables on page 4.
+Count multiple failures of the same preventer as one failure for the reporting year. It doesn’t
+matter whether the backflow preventer passed the field test after cleaning or repairs.
+
+ASR FAQs
+
+Page 11
+
+January 31, 2018
+
+It’s very important to count all backflow preventers that fail at least one test (or inspection)
+during the reporting year. DOH frequently receives requests or proposals to relax the annual
+testing requirement due to the apparent lack of failures. DOH needs accurate failure rate data
+to justify the annual assembly testing requirement.
+Q H-16: We require some assemblies installed at severe health hazard facilities to be tested twice
+per calendar year. How should we report these tests and failures (if any) on the Backflow
+Preventer Inventory and Testing tables?
+A:
+
+Count the multiple tests per calendar year as one test, since DOH is interested in knowing
+whether an assembly was tested at least once during the reporting year.
+Similarly, if an assembly failed multiple tests in the reporting year, count the multiple failures
+as one failure.
+
+Q H-17: How should we report detector assembly inventory and testing information?
+A:
+
+Count each RPDA or DCDA as a single assembly, i.e. only once in the RPDA or DCDA
+column as appropriate. Don’t count the bypass separately.
+Count as one test the tests of the mainline assembly and bypass assembly. Count as one failure
+the failure of either the mainline or bypass assembly or both assemblies.
+Count an entire detector assembly removed from service as one assembly removed from
+service.
+Do not count a bypass assembly replacement as a detector removed from service.
+
+Q-H-18: Our system tracks both premises isolation and in-premises/fixture protection backflow
+preventers. Which ones do we report in Part 4A?
+A:
+
+In Part 4A, report preventers that provide the primary means of backflow prevention for the public
+water system. In other words, count the preventers that directly protect the public water system from
+contamination. You must count and report the following backflow preventers:
+• Premises isolation backflow preventers.
+• Fixture protection (or area isolation) backflow preventers that directly protect the public water
+system. You must report these for connections where no premises isolation backflow preventer
+is installed.
+To illustrate, consider the following examples:
+Example 1: Table 9 Facility with Premises Isolation
+• A premises isolation RPBA is installed on the service line to the facility at the meter.
+• All fixtures within the facility’s plumbing system have the proper backflow preventers.
+• Count and report only the premises isolation RPBA. Include the count in Part 4A Table 1.
+Example 2: Non High-Hazard Facility with Dedicated Irrigation Line without Chemical Injection
+• A DCVA is installed on the dedicated irrigation line to this facility.
+• No other hazards have been identified for this facility.
+• Count and report the DCVA as a Premises Isolation Preventer in Part 4A Table 1.
+Example 3: Non High-Hazard Facility with Fixture Protection Only (no premises isolation).
+• Your system serves a small convenience store. Your CCS’s hazard survey determines this is not a
+high-hazard facility and does not require a premises isolation backflow preventer.
+• The store decides to install a carbonated beverage machine.
+
+ASR FAQs
+
+Page 12
+
+January 31, 2018
+
+•
+
+As required by the Uniform Plumbing Code amended for Washington, the owner installs an
+RPBA on the water supply line to the carbonated beverage machine.
+The purveyor relies on the in-premises, fixture protection RPBA on the beverage machine to
+protect the public water system.
+Count and report the RPBA as an In-Premises Preventer in Part 4A Table 2.
+
+•
+•
+
+We’re aware that some municipal purveyors track all assemblies within their cities. To ensure proper
+reporting on your ASRs, you should track the following for each backflow preventer in your database:
+•
+
+Function: whether the backflow preventer is installed for premises isolation or in-premises
+prevention (fixture protection or area isolation).
+Whether the backflow preventer directly protects the public water system, so you can determine
+whether you need to include it in the counts in Part 4A.
+
+•
+
+Q H-19: Can you give an example on how to properly complete one of the Part 4A tables?
+A:
+
+Yes. Assume that:
+1. A water system has 50 premises isolation DCVAs in service at the beginning of the
+reporting year.
+2. Of these 50 DCVAs, 45 were inspected and tested during the reporting year and 4 failed.
+Assume that during the reporting year:
+1. 8 new premises isolation DCVAs were installed as follows:
+a. 5 were installed at connections not previously protected.
+b. 3 were installed to replace existing DCVAs (beyond repair).
+2. All 8 new DCVAs were tested upon installation and 1 failed.
+3. 2 existing premises isolation DCVAs were replaced by premises isolation RPBAs (due to
+a change in use of the premises).
+4. 1 existing premises isolation DCVA was removed from service (building demolished).
+Report the entries in Table 1 under the DCVA column for rows 1-7 as follows:
+Backflow Preventer Category and Inspection/Testing Information
+Table 1: Premise Isolation Preventers (include preventers isolating PWS-owned facilities
+Existing Premises Isolation Backflow Preventers
+1
+2
+3
+
+In service at beginning of reporting year
+Inspected and/or tested in reporting year
+Failed inspection or test in reporting year
+
+New Premises Isolation Backflow Preventers
+4
+5
+6
+
+Installed in reporting year
+Inspected and/or tested in reporting year
+Failed inspection or test in reporting year
+
+Premises Isolation Backflow Preventers (existing or new)
+
+DCVA
+
+50
+45
+4
+8
+8
+1
+
+Removed from service in reporting year*
+
+6*
+
+Total Premises Isolation Preventers at End of Reporting Year**
+
+52**
+
+7
+
+*Preventers taken out of service include those that were replaced, whether or not the replacement preventers were of the
+same type or a different type. In this example, the 6 DCVAs taken out of service include 3 replaced by new DCVAs,2
+replaced by RPBAs, and 1 removed but not replaced.
+**The website calculates the Total of 52 DCVAs as follows: 50 existing DCVAs plus 8 new DCVAs installed during the
+reporting year, minus 6 taken out of service. In this example, you should report the 2 new premises isolation RPBAs
+(replacing the DCVAs) in the Table 1 RPBA column in row 4 (installed in the reporting year).
+
+ASR FAQs
+
+Page 13
+
+January 31, 2018
+
+Blue Form Page 5 Part 4B: Other Implementation Activities
+Q H-20: Can you explain what you’re looking for in the On-Site Hazard Surveys table?
+A:
+
+We’re interested in knowing:
+
+•
+
+Whether your system’s CCS conducted any hazard surveys during the reporting year and
+the total number of surveys conducted.
+
+•
+
+Of the hazard surveys conducted in the reporting year, how many new connections and
+how many existing connections your CCS evaluated for cross-connections.
+
+•
+
+Of the connections surveyed in the reporting year, how many new connections and how
+many existing connections required backflow prevention to protect the public water
+system from contamination. For reporting purposes, you should include connections
+where your CCS required either premises isolation or in-premises preventers to protect
+the public water system.
+
+•
+
+For existing connections requiring backflow prevention, count connections that needed a
+new backflow preventer (no backflow preventer installed previously), additional backflow
+prevention (for example, premises isolation), or a more protective backflow preventer
+(RP required where had DC before).
+
+For example, during the reporting year, your CCS conducted a hazard survey of an existing
+hospital. The CCS found 4 connections, and none of them had premises isolation backflow
+preventers installed. For this scenario, you would:
+•
+
+Answer “Yes” to the hazard survey question and report conducting one (1) on-site
+hazard survey.
+
+•
+
+Report four (4) connections surveyed for hazards to PWS (in row #1 of hazard survey
+table in the existing column).
+
+•
+
+Report that four (4) connections required backflow prevention to protect the public water
+system from contamination (row #2 of hazard survey table in the existing column).
+
+Blue Form Part 5: Backflow Incidents, Risk Factors and Indicators
+Q H-21: Do we include water leaks (at joints) as “main breaks”?
+A:
+
+Do not count leaks at joints or corporation stops as main breaks. However, if your system
+didn’t distinguish between these for the reporting year, estimate the number of main breaks in
+Part 5, and provide an explanation in the Part 6: Comments and Clarifications section of the
+blue form. Next reporting year, track and report main breaks separately from water leaks.
+
+Q H-22: Do we include planned or scheduled water outages as “water outage events”?
+A:
+
+Yes, you should include planned or scheduled water outages as water outage events, because
+they may result in backflow from connections to premises without backflow prevention.
+
+Section I - Cross-Connection Control Program Summary (cream form)
+Q I-1: Do I have to complete every field on the cream form?
+A:
+
+Generally, yes, except for fields the website completes for you. The website disables and grays out these
+fields.
+Please note the website completes Part 1L row 3 on page 3 of the cream form based on your water system’s
+past Exceptions (green form) data.
+
+ASR FAQs
+
+Page 14
+
+January 31, 2018
+
+Q I-2: Does the cream ASR form include data error checks like the other ASR forms?
+A:
+
+Yes, like the other ASR forms, the cream form includes data error checks to help users provide
+complete and logical CCC data.
+Click Ready to Submit to trigger the data checks within the form. If the Data Errors Screen
+displays:
+1. Click the page links to go to the page(s) with the error(s).
+2. Look for the required fields messages and data logic messages (in red) to help you
+identify the data errors on that page.
+3. Correct the errors noted and repeat the Ready to Submit process until the
+New/Edit/Print Forms Screen displays and your cream form’s status changes to Ready
+to Submit.
+
+Q I-3: We’re revising our written CCC Program Plan. What should we report on the cream ASR?
+A:
+
+Report on the status of your written CCC Program Plan at the end of the reporting year
+(December 31st).
+Note in Part 3: Comments and Clarifications, that you’re revising your written CCC Program
+Plan.
+Next year, update your cream form responses based on the revised CCC Plan.
+
+Q I-4: On page 1, Part 1A, why doesn’t the Program Type list include a category where the PWS
+relies solely on an In-Premises Prevention (fixture) type of a CCC Program?
+A:
+
+Implementation of a CCC Program that relies on In-Premises Prevention (fixture protection) as
+the only method of backflow prevention does not comply with the Washington’s state drinking
+water regulations [WAC 246-290-490(2)(f)]. Under the WAC, the water system must implement
+either a:
+1. Premises isolation only program.
+2. Combination program that relies on both premises isolation and in-premises
+prevention.
+Per WAC 246-290-490(4)(b), the water system must be protected from backflow from severe
+and high-hazard premises(such as those listed on Table 9) by a premises isolation RP or AG.
+Severe hazard premises require additional backflow prevention (in-plant air gaps) if an RPtype assembly is installed for premises isolation.
+Some water systems may not currently serve any severe or high-hazard premises requiring
+mandatory premises isolation. However:
+
+ASR FAQs
+
+•
+
+When a high-hazard facility applies for water service, the water system must require a
+premises isolation AG or RP to be installed before providing service.
+
+•
+
+If a severe hazard facility applies for water service, the water system must require
+backflow prevention per WAC 246-290-490(4)(b)(ii) to be installed before providing
+service.
+
+Page 15
+
+January 31, 2018
+
+Cream Form Part 1B: Coordination with Authority Having Jurisdiction (AHJ).
+Q I-5: Who is the “Authority Having Jurisdiction”?
+A:
+
+For ASR purposes, the term “AHJ” means the local official, department, or agency that enforces,
+in the water system’s service area, the plumbing code adopted by the Washington State Building
+Code Council.
+Typically, the City or County Building Official acts as the AHJ. However, for unincorporated
+areas and certain cities in King County, Seattle-King County Health Department assumes this
+role.
+The Uniform Plumbing Code (UPC) amended for Washington is the current state plumbing code.
+The term “AHJ” replaces the term “Local Administrative Authority” (LAA) used previously in
+the UPC.
+Do not list DOH, other local health jurisdictions, fire districts, or other state agencies as AHJs,
+since they don’t enforce the UPC.
+
+Cream Form Part 1D: Typical Program Responsibilities
+Q I-6: What do you mean by “Responsible Party”?
+A:
+
+Generally we mean the entity that arranges and directly pays for the CCC Program Activity
+listed..
+
+Cream Form Part 1E: Backflow Prevention for Fire Sprinkler Systems
+Q I-7: For retrofits to high and/or low-hazard fire sprinkler systems, we allow a range of number
+of days for compliance. What should we enter in the field provided?
+A:
+
+Enter the larger number of days in the range, since you can enter only one value in each
+“number of days” field. The website blocks entry of text or characters (such as dashes or math
+symbols) in these fields.
+
+Cream Form Part 1J: Backflow Prevention for Non-Residential Connections
+Q I-8: What types of non-residential customers fall into the various categories?
+A:
+
+Examples of non-residential customers in the various categories include but are not limited to:
+•
+
+Commercial: Stores, shopping centers, gas stations, restaurants, office buildings.
+
+•
+
+Industrial: Plants for manufacturing aircraft, automotive, electronic, or wood products.
+
+•
+
+Institutional: Schools, college campuses, and government buildings.
+
+Cream Form Part 1L: Policies Regarding Exceptions to Mandatory Premises Isolation
+Q I-9: How do I fill out Page 3 Part 1L about my system’s Exceptions policies and procedures?
+Why can’t I enter data in Row 3?
+A:
+
+The following describes the items in Part 1L:
+•
+
+ASR FAQs
+
+Row 1: Your written CCC Program Plan should specify whether your water system
+allows or prohibits Exceptions. Select the “Yes” or “No” radio button to reflect your
+system’s choice. If your CCC Program Plan is silent on the issue of Exceptions, or if you
+don’t have a written Program Plan, select the “Doesn’t Address” radio button.
+Page 16
+
+January 31, 2018
+
+•
+
+Row 2: If your water system granted or would consider granting new Exceptions in the
+reporting year, select the “Yes” radio button (regardless of your answer in Row 1).
+
+•
+
+Row 3: The website answers this question for you based on your water system’s
+Exceptions history from past reporting years. The website will select the “Yes” radio
+button if your system reported granting any Exceptions in past reporting years
+(regardless of your answers in either Row 1 or Row 2).
+
+Note: Selecting the “No” radio button in Row 2 will block access to new Exception (green)
+forms. If the “Yes” radio button in Row 3 is checked, you’ll be able to access past Exceptions on
+the List of Exceptions Screen to view, print, renew, or cancel. See Q J-4 for more information.
+
+Cream Form Part 2: CCC Program Record-Keeping Software
+Q I-10: We used Access, Excel, or other similar software to develop our water system’s CCC
+record-keeping system. Is that considered “Custom-Developed” CCC software?
+A:
+
+Use the guidelines below to help answer your question. Select:
+•
+
+Custom Developed for or by PWS if your water system’s CCC record-keeping system
+took considerable time and effort to develop (requiring the expertise of database
+programmers) and includes many automated operations.
+
+•
+
+Other Commercial (non-CCC) Software if your water system uses commercial software
+such as Access or Excel essentially off-the-shelf (“as is”) or with minimal customization.
+
+If your water system uses commercially available CCC software (such as Tokay or XC2)
+customized for your system, identify the name of the commercial software used. Do not select
+“Custom-Developed”.
+
+Section J - Exceptions to High-Hazard Premises Isolation (green form)
+Q J-1: Can you please clarify what an Exception is?
+A.
+
+An Exception is a waiver from mandatory premises isolation (with an RPBA or AG) granted to
+the customer by the purveyor.
+The drinking water rules don’t require purveyors to grant exceptions. Instead, under WAC 246290-490(4)(b)(iii), purveyors have the option to grant exceptions. Purveyors may grant
+exceptions:
+•
+
+On a case-by-case basis to premises that would normally require mandatory premises
+isolation per Table 9 of WAC 246-290-490.
+
+•
+
+To specific high-hazard premises, only if the purveyor’s CCS determines that no hazard
+exists.
+
+Your water system’s CCC Program Plan should specify whether your system, by policy, grants or
+doesn’t grant Exceptions. See the DOH CCC Guidance Manual for Small Water Systems for
+more information.
+Q J-2: Our water system granted a new Exception in the reporting year, and we renewed some
+past Exceptions. Does our system have to complete every field on the Exception (green)
+form to pass the data error checks within the form?
+A:
+
+Generally, yes.
+See below for details.
+
+ASR FAQs
+
+Page 17
+
+January 31, 2018
+
+Pay attention to the following parts of the green form:
+Part 2: Premises Information
+• You must complete the Premises Name, Service Address, and Premises Type fields since
+they’re required fields.
+•
+
+Make sure you select the applicable Table 9 Premises Type or Category from the
+dropdown box. Otherwise your Table 9 category will be recorded as Agricultural.
+
+Part 3: Hazard Evaluation and Exception Dates
+• You must enter dates in Rows A through D since they’re required fields. Establishing an
+Exception Expiration Date and Next Hazard Evaluation Date helps ensure the water
+system’s designated CCS periodically reviews and confirms the validity of the Exception.
+•
+
+To ensure protection of the public water system, DOH recommends that the purveyor’s
+designated CCS re-evaluate all Exceptions every 1-2 years (or more frequently if a tenant
+change or change in use of the premises or plumbing is likely).
+
+Part 4: Justification for Granting Exception to Premises Isolation
+• You must report at least one reason for granting the Exception (this is a required field).
+•
+
+If none of the typical reasons listed apply to your Exception, type your justification in the
+“Other” row text box, and check the “Other” row check box.
+
+Q J-3: Should I access and click the Save or Ready to Submit button on a new Exception (green)
+form if I didn’t grant any exceptions during the current reporting year?
+A:
+
+No.
+If you accidently start a new green form, click the New/Edit/Print Screen button at the bottom of
+the form to exit the form without saving. If you’ve already saved a new green form (or renewed a
+past form) by accident, Q J-5 (below) explains how to Cancel a saved Exception form.
+Note: the website will block you from saving or submitting a blank green form.
+
+Q J-4: I want to fill out a new Exception (green) form, but the New green forms button on the
+New/Edit/Print Forms Screen is grayed out/disabled. What should I do?
+A:
+
+We base your access to new green forms on your answers to either of the following:
+•
+
+Blue form Page 5 Part 4B. If you report that your system granted new premises
+isolation exceptions in the reporting year, you’ll have access to new green forms.
+
+•
+
+Cream form Page 3 Part 1L. If you select the “Yes” radio button on row 2, you’ll have
+access to new green forms. See Q-I-9 form more information on Part 1L of the cream
+form.
+
+Access to new green forms will be blocked if you:
+
+ASR FAQs
+
+•
+
+Haven’t started a new blue or cream form.
+
+•
+
+Haven’t completed the new Exceptions question on page 5 Part 4B of a saved blue form
+or the second row of page 3 Part 1L of a saved cream form.
+
+•
+
+Reported on page 5 of your saved blue form that you didn’t grant any new Exceptions in
+the reporting year, and reported on your saved cream form that your system doesn’t
+grant new Exceptions (selected the No radio button on page 3 Part 2L row 2).
+
+Page 18
+
+January 31, 2018
+
+Q J-5: I want to Cancel an Exception I previously saved or submitted to DOH, because it is no
+longer valid or needed. How do I cancel a specific Exception?
+A:
+
+To cancel the Exception, follow the steps below:
+1. Go to the New/Edit/Print Screen.
+2. Click the Exceptions List button in the Exceptions Section at the bottom of the screen.
+3. On the List of Exceptions, find the Exception of interest (by premises name) and click the
+Cancel button.
+4. Complete the Cancellation Form. You must provide at least one reason for cancelling
+the Exception.
+5. Adjust the Date Cancelled if needed.
+6. Click Submit at the bottom of the Cancellation Form.
+To verify you’ve successfully cancelled the Exception, access the Exceptions List. The status of
+the cancelled Exception will change to Cancelled.
+Note: cancelled Exceptions will appear on the Exceptions List only in the reporting year in
+which they were cancelled. Cancelled Exceptions will not display on the Exceptions List in
+future reporting years.
+
+Q J-6: I want to Renew an expired. Can I renew this Exception without having to complete a new
+Exception form?
+A:
+
+Yes. Follow the steps below:
+1. Go to the New/Edit/Print Screen.
+2. Click the Edit/Cancel/Print button in the Exceptions Section.
+3. On the List of Exceptions, find the expired Exception (by premises name) and click
+Renew.
+4. Complete all the required fields on the Renewal Form and click Submit when finished.
+
+Q J-7: I granted Exceptions in the reporting year to certain premises in response to DOH
+compliance directives (based on ASR information submitted before the current reporting
+year). I sent DOH manually completed Exception forms with my compliance documents.
+Do I need to submit Exception forms for these same premises using the current year’s ASR
+web-based application?
+A:
+
+Yes. Please enter the Exceptions into the current year’s ASR web-based application. Use the
+data from the original Exception form submitted to DOH with your compliance documents.
+
+Q J-8: My Exceptions List includes several “old” Exceptions with a status of Expired (assumed) or
+Expired (expiration date). Do I need to address these?
+A:
+
+Yes, you must cancel or renew all expired Exceptions to successfully submit your ASR Forms
+Package to DOH. Follow the instructions in:
+•
+
+Q J-5 to cancel an invalid Exception.
+
+•
+
+Q-J-6 to renew an Exception that is still valid.
+
+Q J-9: Our system serves a “mortuary” that provides funeral services only (no embalming or
+processing of bodies) and a chiropractor with digital X-ray equipment. We granted
+ASR FAQs
+
+Page 19
+
+January 31, 2018
+
+Exceptions to these facilities in the past. However, we noticed that on the blue form page 3,
+we now only need to report mortuaries with water-connected embalming equipment and
+chiropractors with water-connected X-ray equipment. Can we cancel these Exceptions?
+A:
+
+Yes, you may cancel these Exceptions, because they are no longer needed.
+For 2015 and thereafter, on page 3 of the blue form, you only need to report:
+•
+
+Mortuaries with water-connected embalming equipment.
+
+•
+
+Chiropractors with water-connected X-ray equipment since these facilities pose a highhazard to your system. Purveyors requested these changes We made these changes at the
+request of many ASR systems since .
+
+Q J-9 Our system serves a business that provides both digital film printing services and regular
+film processing services. We assumed that this facility should be classified as a Table 9
+category. However, during the hazard survey, we found that the digital film printing
+operation has no water-connected equipment. We also found that regular film processing
+operation is self-contained - has no water-connected equipment and uses only pre-packaged
+and pre-mixed chemicals (no chemical mixing on site). Is it appropriate to grant an
+Exception to this business?
+A:
+
+If after the hazard evaluation, your CCS determines that no hazard exists, you may grant an
+Exception to this facility. Complete an Exception form explaining the reason for granting the
+Exception. Part 4 of the green form lists typical reasons including one for film printing/film
+processing facilities with no water-connected equipment. You must conduct periodic reevaluations to ensure that the facility still qualifies for the Exception.
+
+Section K – Severe Health Hazard Facilities (gray form)
+Q K-1: My system serves a severe health hazard facility (SHHF) that does not have an NPDES
+permit from the Department of Ecology. Do I have to include the facility on the gray form?
+A:
+
+Yes. Some SHHFs such as nuclear reactors do not have NPDES permits (or the equivalent).
+Some wastewater facilities do not have NPDES permits, because they discharge to another
+facility with a permit. DOH still considers these facilities SHHFs, because these premises pose a
+severe hazard to the water system.
+
+Q K-2: All the hose bibs at the SHHF that my system serves have “air gaps”, because they don’t
+have any hoses attached to the hose bibs unless we’re are using them. Do these qualify as
+in-plant air gaps for purposes of compliance?
+A:
+
+No! An approved in-plant air gap for a SHHF must be permanently installed and must be on the
+process water line, not at the fixture. DOH will send you (upon request) an illustration of an
+approved RPBA and in-plant air gap combination.
+
+Q K-3: My system has multiple water service connections (4) to the same severe health hazard
+facility (SHHF), a large wastewater treatment plant. I’ve reported the correct number of
+connections (4) in the wastewater treatment plant row on page 2 of the blue form. How
+should I report this information on the gray form?
+A:
+
+We’ve improved the gray form so you can now list multiple SHHFs and multiple service
+connections per facility. For the scenario you’ve described, please:
+1. Enter the facility information in the Facility 1 of 1 data fields.
+
+ASR FAQs
+
+Page 20
+
+January 31, 2018
+
+2. Scroll down and identify the first connection to this facility by name. This is a required
+field. Example connection names could include process water line, dedicated fire line,
+dedicated irrigation line, lab building water line, etc.
+3. Use the dropdown box and select the applicable backflow prevention status for
+Connection 1 at the end of the reporting year.
+4. Provide details about the connection in the comment section (for example, this
+connection serves the lab building).
+5. Since you serve more than one connection to the same SHHF, click the “Add
+Connection” button to display another connection row for Facility 1.
+6. Repeat the above steps for each connection listed under Facility 1, until you’ve
+completed the requested information for all 4 connections (for example, Facility1
+Connection 1 of 4, Connection 2 of 4, Connection 3 of 4, and Connection 4 of 4).
+
+Q K-4: My system has serves more than one severe health hazard facility (SHHF). We serve 2
+wastewater treatment plants with one connection each. I’ve reported the correct number of
+connections (2) in the wastewater treatment plant row on page 2 of the blue form. How
+should I report this information on the gray form?
+A:
+
+We’ve improved the gray form so you can now list multiple SHHFs and multiple service
+connections per facility. For the scenario you’ve described, please:
+1. Enter the information for the first SHHF in the Facility 1 of 1 data fields.
+2. Scroll down and complete the information for the connection to this facility by name. The
+name field is required. Example connection names could include process water line,
+dedicated fire line, dedicated irrigation line, lab building water line, etc.
+3. Use the dropdown box and select the applicable backflow prevention status for Facility 1
+Connection 1 of 1 at the end of the reporting year.
+4. Provide details about the connection in the comment section (for example, this
+connection serves the lab building).
+5. Since you serve more than one SHHF, click the “Add Facility” button to display another
+facility data entry box.
+6. Complete the information for the second SHHF in the Facility 2 of 2 data fields.
+
+ASR FAQs
+
+Page 21
+
+January 31, 2018
+
+

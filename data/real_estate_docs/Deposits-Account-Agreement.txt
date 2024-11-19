@@ -1,0 +1,798 @@
+Deposit Account Agreement
+Effective March 1, 2024
+Welcome to Savings!
+Your Savings account is provided by Goldman Sachs Bank USA, Salt Lake City Branch (“Bank,” “we,” “us,” or “our”), and this
+is a legal agreement between you and us. By opening, maintaining, and using your Savings Account (“Account”), you are
+agreeing to be bound by this Deposit Account Agreement (“Agreement”), which can be found in your Apple Wallet. Please
+read it carefully and keep a copy for your records.
+You can view, print, save, and email current versions of this Agreement at any time from your Apple Wallet, or you can
+request this Agreement by contacting us.
+CONTACTING US
+Except as explicitly set forth in this Agreement, you can contact us with questions or other matters about your Account by:
+•
+
+Using Messages;
+
+•
+
+Calling us toll-free at 877-255-5923; or
+
+•
+
+Writing to us at Lockbox 7022, P.O. Box 71022, Philadelphia, PA 19176-1022.
+
+If you attempt to contact us by other means, we may not receive your message and may not be able to respond in a timely
+manner or at all.
+CHANGES TO THIS AGREEMENT
+Subject to applicable law, we may change any term of this Agreement, or add new provisions, at any time in our sole
+discretion. If we are required by law to provide you with notice of any changes to this Agreement, we may do so in
+accordance with the Electronic Communications Agreement we have already provided to you. Subject to applicable law,
+continued access to or use of your Account following such notice will be deemed to be your acceptance of such modified
+version of this Agreement. If you do not agree to this Agreement or any revised version of this Agreement, we may require
+you to close your Account.
+THIS AGREEMENT REQUIRES CLAIMS TO BE ARBITRATED AND FORBIDS CLASS ACTIONS, UNLESS YOU EXERCISE YOUR
+RIGHT TO REJECT ARBITRATION UNDER THIS AGREEMENT BY PHONE OR MAIL WITHIN 90 DAYS AFTER ACCOUNT
+OPENING.
+Important Definitions
+This section defines some important terms used in this Agreement.
+“Account” means the savings account opened for you under this Agreement.
+“ACH Transfers” means transfers to or from your Account processed under National Automated Clearing House Association
+(“NACHA”) Operating Rules.
+“Apple Card” means the Apple Card consumer credit account issued by us that can be accessed through Apple Wallet.
+“Apple Cash” means the prepaid debit card offered by Green Dot Bank.
+“Apple Wallet” means the digital application from which you can access your Account.
+“Available Balance” means the amount of funds in your Account you’re permitted to withdraw.
+“Business Day” means Monday through Friday, excluding all U.S. bank holidays.
+
+Page 1/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+“Current Balance” means the total amount of funds in your Account, including amounts that you’re not permitted to
+withdraw.
+“Eligible Device” means an iOS device with a version of iOS installed that supports use of Apple Card and Savings in your
+Apple Wallet or an iPadOS device that has a version of iPadOS (as applicable) that supports the use of Apple Card and
+Savings.
+“iMessage” is Apple’s messaging service that allows you to send texts, photos, videos, and audio messages from your
+Eligible Device.
+“Messages” is an Apple messaging app that lets you send text messages and iMessages to anyone with an iOS, iPadOS,
+watchOS, or macOS device using iMessage.
+“You,” “your,” and “yours” means each individual person who owns an Account with us.
+Account Opening
+This section explains the requirements for opening and maintaining an Account.
+WHO MAY OPEN AND MAINTAIN AN ACCOUNT
+You can open an Account if you:
+•
+
+Are at least 18 years old;
+
+•
+
+Are an Owner or Co-Owner of an Apple Card, as defined in the Apple Card Customer Agreement;
+
+•
+
+Such Apple Card is in good standing;
+
+•
+
+Have a Social Security Number or Individual Taxpayer Identification Number; and
+
+•
+
+Have a street address in (i) the U.S.; (ii) the territories of Puerto Rico, or United States Virgin Islands (collectively,
+“U.S. Territories”); or (iii) a U.S. military base or U.S. embassy (i.e., an Army/Air Post Office, Fleet Post Office, or
+Diplomatic Post Office address) (collectively, “U.S. Jurisdictions”). You cannot use a post office box (other than on
+a U.S. military base or at a Diplomatic Post Office).
+
+We only offer an Account to natural persons. An Account may only be used for personal, family, or household purposes and
+cannot be opened or maintained for business purposes. An Account may not be opened in the name of a trust or other
+legal entity or by a fiduciary (e.g., executor, conservator, guardians, trustees, etc.). If a fiduciary is appointed, we may allow
+the fiduciary to access an Account, subject to the fiduciary’s verified rights. We are not required to grant access to, or make
+payment from, an Account to a fiduciary if: (i) we have actual knowledge of, or otherwise believe in good faith that there
+may be a bona fide dispute concerning rights to an Account; or (ii) we are uncertain as to who is entitled to Account access
+or Account funds.
+If you fail to meet the requirements outlined in this section at any time, we may restrict or close your Account pursuant to
+the Closing or Restricting an Account section of this Agreement. However, you are not required to be an Apple Card Owner
+or Co-Owner to maintain your Account.
+IMPORTANT INFORMATION ABOUT OPENING AN ACCOUNT
+Verification—To help the government fight the funding of terrorism and money laundering activities, federal law requires
+us to obtain, verify, and record information that identifies each person who opens an Account. This means that when you
+apply to open an Account, we will ask for information that will allow us to identify you, which may include your name,
+address, date of birth, Social Security Number, Individual Taxpayer Identification Number, driver’s license, or other
+information or documents. All Accounts are opened subject to our ability to verify your identity, and your ability to perform
+or request certain Account transactions on a new Account may be delayed for one or more Business Days after Account
+opening.
+
+Page 2/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+TAX REPORTING AND BACKUP WITHHOLDING
+Federal law requires us to report the interest you’ve earned. You must certify your Social Security Number or Individual
+Taxpayer Identification Number during the application process in Apple Wallet. Otherwise, we are required to withhold a
+percentage of the taxable interest that we pay you (referred to as “backup withholding”).
+By electronically signing the Form W-9 included as part of the Account opening requirements, you acknowledge and
+authorize the Form W-9 to be used for additional account openings at any subsidiary of the Goldman Sachs Group, Inc., and
+to be associated with such Accounts.
+General Account Information
+This section explains information regarding the structure of your Account, how we calculate the interest earned each month,
+and requirements for maintaining your Account.
+APPLE WALLET
+Primary access to your Account is available only through Apple Wallet or settings on your Eligible Device. Access to your
+Account through other Apple devices (e.g., Apple Vision Pro) may have limited functionality or features.
+If you delete Apple Wallet from your Eligible Device, we will not close your Account and you may still call us to access
+information and funds (which may include delivering funds through a check). However, other Account services and
+functions may be limited, and you will no longer be able to access your Account statements (and other required Account
+communications) electronically. You must contact us at 1-877-255-5923 to change to paper delivery of your statements and
+other required Account communications, which will be mailed to your address on file only after you contact us. You may reinstall Apple Wallet on your Eligible Device at any time.
+HOW AN ACCOUNT CAN BE OWNED
+Individual Account
+An Account may only be owned by one person.
+Payable-On-Death (“POD”) Designation
+You may designate one or more beneficiaries (up to six) to receive the funds upon your death for your Account. If there is
+more than one beneficiary, they will be paid in equal shares. You may not designate an individual who is not a citizen or
+legal permanent resident of the United States or a trust or legal entity as a beneficiary. We may remove a POD designation
+that does not meet our requirements.
+If a beneficiary dies before the owner on an Account, then upon the death of the owner on the Account, the funds will be
+paid to the surviving beneficiaries. We make no representation as to whether a POD designation complies with any state
+laws other than Utah or New York. You are solely responsible for making sure your Account meets applicable state
+requirements.
+DEPOSIT INSURANCE COVERAGE
+The Federal Deposit Insurance Corporation (“FDIC”) insures deposits up to the standard maximum deposit insurance
+amount per depositor, per FDIC-insured bank, and per ownership category. In determining how much insurance is
+applicable to your Account, you need to consider all accounts that you hold with us. For more information, visit the FDIC’s
+website at www.fdic.gov/deposit/deposits or call the FDIC directly at 1-877-ASKFDIC (1-877-275-3342). You can also refer
+to the FDIC’s Electronic Deposit Insurance Estimator (EDIE) at www.fdic.gov/edie.
+MINIMUM OPENING BALANCE
+There is no minimum deposit required to open an Account or to earn the stated Annual Percentage Yield (“APY”).
+MAXIMUM BALANCE LIMITS
+The maximum balance limit for your Account is $1,000,000, based on your Current Balance (including interest and Daily Cash
+deposits). We may reject and return any new deposits (other than interest and Daily Cash deposits) if your Current Balance
+exceeds, or such deposit causes your Current Balance to exceed, the maximum balance limit. You authorize us to return any
+amount that exceeds the maximum balance limit by check.
+
+Page 3/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+ROUNDING AND INTEREST CALCULATION
+We pay interest in whole cents. Fractional interest is rounded to the nearest whole cent each month for credit to your
+Account. Any rounded interest paid yet unearned in a previous month is deducted from interest earnings the following
+month. Interest is compounded daily and credited to your Account monthly. Interest is calculated using the daily balance
+method, which means we apply a daily periodic rate to the principal and accrued interest in your Account every day.
+Interest is calculated every day for each calendar year.
+In general, interest begins to accrue on the Business Day that we post your deposit to your Account. For ACH Transfers and
+Apple Cash Transfers that you initiate from your Account through us, interest begins to accrue on the calendar day you
+initiated the transfer, if completed before 9:30pm ET, otherwise interest will begin to accrue the next calendar day. If your
+Account is closed before interest has been paid, any accrued interest will be paid through the last full calendar day before
+the Account is closed. We may change the interest rate and APY at any time and will give you notice of any decrease in
+either term as required by law.
+NOTICE OF WITHDRAWAL
+We reserve the right to require you to notify us in writing seven days before a withdrawal is made from your Account.
+Account Maintenance
+This section provides information about maintaining your Account.
+ACCOUNT STATEMENTS
+We will make monthly Account statements available electronically only through Apple Wallet.
+You should notify us promptly if you do not receive your Account statement within a few days after the end of a month. We
+reserve the right to mail you an Account statement and other required communications if electronic delivery fails. You
+agree that all notices and communications to you, including changes to this Agreement, may be sent with your monthly
+Account statement.
+If you delete Apple Wallet from your Eligible Device, you will no longer be able to access your Account statements (or other
+required Account communications) electronically. You must contact us at 1-877-255-5923 to change to paper delivery of
+your statements and other required Account communications, which will be mailed to your address on file only after you
+contact us.
+CHANGES TO ACCOUNT INFORMATION
+You must promptly notify us of any change to your name, mailing or email address, or phone number by contacting us. We
+may rely on your email address or mailing address as it appears in our records and any email address that you associate
+with your Apple ID for any and all Account communications we deliver to you unless and until you notify us of any changes.
+We will consider Account statements and other important Account documents delivered when they are prepared, mailed,
+or otherwise made available to you, including if we hold such documents because your mailing address or email address is
+not current. At our discretion, we may also update your mailing address if we receive a notification of change from the U.S.
+Postal Service or destroy mail that is returned undeliverable and suspend or restrict withdrawals from your Account.
+KEEPING YOUR ACCOUNT ACTIVE
+We are required to send the balance of any abandoned or unclaimed Account to the state of your last known address. Your
+Account may be considered abandoned if you do not conduct activity within a period of time based on applicable law.
+Account activity can include:
+•
+
+Depositing or withdrawing funds (may exclude preauthorized and automatic deposits or withdrawals);
+
+•
+
+Updating your address;
+
+•
+
+Accessing your Account through Apple Wallet or other means that we may make available to you; or
+
+•
+
+Contacting us concerning your Account.
+
+NO SERVICE CHARGES OR FEES
+We do not charge service charges or maintenance fees for your Account. External banks or third parties may charge you
+fees that may be reflected on your Account.
+Page 4/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+CLOSING OR RESTRICTING YOUR ACCOUNT
+We may restrict your access or use of your Account, or close your Account, at any time and for any reason, without notice
+or consent. The following is a list of some reasons we may restrict or close your Account:
+•
+
+You provided incorrect or misleading information when opening your Account;
+
+•
+
+You do not provide required information or documentation to maintain your Account upon notification by us;
+
+•
+
+You have overdrawn your Account;
+
+•
+
+We suspect that you or a third party are conducting illegal or fraudulent activity;
+
+•
+
+You revoke your consent under the Electronic Communications Agreement for your Account;
+
+•
+
+There is a dispute regarding your Account;
+
+•
+
+We have a reasonable basis to believe the Account owner is deceased;
+
+•
+
+We received a court order or other legal document prohibiting withdrawal;
+
+•
+
+We have determined that you have abused our systems or violated this Agreement or any other agreement you
+have with us or any of our affiliates; or
+
+•
+
+You fail to meet the requirements outlined in the Who May Open and Maintain an Account section of this
+Agreement at any point during the life of your Account.
+
+If your Account has a balance upon closing, we will return the funds to you. We may refuse to pay any debits or other items
+presented for payment after your Account is closed or restricted, but we will not be liable for the payment of any debit or
+other item presented after your Account is closed or restricted.
+WE MAY ISSUE YOU A CHECK IF WE OR YOU CLOSE YOUR ACCOUNT OR IF YOU EXCEED THE MAXIMUM DEPOSIT LIMIT. IF
+THE CHECK ISSUED TO YOU IS LOST, STOLEN, OR DESTROYED, PLEASE CALL US IMMEDIATELY. WE MAY NOT REISSUE YOU
+A CHECK OR PROVIDE YOU WITH REPLACEMENT FUNDS UNLESS 90 DAYS HAVE PASSED AND YOU HAVE PROVIDED AN
+AFFIDAVIT ATTESTING THE CHECK IS LOST, STOLEN, OR DESTROYED.
+ADJUSTMENTS
+We may make adjustments to your Account to reflect any corrections or changes to your balance or interest paid. You
+agree to reimburse us if an error or other event has caused an overstated amount.
+AUTHORIZATION AND AUTHENTICATION
+We will not permit Account access or transfers to or from your Account without authentication of your identity through use
+of documents, passcodes, Apple ID, or any other authentication credentials used in connection with your Account (each, a
+“Credential”). You accept sole responsibility for maintaining security over any Credential and any device using the
+Credential. We will consider any instructions received by us using any of your Credentials to be authorized by you. You
+agree to hold us harmless and indemnify us for any liability incurred for reasonably acting upon instructions bearing your
+Credentials. If any of your Credentials become lost or compromised, notify us immediately so that we may help safeguard
+your Account.
+DESIGNATING A POWER OF ATTORNEY
+You may give another person (an “attorney in fact”) authority to act on your behalf by providing us power of attorney
+documentation that meets our requirements. We may refuse to honor any power of attorney or refuse to permit your
+attorney in fact to access your Account as permitted by law.
+An attorney in fact may not open an Account on your behalf. Once we accept your power of attorney, the attorney in fact
+may access your Account unless we have had a reasonable opportunity to act on written notice that you have passed away
+or the power of attorney has been revoked. We have no duty to monitor or ensure that the acts of your attorney in fact are
+for your use or benefit or are otherwise permissible under applicable law. We are not liable if your attorney in fact exceeds
+the powers granted or does not comply with your instructions.
+
+Page 5/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+DEATH OR INCOMPETENCE
+We must be notified immediately if the Account owner passes away or is declared legally incompetent. Until we receive
+notice and required documentation, we may act as if the owner is alive and competent. If we believe you have passed away
+or have been declared legally incompetent, we may restrict your Account. If we receive written notice from a personal
+representative, executor, guardian, or other agent claiming to represent you or your estate, we may rely on any
+representations made in such notice and may take action to restrict or close your Account. If payments from certain
+government entities are deposited into your Account after your death, we may be required to return those payments to the
+originator upon notice.
+AUTHORIZATION TO SHARE INFORMATION
+You authorize us to share information we have about you with affiliates and third parties, except as prohibited under
+applicable law or our Privacy Notice. For more information, please consult our Privacy Notice.
+ELECTRONIC MESSAGES
+You acknowledge the risk that data may be accessed by unauthorized third parties when communicating with us using
+online, telephone, or other electronic devices. We are not responsible for any unauthorized access that occurs as a result of
+your use of third-party electronic communication channels.
+LEGAL ACTION
+If we are served with an attachment, levy, garnishment, or other state or federal legal action (“legal process”) that names
+you or your Account, we may rely upon any representation made in such documents. We may use the funds in your
+Account to cover any: (i) rights of set-off, levy, attachment, garnishment, or other valid legal process or court order relating
+to the Account owner; or (ii) requests from a trustee in bankruptcy, receiver, or the insolvency representative of the
+Account owner. You agree that we may respond to any such legal process in our own discretion without regard to
+jurisdiction. We will not contest on your behalf any legal action and may comply with the legal process as we consider
+appropriate. Unless required by law, we may not deliver notice to you of the legal process. Regardless of the terms of any
+legal process, we have first claim to any funds in your Account and your Account will be subject to our right of set-off and
+security interest. If the law imposes conditions or limits on our ability to take or set off funds in your Account, you waive
+those conditions and limits to the extent permitted by law.
+COMPLIANCE WITH LAW
+You agree to comply with applicable law and to not use your Account for unlawful internet gambling transactions or other
+illegal activity. You agree to comply with U.S. economic sanctions laws and regulations, such as those issued by the Office of
+Foreign Assets Control and Executive Orders issued by the President of the United States.
+Communications
+This section explains how we may contact you about matters relating to your relationship with us, and what you should do
+to update us with your current contact information.
+CONTACTING YOU
+You understand and agree that we may always communicate with you using any technology or methods that are permitted
+by law and that do not require your prior consent. You also agree that we may communicate with you using an automatic
+telephone dialing system and through the delivery of artificial and/or prerecorded voice messages. Some of the ways we
+may contact you include calls, emails, text messages, device-level notifications, and other electronic notification methods
+supported by the software you use to access your Account. These communications may relate to errors, disputes,
+transfers, and other matters with your Account and your relationship with us more generally. We may communicate with
+you using any telephone numbers (including wireless, landline, and voice over IP numbers) or email addresses that you give
+or have given to us. You understand and agree that anyone with access to your telephone, email account, or Eligible Device
+may listen to or read the messages that we leave or deliver to you. You agree that we will not be liable for any charges that
+you incur in connection with any communications that we deliver to you.
+You agree to notify us immediately if you change telephone numbers or are no longer the subscriber or usual user of a
+telephone number that you have given to us. You agree that we may monitor, record, retain, and reproduce your
+telephone calls and other communications with us. To the extent you have a right under applicable law, you can withdraw
+your consent to receive text messages through a telephone network (e.g., SMS), calls to your Eligible Device, or calls
+Page 6/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+through a telephone network that are made with an automatic telephone dialing system or that deliver a prerecorded
+and/or artificial voice message. To revoke your consent, you must contact us in accordance with this Agreement.
+SERVICE ALERTS
+We may provide to you automatic Account alerts regarding certain Account activities or when changes are made to your
+Account. We do not guarantee the delivery or accuracy of the contents of any such alert, and you should continue to
+monitor your Account statements and any formal communications from us to you for up-to-date information about your
+Account. You agree that we will not be liable for any delays, failure to deliver, misdirected deliveries, any errors in the
+content of an alert, or for any actions taken or not taken by you or any third party in reliance on an alert.
+NOTICES
+Any written or electronic notice or communication we deliver to you will be effective when made available in Apple Wallet,
+when sent to you electronically, or, if you have withdrawn your consent to electronic communications, when mailed to the
+address associated with your Account.
+Deposits and Withdrawals
+This section provides information about deposits and withdrawals on your Account.
+HOW DEPOSITS AND WITHDRAWALS MAY BE MADE
+Deposits and withdrawals are subject to limitations specified in this Agreement. In addition to any of the limitations
+specified in this Agreement, we may further restrict or limit your ability to make or receive transfers when we reasonably
+believe there may be fraudulent, suspicious, or illegal activity on or impacting your Account.
+ACH Transfer with a Linked External Account
+You may deposit or withdraw funds from your Account through an ACH Transfer into or from a linked external account. We
+may place limits on the amount of funds transferred based on total dollar amount or frequency, and will disclose such limits
+to you at the time you schedule your ACH Transfer.
+To link an external account, you must provide proof that the external account: (i) is a deposit account held at a bank located
+in the U.S. or U.S. Territories; (ii) is an account in which you have full right and authority to the funds; (iii) is not a trust
+account; and (iv) is owned by you. You may not link a business account. We may restrict linking to an external account at
+specific financial institutions. You authorize us, our agents, and service providers to verify ownership of the external
+account.
+We may reverse any ACH Transfer to or from your Account without prior notice to you at any time as permitted by NACHA
+Operating Rules. We may reverse any provisional credit to your Account for which final payment is not received.
+Apple Cash Transfers
+You may deposit or withdraw funds from your Account into or from Apple Cash. Transfers must be at least $1.00 and can be
+no more than $10,000. You may transfer no more than $20,000 per rolling 7-day period. We may place additional limits on
+the amount and frequency of transfers for the security of your Account.
+Check Deposits
+Any accepted check must be made payable to you or to Goldman Sachs Bank USA and must be endorsed on the back with
+“For Deposit Only at Goldman Sachs Bank USA” and include your Account number.
+You may not deposit the following types of items: (i) money orders; (ii) third-party checks (checks made payable to
+someone other than you); (iii) starter checks; (iv) temporary checks; (v) double-endorsed checks (checks with more than
+one endorsement), depending upon the branch where you make your deposit; (vi) checks older than six months; (vii)
+postdated checks; (viii) foreign checks; (ix) incomplete checks; (x) traveler’s checks; (xi) counter checks; (xii) checks with
+restrictive legends; and (xiii) other items that we have from time to time, in our sole discretion, determined not to accept.
+We may inadvertently accept for deposit any of the items listed above, but we bear no liability for accepting or not
+accepting these items for deposit. If any check is presented at or delivered to a location controlled by us or our affiliates,
+other than a Bank branch or the Lockbox address listed in the Contacting Us section in this Agreement, it will not be
+
+Page 7/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+processed or deemed received by us. We will use commercially reasonable efforts to cause the check to be forwarded to
+the Lockbox, and the check will be considered received on the date it reaches the Lockbox facility.
+Cash
+We do not accept cash deposits in U.S. dollars or any foreign currency.
+Wires
+We do not permit or accept wire transfers.
+DEPOSIT AND WITHDRAWAL REQUIREMENTS
+General Deposit Provisions
+When you make a deposit, we act only as your collection agent and will not be responsible beyond the exercise of ordinary
+care. All deposits are provisionally credited subject to our receipt of final payment. To the extent we accept a check or
+funds transfer, and such check or funds transfer is returned to us for any reason, you agree that we may deduct the amount
+of the check or funds transfer from your Account. We may send the returned check or funds transfer back for collection a
+second time without notifying you, and you waive any notice of dishonor and protest. At our discretion, we may return,
+reject, or refuse to accept a deposit.
+Posting Deposits
+We will generally post all deposits, withdrawals, and other debits to your Account in the order in which we receive them.
+The order by which you make transactions on your Account may not be the same as the order in which we post those
+transactions to your Account. We reserve the right to change our order of posting from time to time.
+Check Deposits
+Checks mailed to the Lockbox address listed in the Contact Us section in this Agreement, and delivered to the Lockbox by
+12:00 pm ET on a Business Day, will be considered deposited that Business Day, otherwise the check will be considered
+deposited the next Business Day. Any check that is accepted at a Bank branch by 4:00 pm ET on a Business Day will be
+considered received that Business Day, otherwise the check will be considered received the next Business Day. We may
+otherwise process checks in the order in which we determine, in our discretion. We are not required to accept any check.
+ACH Transfers
+ACH transfer instructions must be received before 9:30 pm ET on a Business Day, otherwise the instruction will be
+considered received on the next Business Day. We may process ACH transfer instructions in the order in which we
+determine, in our discretion. We are not required to accept or execute any ACH transfer instruction. It generally takes up to
+3 business days to process a transfer.
+Apple Cash Transfers
+Instructions for the transfer of funds between your Account and Apple Cash typically will be processed immediately on the
+calendar day we receive your instruction. We may process such transfer instructions in the order in which we determine, in
+our discretion. We are not required to accept or execute any Apple Cash Transfer instruction.
+Insufficient Funds
+We will not permit withdrawals from your Account if there are insufficient funds, and we will not be liable for dishonoring a
+transaction for insufficient funds. You are responsible for the full amount of any overdrawn amount incurred on your
+Account. You agree to reimburse us for any losses we incur in collecting any overdrawn balances.
+Restrictions on Withdrawal Methods
+You are not permitted to register your Account under a credit, debit, gift, or other type of card issued by a third party or
+another bank. You are not permitted to make withdrawals from your Account by creating a check issued by a third party
+and drawn on your Account. If you attempt to make any transactions through any of these payment methods, we will reject
+or return the transaction without notice to you and may consider such action to be a violation of this Agreement.
+
+Page 8/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+Reliance Upon Information Provided
+We will rely upon the information you provide, as well as information provided by the external bank sending transfers to
+you, when processing transfers. We are not responsible for the accuracy of this information and are not required to
+investigate such information prior to initiating a transfer.
+Funds Availability
+This section explains when deposits to your Account are available for withdrawal.
+DELAYED AVAILABILITY
+To the extent we accept a check, we may delay the availability of funds. During the delay, funds will not be available for
+withdrawal, but interest will accrue and be paid on the deposit.
+DAY OF DEPOSIT
+Except as otherwise described in this Agreement, if we receive a deposit before 9:30 pm ET on a Business Day, that Business
+Day will be the day of your deposit. If we receive a deposit after 9:30 pm ET on a Business Day or on a non-Business Day,
+the deposit will be considered received on the next Business Day.
+AVAILABILITY OF ACH TRANSFERS
+Funds received by ACH Transfer initiated through Apple Wallet from a linked external account will generally be available 5
+Business Days after you initiate the ACH Transfer, but may be available earlier.
+Funds received by ACH Transfer initiated from an external account to your Account will generally be available on the
+Business Day we post the deposit.
+AVAILABILITY OF APPLE CASH TRANSFERS
+Funds received by Apple Cash Transfer will typically be available the same calendar day you initiated the Apple Cash
+Transfer.
+AVAILABILITY OF CHECK DEPOSITS
+Accepted checks will be subject to the funds availability timelines outlined in this Availability of Check Deposits section.
+Special Checks
+For U.S. Treasury or other government checks, certified checks, teller checks, and cashier’s checks (“Special Checks”), up to
+$5,525 will be available the next Business Day after the day of deposit, and the remainder on the sixth Business Day after
+the day of deposit, unless an exception applies.
+Other Check Deposits
+For checks other than Special Checks, up to $225 will be available the next Business Day after the day of deposit, and up to
+$5,525 will be available on the second Business Day after the day of deposit, unless an exception applies. Any remaining
+funds will generally be available on the sixth Business Day after the day of deposit.
+Exceptions
+Funds you deposit by check may be delayed for a longer period if:
+•
+
+You are a new customer;
+
+•
+
+You deposit a single check or multiple checks totaling more than $5,525 on any one day;
+
+•
+
+You redeposit a check that has been returned unpaid;
+
+•
+
+Your Account is repeatedly overdrawn;
+
+•
+
+We believe the deposit will not be paid; or
+
+•
+
+There is a business interruption, such as failure of computer or communications equipment.
+
+We will notify you for any of the above reasons and tell you when the funds will be made available, which is generally no later
+than the sixth Business Day after the day of deposit.
+
+Page 9/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+New Customers
+For purposes of this section, you are generally considered a new customer during the initial 30 calendar days after you
+make your first deposit in your first account you open with us. You will not generally be considered a new customer,
+however, if you already have an account open with us at the time you open a new account. For new customers depositing
+checks other than Special Checks, up to $225 will be available the next Business Day after the day of deposit and the
+remainder will be available on the sixth Business Day after the day of deposit, unless an exception applies.
+We’ll consider a check deposit received on the day it arrives at the address for Check Deposits listed at the beginning of this
+Agreement subject to the above availability of funds.
+Electronic Fund Transfer Disclosure and Terms
+This section explains your rights if you identify errors for certain transactions on your Account.
+ELECTRONIC FUND TRANSFER DISCLOSURE AND TERMS COVERAGE
+Your Account is governed by the Electronic Fund Transfer Act and Regulation E.
+STATEMENTS
+You will get a monthly Account statement that will show the date, amount, and description of each electronic fund transfer
+(“EFT”).
+NOTICE OF VARYING AMOUNTS
+If you have recurring debit EFTs that may vary in amount, the person you are going to pay will tell you, 10 days before each
+EFT, when it will be made and how much it will be. You may be given the choice instead to get this notice only when the EFT
+would differ by more than a certain amount from the previous EFT, or when the amount would fall outside certain limits
+that you set.
+STOPPING ELECTRONIC FUND TRANSFERS
+If you have scheduled a recurring debit EFT (also known as a preauthorized transfer), you can stop these transfers by calling
+us at 1-877-255-5923 or writing us at Lockbox 7022, P.O. Box 71022, Philadelphia, PA 19176-1022 in time for us to receive
+your request at least three Business Days before the transfer is scheduled to be made. If you call, we may also require you
+to put your request in writing and get it to us within 14 days after you call. We will be liable for your losses or damages if we
+fail to stop a preauthorized transfer requested at least three Business Days before the transfer is scheduled.
+LIABILITY FOR UNAUTHORIZED ELECTRONIC FUND TRANSFERS
+Tell us AT ONCE if you believe your Credentials have been lost or stolen, or if you believe that an EFT has been made from
+your Account without your permission. Calling us is the best way of keeping your possible losses down. You could lose all
+the money in your Account. If you tell us within 2 Business Days after you learn of the loss or theft of your Credentials, you
+can lose no more than $50 if someone used your Credentials without your permission.
+If you do NOT tell us within 2 Business Days after you learn of the loss or theft of your Credentials, and we can prove we
+could have stopped someone from using your Credentials without your permission if you had told us, you could lose as
+much as $500.
+Also, if your statement shows EFTs that you did not make, including those made by your Credentials or other means, tell us
+at once. If you do not tell us within 60 days after the statement was delivered to you, you may not get back any money you
+lost after the 60 days if we can prove that we could have stopped someone from taking the money if you had told us in
+time. If a good reason (such as a long trip or a hospital stay) kept you from telling us, we will extend the time periods.
+CONTACT IN EVENT OF LOST CREDENTIALS OR OF UNAUTHORIZED EFT
+If you believe your Credentials have been lost or stolen, call 1-877-255-5923 or write to: Goldman Sachs Bank USA, Lockbox
+7022, P.O. Box 71022, Philadelphia, PA 19176-1022. You should also call the number or write to the address listed above if
+you believe an unauthorized transfer has been made to your Account.
+
+Page 10/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+LIABILITY FOR FAILURE TO COMPLETE ELECTRONIC FUND TRANSFERS
+If we do not complete an EFT to or from your Account on time or in the correct amount according to this Agreement, we
+will be liable for your losses or damages. However, there are some exceptions. For example, we will not be liable in cases
+such as, but not limited to, the following:
+•
+
+If, through no fault of ours, you do not have enough funds in your Account to make the transfer;
+
+•
+
+If you did not provide us with the correct information to make the transfer;
+
+•
+
+If you were aware of a website or application malfunction before you sent the instruction;
+
+•
+
+If circumstances beyond our control (such as power failure, fire, or flood) prevent the transfer, despite reasonable
+precautions we have taken; or
+
+•
+
+If your Account has been closed.
+
+ERROR RESOLUTION OR QUESTIONS REGARDING EFTS
+In case of errors or questions about your EFTs, call 1-877-255-5923 or write to: Goldman Sachs Bank USA, Lockbox 7022,
+P.O. Box 71022, Philadelphia, PA 19176-1022 as soon as you can, if you think your statement or receipt is wrong or if you
+need more information about a transfer listed on the statement or receipt. We must hear from you no later than 60 days
+after we sent the FIRST statement on which the problem or error appeared.
+(1) Tell us your name and Account number (if any).
+(2) Describe the error or the transfer you are unsure about and explain as clearly as you can why you believe it is
+an error or why you need more information.
+(3) Tell us the dollar amount of the suspected error.
+If you tell us orally, we may require that you send us your complaint or question in writing within 10 Business Days. We will
+determine whether an error occurred within 10 Business Days after we hear from you and will correct any error promptly. If
+we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this,
+we will credit your Account within 10 Business Days for the amount you think is in error, so that you will have the use of the
+money during the time it takes us to complete our investigation. If we require you to put your complaint or question in
+writing and we do not receive it within 10 Business Days, we may not provide a provisional credit.
+For errors involving a new Account, we may take up to 90 days to investigate your complaint or question. For a new
+Account, we may take up to 20 Business Days to credit your Account for the amount you think is in error.
+We will notify you of the results within three Business Days after we complete our investigation. If we determine that there
+was no error, we will deliver a written explanation to you and may reverse any credit provided. You may ask for copies of
+the documents that we used in our investigation.
+Additional Terms
+This section provides additional information that is important to understanding your rights and obligations for your Account.
+CHANGES IN TERMS
+Your Account or services may change over time. We may delay, discontinue, make changes, or convert your existing
+Account and services into new types of accounts and services. We may change the terms of this Agreement from time to
+time, and the revised agreements will supersede all prior versions. Any changes will be binding on you when we make the
+revised Agreement available to you. If we are required by law to provide you with advance notice and you do not agree
+with a change, you may close your Account before the effective date.
+SECURITY INTEREST; RIGHT OF SET-OFF
+You grant us a security interest in any and all of your accounts with us to secure payment of any money that you owe to
+us. You acknowledge and grant us the right to take funds from any of your accounts with us or our affiliates to cover any
+money you owe to us (referred as “right of set-off”). You agree that the security interests you have granted us are
+consensual and in addition to any right of set-off. We may exercise our security interest or right of set-off without prior
+recourse to other sources of repayment or collateral, even if such action causes you to lose interest, incur any penalty, or
+
+Page 11/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+suffer any other consequence. We will not assert, claim, or exercise any right of set-off against any account receiving a
+direct deposit of social security or supplemental security income. If the law imposes conditions or limits on our ability to
+take or set-off funds in your accounts, to the extent that you may do so by contract, you waive those conditions and limits,
+and you authorize us to apply funds as we deem applicable. We consider this Agreement as your consent for us asserting
+our security interest or exercising our right of set-off should any laws governing your Account require your consent.
+NO ASSIGNMENT
+Your Account is not transferable and is not assignable as collateral for a loan or for any other purpose.
+ORDINARY CARE
+You agree that any act or omission made by us in reliance upon or in accordance with any provision of the Uniform
+Commercial Code as adopted in the state of Utah, or any rule or regulation of the state of Utah or a federal agency having
+jurisdiction over us, will constitute ordinary care.
+INDEMNIFICATION AND LIMITATION OF LIABILITY
+You agree to indemnify and hold us harmless from any losses, damages, suits, and expenses, including reasonable
+attorneys’ fees, which we may incur as a result of taking any action or not taking any action permitted under this
+Agreement or relying upon your instructions or information from you.
+You agree to reimburse us for all claims, costs, losses, and damages (including collection fees) we may incur when you do
+not have sufficient funds in your Account or have returned deposited items to your Account.
+Except as otherwise required by law, we are not liable to you for claims, costs, losses or damages: (i) resulting directly or
+indirectly from our failure to act, or any delay beyond time limits prescribed by law or permitted by this Agreement; or (ii)
+caused by your negligence, acts, or omissions of third parties, or an event that is beyond our reasonable control, including
+but not limited to, the acts, or omissions of third parties, natural disasters, emergency conditions, government action, acts
+of war, terrorism or civil strife, or equipment or communications malfunction. Except as otherwise required by law, we shall
+be excused from any failure to act or delay as long as such circumstances prevail and we continue to make commercially
+reasonable efforts to recommence performance.
+Our liability to you for a claim is limited to the face value of the item or transaction, or the actual value of any funds not
+properly credited or debited. We are not liable for special, incidental, exemplary, punitive, or consequential losses or
+damages of any kind. In any lawsuit brought by you against us or by us against you, the prevailing party in the lawsuit is also
+entitled to recover reasonable attorney’s fees and court costs from the non-prevailing party.
+This Indemnification and Limitation of Liability subsection does not, in any case, reduce our liability to you under applicable
+law.
+SEVERABILITY; RIGHTS CUMULATIVE; WAIVER
+If any part of this Agreement is determined to be invalid or unenforceable under applicable law, such determination will not
+affect the validity or enforceability of the remainder of this Agreement. Our rights under this Agreement are cumulative of
+all other rights we may have by law or otherwise. We may delay or waive any rights we have under this Agreement in
+accordance with applicable law. Any waiver by us of any rights under this Agreement or applicable law will not constitute a
+waiver of the same or any other right or provision.
+GOVERNING LAW
+Your Account is opened at our Salt Lake City Branch. All actions relating to your Account, including this Agreement, will be
+governed by the laws and regulations of the United States and the state of Utah, unless you are a New York resident, in
+which case New York law will apply.
+If any dispute arising under this Agreement or relating to your Account or relationship with us is not arbitrated, you consent
+to the jurisdiction of, and agree that such dispute will be resolved by, the Third Judicial District Court, Salt Lake City, state of
+Utah, or the United States District Court for the District of Utah. If you are a New York resident, to the extent any dispute
+arising under this Agreement or relating to your Account or relationship with us is not arbitrated, you consent to the
+jurisdiction of any federal court of the United States sitting in the borough of Manhattan or, if that court does not have
+subject matter jurisdiction, in any state court located in the city and county of New York.
+Page 12/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+Arbitration Provision
+This section is an arbitration provision and contains important information that affects your legal rights.
+PLEASE READ IT CAREFULLY.
+This arbitration provision shall also apply to any Claims (as defined below) brought by or against Apple Inc. or any of its
+affiliates (“Apple”).
+ACKNOWLEDGMENT OF ARBITRATION
+Your Account is being provided to you on the basis of the inclusion of the following arbitration provision. By accepting this
+Agreement or using your Account, unless you reject arbitration as provided below, you acknowledge that YOU ARE GIVING
+UP THE RIGHT TO LITIGATE CLAIMS AND THE RIGHT TO INITIATE OR PARTICIPATE IN A CLASS ACTION. You hereby
+knowingly and voluntarily WAIVE THE RIGHT TO BE HEARD IN COURT OR HAVE A JURY TRIAL on all Claims subject to this
+Agreement. You further acknowledge that you have read this arbitration provision carefully, agree to its terms, and are
+entering into this Agreement voluntarily and not in reliance on any promises or representations whatsoever except those
+contained in this Agreement.
+HOW TO REJECT THIS ARBITRATION PROVISION
+YOU MAY REJECT THIS ARBITRATION PROVISION BY CONTACTING US USING MESSAGES, CALLING US, OR WRITING TO US,
+AND STATING THE FOLLOWING: (I) YOUR NAME; (II) THE EMAIL ADDRESS ASSOCIATED WITH YOUR ACCOUNT; (III) THE
+ADDRESS ASSOCIATED WITH YOUR ACCOUNT; AND (IV) THAT YOU ARE EXERCISING YOUR RIGHT TO REJECT THIS
+ARBITRATION PROVISION (A “REJECTION NOTICE”). YOUR REJECTION NOTICE MUST BE RECEIVED WITHIN 90 DAYS AFTER
+THE OPENING OF YOUR ACCOUNT. IF YOUR REJECTION NOTICE COMPLIES WITH THESE REQUIREMENTS, THIS ARBITRATION
+PROVISION WILL NOT APPLY TO YOU, EXCEPT FOR ANY CLAIMS SUBJECT TO PENDING LITIGATION OR ARBITRATION AT THE
+TIME YOU SEND YOUR REJECTION NOTICE. ANY REJECTION NOTICE THAT COMPLIES WITH THIS PROVISION WILL APPLY TO
+BOTH US AND APPLE. IF OTHER PERSONS ARE OBLIGATED ON OR PERMITTED TO USE YOUR ACCOUNT, A REJECTION NOTICE
+IS LIMITED TO ONLY THE PERSON SUBMITTING THE REJECTION NOTICE. ANY OTHER PERSONS MUST SEND THEIR OWN
+REJECTION NOTICE. REJECTION OF THE ARBITRATION PROVISION WILL NOT AFFECT YOUR OTHER RIGHTS OR
+RESPONSIBILITIES UNDER THIS ARBITRATION PROVISION OR THIS AGREEMENT.
+DEFINITIONS
+For purposes of this arbitration provision, the following definitions apply:
+•
+
+“Claim” means any claim, dispute, or controversy (whether based upon contract; tort, intentional, or otherwise;
+constitution; statute; common law; or equity and whether pre-existing, present, or future), including initial claims,
+counter-claims, cross-claims, and third-party claims, arising from or relating to: (i) this Agreement, your Account,
+or your relationship with us; (ii) any servicing of your Account by our agents or service providers; (iii)
+advertisements, promotions, or statements related to this Agreement or your Account; (iv) your application for
+credit; (v) credit bureau reporting or debt collection on or related to your Account; and (vi) your access to and use
+of your Account from or using any products or services provided by Apple.
+
+•
+
+“You” and “your” mean each and every person who is granted, accepts, or uses your Account, except as otherwise
+provided in this arbitration provision.
+
+ARBITRATION
+You or we may elect, without the other’s consent, to resolve any Claim by individual binding arbitration unless the Claim
+has been filed in court and trial has begun or final judgment has been entered. Even if a Claim is litigated in court, you or we
+may elect arbitration of any Claim made by a new party or any Claim later asserted by a party in that or any related or
+unrelated lawsuit. You or we may also elect arbitration of a Claim that the parties initially opted to litigate in court if that
+Claim is later modified (including to be asserted on a class, representative, or multi-party basis or to seek different or
+additional relief).
+Notwithstanding the foregoing, only a court and not an arbitrator may decide any dispute or controversy about the validity,
+enforceability, coverage, or scope of this arbitration provision, all of which are for a court and not an arbitrator to decide.
+
+Page 13/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+However, disputes or controversies about the validity or enforceability of this Agreement, as a whole, are for the arbitrator
+and not a court to decide.
+JAMS (1-800-352-5267, jamsadr.com) will serve as the default arbitration administrator. Claims may also be referred to the
+American Arbitration Association (“AAA”) (1-800-778-7879, adr.org). You may obtain copies of the current rules, forms, and
+instructions for initiating an arbitration directly from JAMS or the AAA. Claims may also be referred to another arbitration
+administrator, if you and we agree in writing, or to an arbitrator appointed pursuant to Section 5 of the Federal Arbitration
+Act, 9 U.S.C. §§ 1-16 (the “FAA”). You and we agree that any arbitration proceedings initiated hereunder shall be kept
+confidential.
+OTHER CLAIMS SUBJECT TO ARBITRATION
+In addition to Claims made by or against either you or us, Claims made by or against anyone connected with you or us or
+claiming through you or us (including any employee, agent, representative, affiliated company, predecessor or successor,
+heir, assignee, or trustee in bankruptcy) are subject to arbitration as described herein.
+EXCEPTIONS
+We agree not to invoke our right to arbitrate any individual Claim you bring in small claims court or an equivalent court with
+jurisdiction so long as the Claim is pending only in that court.
+INDIVIDUAL CLAIMS ONLY
+Claims may be submitted to arbitration on an individual basis only. Claims subject to this arbitration provision may not be
+joined or consolidated in arbitration with any Claim of any other person or be arbitrated on a class basis, in a
+representative capacity on behalf of the general public, or on behalf of any other person, unless otherwise agreed to by
+the parties in writing. Claims by or against corporate affiliates will be considered a single claim. The arbitrator has no
+authority to award any relief not available in an individual action in court or award any declaratory, injunctive, or other
+relief primarily for the benefit of the general public. Further, unless you and we both otherwise agree in writing, the
+arbitrator may award relief only in favor of your individual Claim. The arbitrator may not award relief for or against any
+other person, whether directly or indirectly.
+PROCEDURE
+A single arbitrator will resolve the Claims. The arbitrator will be a lawyer with at least ten years of experience who is a
+former or retired judge and will be selected by the parties; provided, however, that if the parties are unable to agree upon
+an arbitrator within 7 days after delivery of the Demand for Arbitration, then the arbitrator will be appointed by the
+arbitration administrator. The arbitration shall comply with the arbitration administrator’s rules (the Streamlined
+Arbitration Rules for JAMS and the Consumer Arbitration Rules for AAA) in effect on the date the arbitration is filed, except
+where there is a conflict or inconsistency between the arbitration administrator’s rules and procedures and this arbitration
+provision, in which case this arbitration provision will govern. The arbitration will be conducted in English unless the parties
+otherwise agree in writing. Any in-person arbitration hearing for a Claim will take place within the federal judicial district in
+which you live or at such other reasonably convenient location as agreed by the parties. The arbitrator will apply applicable
+substantive law consistent with the FAA and will honor all claims of privilege and confidentiality recognized at law. All
+statutes of limitations that would otherwise be applicable will apply to any arbitration proceeding. The arbitrator will not
+apply any federal or state rules of civil procedure or evidence in matters relating to evidence or discovery. Except as
+otherwise provided in this arbitration provision, the arbitrator will be empowered to grant whatever relief would be
+available in court under law or in equity. Any appropriate court may enter judgment upon the arbitrator’s award. This
+arbitration provision is made pursuant to a transaction involving interstate commerce and is governed by the FAA.
+ADDITIONAL ARBITRATION AWARD; ATTORNEYS' FEES
+If we make a final written settlement offer before the arbitrator is selected and the arbitrator rules in your favor for an
+amount greater than that final offer, or if we do not make a final written settlement offer before the arbitrator is selected
+and the arbitrator rules in your favor on the merits of your Claim, the arbitrator's award will include: (i) any money to which
+you are entitled, but in no case less than $10,000; (ii) twice the amount of your reasonable attorneys' fees, or the amount
+of attorneys' fees to which you are entitled under applicable law, whichever is greater; and (iii) your costs and expert and
+other witness fees. If we prevail in arbitration, we will not be entitled to recover our attorneys' fees even when permitted
+to do so under applicable law.
+
+Page 14/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+ARBITRATION FEES
+We will pay any arbitration fees (including the arbitrator’s fees and any filing, administrative, hearing, or other fees charged
+by the arbitration administrator) in connection with any Claims. You will be responsible for any other costs that you incur in
+connection with any Claim unless applicable law provides otherwise. Any arbitration award will apply only to the specific
+case and cannot be used in any other case except to enforce the award.
+SURVIVAL
+This arbitration provision shall survive payment of all amounts due pursuant to this Agreement, termination of your
+Account, any legal proceeding to collect amounts due, any bankruptcy and any assignment or sale of this Agreement, your
+Account, or any and all rights thereunder. In the case of an assignment or sale of this Agreement, your Account, or any and
+all rights thereunder, the buyer will be bound by and may enforce the terms of this arbitration provision. If any portion of
+this arbitration provision is deemed invalid or unenforceable, it will not invalidate the remaining provisions of this
+arbitration provision or this Agreement, except that if any part of the "Individual Claims Only" provision is found in a court
+proceeding to be invalid or otherwise unenforceable with respect to a Claim (and that determination becomes final after all
+appeals have been exhausted), then this arbitration provision (except for this sentence) will not apply to that Claim.
+
+Page 15/15
+
+Goldman Sachs Bank USA. Member FDIC.
+
+

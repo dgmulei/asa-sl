@@ -1,0 +1,1029 @@
+Sustainable Business Practices
+of Commercial Retrofit
+Companies in Pierce County
+Research Report
+
+By:
+
+Alan Hardcastle &
+
+Sally Zeiger Hanson
+
+March 2, 2011
+WSUEEP11-021
+
+905 Plum Street SE, Bldg. 3
+Olympia, WA 98504-3165
+www.energy.wsu.edu
+(360) 956-2000
+
+Sponsorship
+Financial support for this project was provided by WorkForce Central in Pierce County, through
+funding from the Workforce Investment Act, U.S. Department of Labor.
+
+About the WSU Extension Energy Program
+The Washington State University Extension Energy Program (WSU Energy Program) is a
+recognized leader in energy research, development and technology transfer. The WSU Energy
+Program works with government agencies, power marketers, utility consortiums, educational
+institutions, private businesses and industries on projects that promote energy conservation,
+research, development of renewable energy sources, and economic and workforce
+development.
+
+Acknowledgements
+The authors would like to thank the project sponsors for their leadership and guidance in the
+design and completion of this project. Special thanks to Linda Nguyen (WorkForce Central),
+Arabie Jaloway-Hill (Full World Consulting), Andrew Williams (McKinstry) and the Pierce County
+SEES (Sustainable Economy and Environment) Leadership committee for their support of this
+project.
+Copyright
+© 2011 Washington State University, Extension Energy Program. This publication contains
+material written and produced for public distribution. You may reprint this written material,
+provided you do not use it to endorse a commercial product. Please reference by author(s) and
+title and credit Washington State University Extension Energy Program.
+Disclaimer
+This project was funded the Workforce Investment Act as implemented by the U.S. Department
+of Labor’s Employment and Training Administration. The project was created by the grantee
+and does not necessarily reflect the official position of the U.S. Department of Labor. The
+Department of Labor makes no guarantees, warranties, or assurances of any kind, express or
+implied, with respect to such information, including any information on linked sites and
+including, but not limited to, accuracy of the information or its completeness, timeliness,
+usefulness, adequacy, continued availability, or ownership. This solution is copyrighted by the
+institution that created it. Internal use by an organization and/or personal use by an individual
+for non-commercial purposes is permissible. All other uses require the prior authorization of
+the copyright owner.
+
+1
+
+Sustainable Business Practices of
+Commercial Retrofit Firms in Pierce County
+
+Abstract
+The primary focus of this study is to understand the sustainability initiatives implemented by
+companies involved in commercial retrofit projects in Pierce County. The study contains an
+extensive review of existing literature and data sources related to sustainability within this
+sector. Interviews were conducted to collect data about industry trends and advancing
+sustainability within the sector.
+The study begins by presenting the context for sustainability-related definitions. The business
+case for sustainability and how it impacts the commercial retrofit sector is discussed next,
+followed by a description of the sustainability initiatives implemented within commercial
+retrofit organizations and their projects. The interview findings form the core of the report’s
+conclusions, which were derived from employer input on the following subjects: organizational
+commitment to sustainability, current sustainability activities, incentives and barriers for
+sustainability, and the benefits of operating sustainably.
+Finally, based on the conclusions that more Return On Investment (ROI) data is needed and that
+training is essential but problematic in this sector, the following potential action steps are put
+forward for consideration:
+Education and Training:
+Convene education partners, training providers and industry representatives in Pierce
+County to focus on the following: identify specific training needs and gaps; catalog
+existing training programs; discuss training delivery options; and identify next steps.
+Provide guidance and coordination to education and training providers as they develop
+training to meet the needs identified by the industry partners.
+ROI Methods, Data and Tools:
+Conduct a national review of effective strategies and tools for determining ROI that are
+currently being used or that are under development.
+Identify the metrics that are being used to determine ROI on sustainably built projects in
+the public sector. Since publicly funded buildings have required a LEED Silver standard
+for several years, it is likely that they have more data collected and that data will be
+made available to researchers since the data is not proprietary.
+Use the identified metrics to develop a tool that can be used to determine the ROI on
+building retrofits and related projects. This uniform measurement tool could be a
+specific deliverable from the SEES Leadership committee to the community.
+2
+
+Introduction
+This research project investigates the use of sustainable business practices by design and
+construction firms who offer commercial retrofit services in Pierce County. The study was
+commissioned by the Pierce County Sustainable Economy and Environment Study (SEES)
+Leadership group, and funded by Workforce Central, which is the Washington State Workforce
+Development Council for Pierce County.
+The goal of the research was to understand how businesses that support green and sustainable
+building construction are adopting sustainable practices within their own organizations, and to
+identify the incentives and barriers to the application of sustainable practices among these
+companies. This report provides a focused snapshot of one specialized sector of the
+construction industry that serves as a pilot case for use by SEES leadership and other
+stakeholders to promote sustainable business practices in Pierce County.
+The Context for Sustainability
+What is Sustainability? Conceptually, the term “sustainable” seems straightforward. In
+practice, however, the term is enormously complex, and there are many different definitions in
+use today. The United Nations published Our Common Future (aka The Brundtland Report) in
+1987 which became the cornerstone document of the sustainability movement, and that
+definition of sustainable development is:
+Development that meets the needs of the present without compromising the ability of
+future generations to meet their own needs.1
+An extension of this definition later appeared in the 2000 Earth Charter report, which describes
+three pillars of sustainability. 2 Collectively, the pillars are often described as the core targets
+of sustainability needed to achieve a “Triple Bottom Line.”
+The three pillars of sustainability include the environment, social equity, and the
+economy. A strong resilient economy depends upon a vibrant and equitable society
+which in turn relies on a vigorous flourishing environment. The balance of the three
+pillars leads to prosperity and peace for future generations.
+While there are overt and sometimes subtle differences between these definitions, there is a
+common theme: the shift toward more efficient, fair and conscientious use of resources.
+
+1
+
+See: Bruntland, G. (ed.), (1987), Our common future: The world commission on environment and development, Oxford, Oxford
+University Press.
+2
+For more information about the Earth Charter, see: http://www.earthcharterinaction.org/content/
+
+3
+
+Business Sustainability
+There is a compelling business case for sustainability: Recent research is finding a strong
+correlation between businesses that exercise sustainability leadership and positive financial
+indicators, such as return-on-investment and earnings per share. Corporate commitment to
+sustainability is having a positive impact on business success.3
+Most businesses have taken at least some action to improve sustainability. These actions may
+be as simple as implementing a recycling program, promoting employee ride-sharing programs,
+or conserving energy and reducing environmental impacts via new production processes. Some
+companies have developed “Corporate Sustainability Plans” (an evolution of the ethics-focused
+term Corporate Social Responsibility) in an attempt to augment long-term shareholder value, as
+companies embrace new markets and product opportunities, implement organizational
+improvements, and work to manage the social, environmental and economic risks associated
+with pursuit of the triple bottom line.
+An Evolutionary Process
+A recent global analysis on sustainable manufacturing and eco-innovation by the Organization
+for Economic Cooperation and Development (OECD) concluded that while many companies are
+engaged in sustainability activities, most corporate sustainability efforts fall far short of
+addressing concerns such as global shortages of natural resources, climate change or energy
+security.4 Other industry observers assert that only companies that make sustainability a
+priority will achieve a competitive advantage, and that means re-thinking business models as
+well as changes to products, technologies and processes.5
+The OECD report describes how three main facets of eco-innovation (targets, mechanisms, and
+impacts) together form the basis for a model that describes the levels and ways in which
+organizations can pursue goals that result in increasingly beneficial outcomes for the
+environment (see Figure 1).
+The model is instructive because the same factors can logically be applied to organizations that
+are intent on pursuing any combination of environmental, social and economic goals. It also
+recognizes that technological changes are associated with the majority of sustainability
+initiatives which, in the case of commercial building retrofits, is usually tied to specific products
+or improvements to work processes. Changes in other business functions and structures such
+as marketing, infrastructure, or the design of organizations themselves, tend not to be as
+heavily tied to technology changes. Functional and structural changes are typically more
+complicated and difficult to implement however, and are therefore not as common. This model
+3
+
+See: Nidumolu, R., Prahalad, C, & Rangaswami, M. (2009). Why sustainability is now the key driver of innovation. Harvard
+Business Review (September). See also: Oekom Research, Sustainability and Business Success, 6/2005 http://www.oekomresearch.com/index_en.php?content=studien. See also: Measuring business success from sustainability certification. United
+Nations-Global Impact and Rainforest Alliance, 2007:
+http://www.unglobalcompact.org/docs/news_events/8.1/UN_Rainforest_alliance.pdf
+4
+OECD Policy Brief, June 2009, “Sustainable Manufacturing and Eco-innovation: Towards a Green Economy”
+http://www.oecd.org/dataoecd/34/27/42944011.pdf
+5
+See: Nidumolu, R., Prahalad, C, & Rangaswami, M. (September, 2009). Why Sustainability is Now the Key Driver of Innovation.
+Harvard Business Review.
+
+4
+
+underscores the idea that getting started with even very small steps is an important way to
+begin building momentum. Moving an organization towards sustainability is a process, an
+evolution that takes time.
+
+Figure 1 OECD “Eco-innovation Mechanisms”
+
+Sustainability in the Commercial Retrofit Industry
+An analysis of the commercial retrofit sector in Pierce County provides a window for
+understanding how organizations that provide services to enhance the sustainability of
+commercial buildings are also beginning to adopt sustainable principles and internal practices
+themselves.
+There are many examples to draw from, as Washington State is a recognized leader in
+sustainable building and construction. On a per capita basis, the state has more green buildings
+of any state except Oregon that meet the U.S. Green Building Council’s Leadership in Energy
+and Environmental Design (LEED) standard.6 The state also has deep historical roots in
+environmental protection and energy efficiency that provide a regulatory and policy foundation
+for sustainable business practices.7 The fact that state law requires that all major public
+6
+
+See Washington State Department of Ecology: http://www.ecy.wa.gov/pubs/0701039.pdf. Also:
+http://www.forbes.com/2007/10/16/environment-energy-vermont-biz-beltwaycx_bw_mm_1017greenstates_slide_4.html?thisSpeed=15000
+7
+See: Hardcastle, A. (2010). Green jobs in Washington State: Progress, opportunities and challenges. Olympia, WA:
+Washington State University Extension Energy Program.
+
+5
+
+buildings must be built to meet LEED-Silver standards has also helped propel sustainable design
+and construction in Washington.8 Most design and construction firms support new building
+and retrofit projects, and although some firms specialize in sustainability, most implement both
+traditional and sustainable projects.
+Commercial retrofit projects represent a special class of activity for designers and builders, as
+the primary goals are usually to replace or upgrade various existing building structures,
+components and systems to optimize energy use and building performance. Although the costs
+associated with retrofitting these buildings can vary by local market, the availability of
+experienced vendors and project scale, a growing body of research suggests that the
+investment outcomes and other benefits of sustainably-focused commercial retrofits generate
+positive economic outcomes for clients.9
+The initial investment associated with retrofits can be high, and these costs are a major concern
+of building owners and operators. But some studies suggest that in addition to energy
+efficiency, other tangible factors such as reduced operating costs, occupancy and rental rates,
+lease structures and sales prices, are all positively affected by sustainable building
+characteristics.10 Increased employee productivity is another benefit of sustainability retrofits,
+and some studies concluded that these benefits are actually higher than benefits due to energy
+savings.11 Presumably, human productivity gains are due to improved air quality, more natural
+light, and optimal space configurations that may help to reduce absenteeism or other negative
+health effects that could reduce worker productivity. Some of these studies were not
+longitudinal or systematic, and they do not account for temporary productivity gains that could
+be associated with changes in the workplace often referred to as the ‘Hawthorne effect.’(The
+Hawthorne effect — an increase in worker productivity produced by the psychological stimulus
+of being singled out and made to feel important.)
+Illustrating Client Benefits—Courthouse Renovation: One example that illustrates the savings
+that can be realized from a sustainable retrofit project is the renovation of the Thurston county
+courthouse by McKinstry, a Seattle-based engineering firm. As part of the early planning
+process, McKinstry was able to provide a specific projection of the savings that would be
+8
+
+See Chapter 39.35D of the Revised Code of Washington: http://apps.leg.wa.gov/rcw/default.aspx?cite=39.35D&full=true All
+major facility projects of public agencies receiving any funding in a state capital budget, or projects financed through a financing
+contract as defined in RCW 39.94.020, must be designed, constructed, and certified to at least the LEED silver standard.
+9
+Miller, N., Spivey, J., & Florance, A. (2008). Does green pay off? Journal of Real Estate Portfolfio Management, 14. See also:
+Eichholtz, P., N. Kok, and J. Quigley (2010). Doing well by doing good? Green office buildings. European Centre for Corporate
+Engagement, Maastricht University, Netherlands. Also: Fuerst, F. and P. McAllister (2009). An Investigation of the Effect of EcoLabeling on Office Occupancy Rates. Journal of Sustainable Real Estate, 1, 49–64.
+10
+Miller, N., Spivey, J., & Florance, A. (2008). Does green pay off?
+11
+Kats, G. (2003). The costs and benefits of green. Report to California’s Sustainable Building Task Force, Capital E Analytics
+(October). Also: Miller, N., Pogue, D., Gough, Q., & Davis, S. (2009). Green Buildings and Productivity. Journal of Sustainable
+Real Estate, Vol. 1 (No. 1), 65-89.
+
+6
+
+realized over time on the project, using calculations based on data from similar projects. The
+savings came in three main areas: projected energy savings, operations savings, and from
+rebates and incentives offered by the local utilities company. These three areas of savings
+resulted in a 20% reduction in total project costs. Additionally, by comparing various costbenefit scenarios and improvement measures, McKinstry was able to forecast that reducing the
+building’s energy needs will continue to benefit the bottom line, the people working in the
+building, and the surrounding environment long after the initial project is paid for.
+In summary, much of the newest research suggests that the overall economic, employee health
+and environmental benefits associated with sustainably designed commercial retrofits likely
+outweigh the associated upfront investment costs. While clients interested in funding
+commercial retrofits continue to pay close attention to project costs, there is a growing interest
+in projects that can simultaneously reduce costs and improve the long-term bottom line
+through sustainable designs that maximize energy efficiency and enhance the physical work
+environment for employees. By design, sustainable retrofit projects also help reduce negative
+environmental effects by reducing waste due to less-efficient building materials and practices,
+and by enhancing operational efficiency. Thus, sustainable retrofit projects have become
+increasingly popular among clients because the benefits associated with sustainable designs
+‘pencil out’. They are proving to be cost-effective as well as responsive to a growing awareness
+among companies about the environmental impacts and risks associated with regulatory issues
+and public perception.
+
+Adopting Sustainable Practices in Pierce County
+Washington State’s longstanding emphasis on balancing environmental protection with the
+economic development needs of the state has shaped how commercial retrofit employers view
+new business opportunities in the state. In some respects, these historical roots imply that
+Washington’s commercial retrofit contractors may be well-positioned to take advantage of the
+growing emphasis by building owners and the public on the value of sustainable retrofit
+projects; many companies have already moved in this direction, albeit in varying degrees, due
+to the state’s regulatory structure, and the availability of improved materials and construction
+technologies. Thus, for many companies the shift toward sustainable building is a natural
+extension of work they are already doing.
+Although it seems inevitable that the current political environment and growing consumer
+demand will create new opportunities for firms to capture the sustainable building market, it is
+less clear how much the design firms and contractors who provide sustainable commercial
+retrofit services are adopting sustainable business practices as a core value of their own
+7
+
+business. What internal changes are being implemented by these companies, and how
+extensive are these efforts? How do these companies describe the payoff associated with
+operating more sustainably?
+As noted earlier, while many businesses sponsor internal programs aimed at enhancing
+sustainability, such as recycling, broader policy or structural changes can be difficult to
+implement as they can face stiff internal resistance and require additional resources. This
+research, which focuses on commercial retrofit firms in Pierce County, begins to answer these
+questions and suggests areas for further inquiry.
+Research Methods
+An extensive background review of written reports, industry research, and other technical
+documents was conducted to identify sustainability trends, indicators and initiatives in industry,
+and specifically in the commercial construction sector. Existing state labor market data and
+other economic and industry data were also reviewed to provide context for the study design
+and report. Those findings are integrated into the body of the report, primarily in the
+introduction and conclusion sections.
+In-person and telephone interviews were conducted with employers who were recommended
+either by the SEES Steering Committee or by others in the commercial real estate field (see
+Appendix A). Participants were generally acknowledged by their peers to be implementing
+sustainable business practices. Each participant was provided a list of questions in advance,
+and participated in an interview with the authors that typically ranged from 45-90 minutes
+Companies to be interviewed comprised a select group; they were selected using the following
+criteria:
+They are firms located in Pierce County and/or are involved in commercial retrofit
+projects in Pierce County.
+They are implementing sustainable business practices internally.
+Interviews were facilitated by the authors, and included a general introduction to the project
+and an overview of sustainability definitions and practices to provide context for the
+participants. Specific questions and discussion topics introduced during the interviews included
+the following:
+Describing sustainability initiatives within each company.
+Level of organizational commitment to sustainable business principles and practices.
+The most significant barriers, incentives, or opportunities that impact an organization’s
+emphasis on sustainability.
+How companies are responding internally to new requirements or expectations related
+to sustainability.
+What benefits the organization attributes to operating sustainably.
+8
+
+Data collection also included input from participants about additional topics and issues related
+to sustainability, and this input provided additional context and new insights about the study
+model, including new clues about how industry sustainability initiatives are regarded and
+implemented.
+Following the interviews, additional information was collected from participants, conference
+presenters and from other industry representatives identified by participants and sponsors as
+knowledgeable about sustainability initiatives. The draft report was circulated for review by all
+participants and sponsors. Modifications were made to correct for factual errors or omissions,
+and new information suggested or provided by reviewers was added to the report, where
+appropriate.
+Results/Findings
+The findings reflect the major themes identified during the analysis of the initial interview data
+and through follow-up conversations with interviewees. The findings are generally organized to
+follow the interview protocol described above.
+Many Reasons for Implementing Sustainability Initiatives
+Companies reported focusing on sustainable business practices for several reasons: First,
+participants reported that they anticipate the market is increasingly moving in this direction.
+Most employers reported an increased demand from their clients who want the savings
+associated with sustainable retrofit projects, and to be more environmentally responsible.
+Second, all employers reported that sustainable retrofit projects are helping clients reduce
+maintenance and operations costs, and these benefits are spurring clients’ interest in retrofit
+projects. Third, most employers were quick to point out that government building projects
+require it: All publicly funded buildings in Washington State must be built to the LEED Silver
+standard (there are some exceptions for schools).
+Finally, several participants noted that offering sustainable components in a bid process can
+help move that bid to the top position, since many clients are beginning to see both the
+financial value and positive environmental effects of sustainable projects, which is increasingly
+viewed as a competitive advantage. Marketing a firm as green or sustainable can be an
+effective strategy for attracting new clients, but incorporating sustainability as strategy for new
+business development means that firms must also deliver on the promise. As one participant
+put it:
+“We sell our commitment to sustainability to our clients, and we think that will make us
+more competitive. If a client likes our green approach, it results in ours being the
+winning bid and being recommended to other clients. One additional project a year
+would make it all worthwhile.”
+
+9
+
+Companies that embrace sustainability as a broader strategy for growth, and who deliver
+results for clients, may have an edge over companies that do not. As one participant predicted,
+“Early adopters will have a significant competitive advantage.”
+Market Drivers and Incentives: The growing interest by clients in sustainable retrofit projects
+was commonly cited by employers as a key driver for adopting sustainable practices internally.
+In some cases retrofit companies seized the growing demand for sustainable retrofits as an
+opportunity to capture additional market share, while also establishing a new vision for their
+organization that embraces the longer-term objectives of economic and environmental
+sustainability. One participating organization, for instance, created a 2020 vision in the year
+2000. At that time, they determined that environmental concerns were “mission-critical”. As
+one participant stated, “Business has to accept responsibility for the environment. We need to
+use methods that help avoid harm to the environment; we need a long-term perspective.” All
+participants cited rebate programs such as those offered by local utilities and nationally by
+Energy Star as effective ways to help clients realize savings on their retrofit projects. Employers
+reported that these rebates are serving as powerful incentives for clients to request more
+sustainable products and services for their project than they have in the past.
+Employers also noted that client attitudes about the goals of retrofit projects are shifting, which
+influences how retrofit companies see their role in providing value-added options to their
+clients that go beyond cost savings. Many participants said that it used to be that clients were
+only concerned about up-front costs. Now they are requesting that both sustainability goals
+and cost savings should be the targets of retrofit projects. According to participants, clients
+recognizing and considering long term savings is a growing trend that has helped spur more
+sustainable projects, which has helped cushion the collapse in demand for new construction.
+These employers also reported, however, that most client decisions about sustainable retrofit
+options continue to be fiscally-driven. For example, clients are asking for projects that will save
+energy because they recognize that energy costs are bound to go up over the next few years.
+Thus, decisions about retrofit projects are driven first by what clients believe will help sustain
+their business interests. At the same time, however, clients want to be made aware of retrofit
+options that will result in a variety of sustainable outcomes, and the potential for long-term
+benefits.
+The national economic recession was underscored by deep reductions in new construction, and
+employers said that the retrofit market was not immune to business declines. As one
+participant reported, “The current economy is tough, revenues are down over the last few
+years and project delivery methods have shifted.” Interview participants did report that the
+last quarter of 2010 seemed to show a slight improvement in the industry. Another bright note
+is that companies involved in commercial construction say that since the economic recession
+10
+
+they have experienced a general shift by many clients in favor of retrofits rather than the moreexpensive option of new construction, especially in the last two years. This shift has led to
+some increased demand for contracts and for workers experienced in retrofit projects, but
+there is also more competition for what retrofit work is available; companies reported that
+there is increased competition for all projects. For example, one participant noted that prior to
+2008, 85-90% of their projects were “negotiated” (vs. competitive) and came mostly from
+repeat customers. Now, there is increased pressure to reduce fees so clients are getting bids
+from multiple companies. Only 50% of their current projects are now negotiated; staff
+members now spend more time working on the bidding process than ever before. This is
+expensive because it draws staff time away from construction projects and into the bidding
+process.
+Several employers remarked that the private retrofit market has been slower to adapt to this
+new way of thinking about and calculating project costs than government, due chiefly to
+regulation. Participants said that by requiring that state-funded buildings be LEED Silver
+certified, the government is really in the forefront on investing in sustainable buildings. One
+participant noted that state and local governments represent a significant client base for many
+commercial retrofit companies, making them influential in driving sustainable practices among
+the companies themselves. This employer said that the LEED Silver standard required of public
+projects has become the de facto standard for most private-sector projects as well, in part
+because most retrofit companies serve both markets, and because the costs associated with
+achieving the Silver standard have declined. However, as noted earlier, while clients are
+requesting sustainable products and services in their retrofit projects, cost continues to be their
+primary consideration. In the cases where a project can be both cost effective and generate
+outcomes that promote sustainability, clients are very satisfied.
+Sustainability Takes Leadership
+Whether or not an organization had a sustainability value statement as part of their formal
+policies—and only a few actually did—each organization interviewed had a “sustainability
+champion” on staff who is moving sustainability initiatives forward. Without exception, these
+champions had personal passion for sustainability and see their work as having a broad impact
+on the world. In some cases the champion was a highly-placed manager or executive who
+could direct policies and financial resources to support sustainable business operations and
+internal expectations. In other cases, the champion might be an influential middle-manager,
+engineer or other insider who commanded the respect of company leadership and their peers.
+In all cases, these champions put their energy and focus on driving sustainable action
+throughout the company. As one of these champions said, “They call me the ‘Grandfather of
+Tacoma Sustainability’ and ‘Tacoma’s Extremist Architect’. I don’t mind those names. I believe
+in this stuff. I have the passion and the energy for it.”
+11
+
+Commercial Retrofit Work is Changing
+Participants report that the increased focus on sustainability is changing the structure of retrofit
+work. In 2008, the American Institute of Architects endorsed a template for a new kind of
+construction contract called Integrated Project Development (IPD)12. IPDs are three way
+contracts between the building owner, the architect and the contractor. This differs from the
+more traditional Design-Build approach because all parties take equal risk and share rewards on
+the project. These shared goals are resulting in reduced project times to completion and
+decreased project costs. One employer noted that savings realized by using an IPD allow
+contractors to build in more sustainable features than might otherwise be affordable.
+Increasing the amount of sustainable content in commercial projects has also reinforced the
+use of sustainable business practices among retrofit companies themselves.
+What’s Old is New: Innovative new materials, advanced technologies and efficient work
+processes have enabled retrofit companies to offer solutions that can significantly enhance
+financial and environmental outcomes for their clients, and some of these technologies also
+help retrofit companies operate more sustainably. But many of today’s sustainability strategies
+and practices mimic nature’s systems and are based on old, traditional methods. As one
+participant noted, “What is old, is new again.” Other building industry representatives have
+noted that vegetative roofs, daylight harvesting, and using the earth and plants to treat water
+are all new takes on time tested practices that have been used around the world.13 Vegetative,
+or green, roofs mimic nature’s water cycle. One participant reported that in some seasons,
+green roofs can capture up to 75% of the rain water that falls. Excess water is then used in one
+of several ways: to irrigate the plants on the roof; in the building’s operations to flush the
+toilets; or it becomes part of the water cycle by evaporating back into the atmosphere. In a
+building retrofit project, for instance, water that formerly would have run off of a roof or
+parking surface and entered into the water treatment system is now being cycled back into the
+system without any need for treatment. Green roofs have been used in England and European
+countries for hundreds of years because of these very benefits.
+Regional land developers are now starting to use bio retention areas to capture rain and run-off
+water. When they are designed and implemented correctly, bio retention areas can eliminate
+the need for pipe systems and water treatment. This system uses the earth’s natural ability to
+filter and clean water. Increasing the number and effectiveness of these systems is key to the
+success of improving the water quality of Puget Sound and is a core goal of many
+environmental initiatives. Bio retention areas work to manage both the quality and quantity of
+water which several participants noted is of particular interest to building professionals in
+12
+
+Integrated Project Development guidelines: http://www.aia.org/contractdocs/AIAS077630
+Wright, Yancy, Director, Sellen Sustainability, Keynote address at Technology Transfer Workshop at Renton Technical College,
+January 31, 2011.
+13
+
+12
+
+Pierce County. Two housing developments in Pierce County are being built with this type of
+decentralized water treatment system in place: Cascadia in Sumner and Falling Water in
+Puyallup.
+Benefits of Sustainability Initiatives Still in Early Stage
+While the companies interviewed for this study had a variety of sustainability initiatives in the
+works, and all were engaged in related retrofit projects, most were in the early or
+developmental phases of implementation in their own companies. For instance, all participants
+had an internal recycling effort, and each firm was implementing an internal initiative aimed at
+reducing resource and energy use within their own operations. Most participants reported that
+they are encouraging the movement of sustainable practices down their supply chains, and one
+employer said that they encourage and rely on subcontractors to know specifics about energy
+saving appliances and rebates, in part because they are in a better position to track the rules
+and changes that affect their products and systems than are most general contractors.
+Although there is evidence that these companies are forging new sustainability strategies,
+internalizing sustainable business practices and engaging their industry partners, efforts to
+connect sustainable practices with improved return-on-investment (ROI) for clients or internal
+operations appears to be limited. While firms routinely cited outcomes such as cost savings
+tied to specific enhancements, systematically collecting and comparing data to determine ROI
+can be time consuming and complicated. Indeed, several participants indicated that the data
+collection required in order to develop specific return-on-investment (ROI) information for
+projects they were leading will take at least one to two more years to gather.
+The development of sustainable business practices among these firms has accelerated in recent
+years, due in part to client expectations and the availability of existing certification systems,
+such as LEED. Many participants reported that LEED has provided an important framework for
+retrofit companies and a reference point for the use of sustainable practices internally. Indeed,
+the LEED certification system was the most commonly cited strategy for increasing an
+organization’s sustainability, and most organizations said they encourage staff to become LEED
+accredited; some of these organizations cover the cost of the certification process for
+employees. One participating contractor is seeking the Green Contractor Certification that is
+offered by the Association of Building Contractors14. This certification requires the organization
+to have met the sustainability criteria outlined for both job sites and the home office, which
+may also help promote internalizing sustainable business practices.
+Another common technique reported by participants was Life Cycle Analysis (LCA), which is a
+process that contractors are using in their proposals with clients to enable them to consider the
+14
+
+Green Contractor Certification details: http://www.greenconstructionatwork.com
+
+13
+
+long term pay off of investing upfront in sustainable products and systems in their retrofit
+project.15 One participant reported that they generated 3-4 different options for a client, using
+LCA to demonstrate how higher-cost retrofits actually generated a better benefit in the long
+run, in part by using a brick exterior and metal roof—and the client chose the premium option
+when they saw that ‘least-cost’ resulted over the life cycle of the project. He added that some
+clients still want the cheapest retrofits, even in light of LCA showing long-term benefits, but at
+least they are able to show the estimated ROI for each option.
+Sustainability Costs are Coming Down
+Several participants noted that costs for building sustainably are often not as high as they are
+perceived to be by clients. Just as new processes and technologies enable retrofit companies to
+do more, they can also help bring the costs down. Participating contractors reported that LEED
+Silver has become almost the new baseline for construction and that LEED Silver does not
+require any additional expenditure to achieve. Two participants made the following estimates:
+it takes an estimated 3% above conventional construction costs to build to LEED Gold, and
+Platinum is estimated to require an 8% premium. In the case of the Pacific Plaza Project in
+Tacoma, which was Pierce County’s first LEED Platinum retrofit project, the additional expenses
+resulted in the building being leased at a higher rate per square foot than other buildings in the
+market. However, the efficiencies built into the building resulted in enough savings that from
+the tenants’ point of view, the lease in this LEED Platinum building would be at least the same,
+if not less, than the total cost of other options in the market but in a much higher quality space.
+One participant reported that the owner of Pacific Plaza is fond of touting the positive effects of
+sustainably-built structures on employee productivity; the owner says that Pacific Plaza leases
+are essentially “free” if the building delivers up to a 5% increase in employee productivity as a
+recent national study indicates. The Pacific Plaza owner says, “A great building pays for itself in
+employee savings.” According to another participant, healthier buildings save a tenant $300 per
+square foot, per employee, from increased employee productivity.16
+Cost of Training Can Be a Barrier to Sustainability
+All interview participants noted that training for staff can be a significant barrier to becoming
+more sustainable as an organization. Although employers said they thought that it was
+important that staff develop the knowledge and skills needed to implement sustainable
+practices, training employees in sustainable principles and techniques is time intensive and
+expensive. One reason cited by participants is that most of the available training requires so
+much time off of the worksite. Most participants noted that they are already operating with
+15
+
+For a summary of LCA in the building industry see: Nebel, B. (2006) Life cycle assessment and the building and construction industry,
+Auckland, New Zealand: Beacon Pathway Ltd. See also: National Institute of Standards and Technologies, Building for Environmental and
+Economic Sustainability (BEES), at: http://www.nist.gov/el/economics/BEESSoftware.cfm
+16
+
+Anderson, Dale, By the Numbers: Creating Real Sustainability Savings, Business Examiner, January 31, 2011.
+
+14
+
+very lean staffing and that allowing employees to attend training at the level needed for them
+to enable the effective use of sustainable techniques in their jobs is expensive to implement.
+Participants also reported that many professional employees are already fully-engaged in
+developing or executing projects, and there is no time for additional training to learn new
+methods and techniques. One employer described how the stress associated with meeting
+existing project schedules can compel employees to rely on the strategies they learned at the
+beginning of their career, rather than trying to learn new skills. Thus, while the lack of training
+results in employees not having the skills they need to do their work in a more sustainable way,
+the costs associated with training—primarily time away from work to participate—and meeting
+existing workload requirements can be a deterrent to learning and applying sustainable
+business practices in the workplace.
+Regulation as a Sustainability Driver
+Throughout the interviews, regulation did not emerge as a definitive barrier to sustainability. In
+fact, when it did surface, regulation was more often viewed as a catalyst for sustainable
+business practices. One employer described how Pierce County has a permitting check list that
+prioritizes projects that are implemented using sustainable practices such as bio retention
+areas. State funded building projects require that their buildings be built to the LEED Silver
+standards. Participants noted that this requirement has resulted in LEED Silver criteria
+becoming a de facto baseline for most private sector construction projects as well. Rather than
+suggesting that existing regulations should be somehow reduced or even rescinded to give the
+industry more flexibility, interviewees more often said that more regulation may be what is
+needed to move sustainability forward. To some extent the general support for existing
+regulations among these employers may be expected, as study participants were known to
+have invested in sustainable business practices and therefore comprise a select group.
+Nevertheless, most participants viewed the regulatory structure and standards that support
+sustainable practices as evidence of a desirable evolution of the industry. One participant said
+that sustainability requirements are similar to the safety requirements put in place in the past,
+which were resisted but over time proved to be beneficial to employees and companies alike.
+As he put it:
+“20 years ago when more rigorous safety standards were imposed, a lot of
+
+companies screamed it would break them, but now they’re more safe and
+efficient, and in the long run you have a safer, healthier workforce, and it’s seen
+as a cost savings. The sustainability movement needs the same driver, it needs
+requirements…it will cost some up front.”
+
+15
+
+Example of a Regional Best Practice
+Pierce County has developed some very innovative partnerships, employers and retrofit
+projects. One in particular , the Pacific Plaza parking garage in downtown Tacoma, was noted by
+several participants as a project that underscores how teamwork, a focus on sustainable
+outcomes—and an unanticipated opportunity—resulted in a notable example of a sustainable
+retrofit in the region. Pacific Plaza is the first new Class-A commercial building built in
+Downtown Tacoma in the past eight years. It is an award winning, public/private venture that
+incorporated vision, leadership, and deliberate planning that resulted in a project with many
+sustainable attributes and results.
+The project was an adaptive reuse of a 1960’s 5-story parking garage into a high-end mixed-use
+office building. During the interview, one participating contractor painted a verbal “Before
+Photo” of the building:
+“It was a hazard to the city, it was the eyesore of downtown…the structure was failing;
+the reinforcing tendons (of the structure) were literally shooting out into the street.”
+Completed in July 2009, the retrofit resulted in 68,000 square feet of commercial space, 34,000
+square feet of retail ready space along Pacific Avenue, and a net increase of 102 parking stalls.
+Design features such as a 29,000 square foot green roof, an 180,000 gallon cistern transformed
+from the Turkish bath found in the basement of a long-ago demolished building on the site, a
+state-of-the-art mechanical system and extensive use of natural daylight enabled Pacific Plaza
+to become Pierce County’s first LEED Platinum building. This successful result of the PublicPrivate Partnership between the City of Tacoma and Pacific Plaza Development creates a new
+paradigm for development standards within Tacoma’s urban core.
+The building was designed to use 28 percent less energy than average. Other green
+achievements include the reuse of 78 percent of the existing structure. For example, rather
+than removing the cistern and creating more waste, it was repurposed for use in the new
+building. Nearly all of the construction and demolition waste — 98 percent — was diverted
+from the landfill, and 36 percent of the materials used were recycled.17
+The Pacific Plaza project has been recognized with five prestigious awards already, and one
+participant reported that additional awards are likely pending for 2011:
+The National Association of Industrial and Office Properties (NAIOP) awarded Pacific
+Plaza the 2010 National Sustainable Retrofit Project of the Year award, and the 2010
+Adaptive Reuse of the Year award.
+Absher Construction was awarded the State of Washington Green Building award for
+this project from the Association of General Contractors.
+1717
+
+Pacific Plaza project description: http://www.cityoftacoma.org/Page.aspx?nid=905
+
+16
+
+The project also received the Ghillarducci Award in recognition for successful new
+development & renovation by the Tacoma-Pierce County Chamber.
+The City of Tacoma awarded the project the Commercial Revitalization Award in 2010.
+Conclusions
+The findings from this study of commercial retrofit employers suggest that shifting market
+trends and evolving customer demand for sustainable retrofit projects means that the
+knowledge and application of sustainable technologies and business practices will become
+increasingly essential for the future of the commercial retrofit industry in Pierce County. At the
+same time, client expectations and a growing recognition among these firms about the
+importance of supporting sustainable principles and practices are also spurring the use of
+sustainable practices internally.
+It is important to note that none of the companies that participated in this project have yet
+made the significant structural or organizational changes that might represent an ideal, fullydeveloped sustainable organization, as illustrated earlier in Figure 1. But the bulk of the
+evidence from this study shows that each has taken important developmental steps towards
+sustainability, such as crafting a new vision for the organization, sponsoring internal recycling,
+implementing waste reduction programs in the office and on the worksite, and by investing in
+education and training to enable employees to learn and apply sustainability principles and
+techniques in their jobs and in the workplace. On a cautionary note, however, these firms
+were identified by their peers and other industry observers as being leaders in developing and
+using sustainable practices; this study does not account for the many firms in Pierce County for
+whom sustainability is not currently a deliberate business strategy or organizational goal.
+Some of the central conclusions of this study are summarized below:
+Sustainability is good for business. The ability of commercial retrofit companies to provide
+sustainable product and service options to clients is clearly valued as a marketing strategy, and
+as important for new business development. Companies report that they anticipate that the
+market for sustainable projects will grow, and having the ability to demonstrate the projected
+benefits of different sustainable options helps meet a client’s interest in understanding the
+potential cost-savings and broader benefits of a project before they invest. But firms that
+market and promote sustainable options must also be prepared to deliver on the promise; the
+ability to complete a project successfully and to demonstrate outcomes.
+It may well be those companies and their suppliers/subcontractors who embrace and use
+sustainable concepts internally are more likely to recognize the cost-benefit of these practices
+than companies who simply provide the service. At the very least it would provide an
+
+17
+
+additional ‘marker’ that these firms can present to clients as evidence of their commitment to
+sustainability.
+Client expectations are changing the industry. While cost continues to be at the forefront of
+their minds, employers report that clients are more frequently requesting projects that have
+sustainable components and features. Indeed, for the firms included in this study the growing
+emphasis on client expectations for both cost efficiency and sustainability were viewed as a
+long-term trend, not as merely a short-term anomaly. Although clients typically focus on
+project costs, the economic recession has created conditions that add to the challenges faced
+by contractors and architects. As one participant stated, “Our clients want us to build
+sustainably but for less money. That means we need to be smart and innovative in our work.”
+The weak economy may also be contributing to client decisions to retrofit an existing structure
+rather than to build anew. Regardless of the reasons driving new expectations, to the extent
+that clients are requiring that retrofit projects include a larger proportion of sustainable
+content, the firms that provide these products and services will need to adapt or they will be
+limited in their ability to compete with firms that are responsive.
+Commercial retrofit market is expanding. It is estimated that 75% of existing buildings
+nationwide will be replaced or renovated in the next 25 years.18 According to one estimate, the
+current market for commercial retrofits in the U.S. is about $6 billion per year; another
+projection is that the market potential will grow to $180-190 billion over the next 10 years, or
+roughly $18 billion annually.19
+The Pierce County Economic Index reports that the outlook for commercial and industrial real
+estate in 2011 is cautiously optimistic, but there are some overarching reasons why growth in
+the retrofit market—and with it an increased emphasis on sustainability—seems likely.20 First,
+Washington utilities continue to offer a range of financial incentives and tools to stimulate new
+projects, and these incentives have helped drive up demand in the Puget Sound region. 21
+Second, recent federal investments in energy efficiency have, for the short term, boosted the
+availability of funds for commercial retrofit projects. Washington State has succeeded in
+competing for a significant amount of federal stimulus funds for energy efficiency projects that
+target retrofit projects. In 2009 and 2010, for example, the Puget Sound Region received $117.7
+
+18
+
+Anderson, Dale, By the Numbers: Creating Real Sustainability Savings, Business Examiner, January 31, 2011.
+Frost and Sullivan (2008). North American Energy Management Services - Investment
+Analysis. Report # N337-F1; see also: Hodum, R (2010). Efficiency boom: How commercial retrofits can power America’s
+economic recovery, progressive policy institute (November): http://www.progressivefix.com/wpcontent/uploads/2010/11/11.2010PPI_Memo-Hodum-Efficiency_Boom.pdf; see also:, Commercial market size estimate, Pace
+Now, http://pacenow.org/documents/Market%20Sizing%20Reference%20for%20NCEP%20PACE%20Mtg_2009May14.pdf
+20
+Goodman, D. and Mann, B. (2011) Pierce County Economic Index
+19
+
+21
+
+Energy efficiency supply chain study (2010). Seattle, Berk & Associates, for the Workforce Development Council
+of Seattle-King County (October).
+
+18
+
+million for green building and energy efficiency related activities. Retrofit firms who have the
+skills and tools to build sustainably are well positioned to compete for these projects.
+At the state level, the Department of Commerce and the Office of Superintendent of Public
+Instruction received a total of $100 million of state funding for energy efficient school
+retrofits.22 And, there continues to be political support for energy efficiency retrofits, although
+the state’s fiscal crisis has precluded financial support for new projects. On the heels of the
+federal funds, bills and a bond initiative aimed at directing additional state funding for retrofits
+for schools and other public buildings were introduced during the last legislative session, but
+the bond initiative was rejected by voters.23
+Nationally, there is a continued conversation about the need for more investment in
+commercial retrofit projects: On February 3, 2011, President Obama announced his new Better
+Buildings Initiative. The goal is to make the countries’ commercial building space 20% more
+efficient by the year 2020. It is predicted that this would result in a $40 billion dollars of savings
+annually. Finally even though the region’s low energy costs and a relatively moderate climate
+may moderate demand for building retrofits in the Puget Sound region somewhat, energy
+demand and the cost of energy are both expected to rise over the long term.24 Thus, while the
+building industry as a whole remains depressed, there are signs that the economy is improving.
+And while the conditions needed to support additional growth in commercial retrofit projects
+appears to be more stable than for new construction, it seems likely that regional businesses
+that employ sustainable business practices may be in a stronger position to endure and respond
+more readily to new business opportunities; indeed, there is some evidence that sustainable
+businesses are weathering the economic recession better than most.25
+More ROI data is needed. There is a need for specific data about maintenance and operations
+savings that are the result of a sustainable retrofit project. Despite repeated requests for data
+showing ROI, it was not made available. While one potential reason is that this information is
+proprietary and companies are reluctant to release information regarding financial costs,
+estimates and outcomes, another viable explanation is that systematic data regarding the
+actual ROI of specific projects does not yet exist. In this study, most participants indicated that
+their data collection was for a period of less than one year. Most participants indicated that at
+least one full year, if not two years, of data needs to be collected before specific savings can be
+calculated. Industry observers indicate that the public sector appears to be further along in
+implementing sustainable building practices.
+Although the scope of this study was limited, the technical and process issues surrounding the
+definition, measurement and analyses of project data to estimate and confirm ROI is complex,
+22
+
+Commerce website showing state investments: http://www.commerce.wa.gov/site/1335/default.aspx
+Referendum 52 (2010)
+24
+See: Northwest Power and Conservation Council Sixth Power Plan:
+http://www.nwcouncil.org/energy/powerplan/6/default.htm
+25
+Schrag, Paul “Be Green: It Really is Easier than You Think” Business Examiner, January 31, 2011.
+23
+
+19
+
+but it is also central to the ability of commercial retrofit firms and their partners to demonstrate
+the various outcomes that are tied to the sustainable options that their clients invest in. As a
+next step, if public-sector project data is more readily accessible than data maintained by
+private firms or clients, it may be useful to conduct a targeted study to examine the process
+used to estimate and confirm ROI outcomes for sustainably-designed projects, and to
+investigate the extent to which those technologies are being diffused among private-sector
+firms.
+Potential Next Steps:
+Conduct a national review of strategies and tools for determining ROI that are currently
+being used or that are under development.
+Identify the metrics that are being used to determine ROI on sustainably built projects in
+the public sector. Since publicly funded buildings have required a LEED Silver standard
+for several years, it is likely that they have more data collected and that data will be
+made available to researchers since the data is not proprietary.
+Use the identified metrics to develop a tool that others can use to determine the ROI on
+their buildings and projects. This uniform measurement tool could be a specific
+deliverable from the SEES Leadership group to the community.
+Education and training is essential but problematic. The participants in this study generally
+supported the provision of education and training needed to enable employees to acquire and
+apply sustainability skills in their jobs. Often, however, between the pressures of meeting
+existing work requirements and the costs associated with sending employees to workshops or
+off the work-site for training, several employers expressed their frustration about their ability
+to offer more training. As one study participant noted: “Most professionals don’t have time to
+get out for training so they keep doing what they already know how to do in the ways they
+already know how to do it.”
+This problem of balancing the demands of existing work with the need to gain new skills is
+paradoxical: the expanded focus on sustainability that these companies are attempting to drive
+into the culture of their organizations, typically through the leadership of key executives or
+other influential staff members, may be limited if employees are unable to acquire a deeper
+knowledge about sustainability and the tools and practices needed to support this emerging
+vision. By extension it seems reasonable to conclude that this condition is slowing down
+momentum and constraining the ability of these companies to integrate sustainable business
+practices within their own organizations.
+The problem of balancing workload with the need for upgrade training is not new; these
+pressures are evident in all industries and workplaces. And, it seems likely that the economic
+20
+
+recession has exacerbated this imbalance; several employers described how cutbacks and other
+efforts to reduce costs have led to an “all hands on deck” environment where everyone is
+working harder. But these problems are not intractable, especially as they relate to the
+provision of workforce education.
+As a next step, a targeted conversation between the participants and key regional education
+and training providers may help to reveal the various options and new solutions available to
+employers that can better meet their needs. Technology-enabled education delivery options
+may help to reduce the costs associated with off-site training. Online delivery and other hybrid
+online-laboratory training options have become increasingly popular among employers
+precisely because they enable employees to remain on-site, learn about specific topics and
+techniques that are most useful to them in their jobs, and to learn as time allows, rather than
+on a fixed schedule.
+Potential Action Plan:
+Convene education partners, training providers and industry representatives in Pierce
+County to focus on the following: identify specific training needs; catalog existing
+training programs and potential gaps; discuss formats for delivering training; and
+identify next steps.
+Provide guidance and coordination to education and training providers as they develop
+training to meet the needs identified by the industry partners.
+In summary, the findings of this study underscore the notion that sustainability is an on-going
+process, not an end state. The firms included in this study represent a select group of
+employers who are working to expand their ability to offer sustainably designed options for
+clients, while also attempting to drive sustainable principles into their own organizations. As
+one employer noted, this can be a tall order that requires strong and persistent leadership:
+“Sustainability takes a leader, takes a champion, takes time and takes effort”. Certainly
+leadership is a necessary condition for driving a culture of sustainability throughout an
+organization, and the evidence from this study suggests that progress has been made within
+these Pierce County firms. The findings suggest that these companies are attuned to the
+market potential for sustainable retrofit projects and they are adapting to client interest in
+sustainable options. For Pierce County employers, the business prospects for the retrofit
+industry appears promising, especially for firms that are responsive to client’s interest in
+sustainable projects.
+For many of the reasons described in this report, however, most firms have made fairly modest
+progress in adopting sustainable business practices within their own organizations. This finding
+probably reflects a developmental stage for these firms, with prospects for further growth in
+21
+
+the application of sustainable business practices. But it is important to note that the firms
+included in the study comprise a select group that are probably more advanced in the adoption
+of sustainable practices than their peers, and therefore the findings of this study also call for
+additional research to collect Return On Investment data when it becomes available and to find
+alternative ways to offer the training that will increase firms’ ability to compete in the
+sustainable retrofit market of the future.
+
+22
+
+Appendix A
+Interview Participants: Interview participants included company executives, engineers, project
+managers and other professional-level staffs who were knowledgeable about the firm’s
+sustainability projects and internal initiatives. The firms who participated in the study include
+the following:
+Absher Construction Company
+LeROY Surveyors & Engineers
+BCRA
+Rushforth Construction Co.
+McKinstry
+City of Tacoma, Public Works Department
+BLRB architects
+
+23
+
+Appendix B
+Sample Sustainability Statement
+STANDARD POLICIES AND PROCEDURES FOR SUSTAINABILITY
+AND ENERGY EFFICIENCY
+AND GREEN BUILDING PRACTICES
+
+TABLE OF CONTENTS I.
+I.
+II.
+III.
+
+Company Sustainability
+Energy Efficiency
+Green Building Practices
+
+I.
+
+Sustainability:
+a. ______ Co. Inc. is committed to minimizing the impact of the construction
+business on the environment and encouraging sustainable practices within the
+company.
+b. Recycling
+i. We will recycle the following frequently used materials in our office:
+plastics, glass, aluminum, paper, and cardboard. Paper recycling bins are
+located in each office and are placed next to all copiers. Co-mingled
+containers are located in the kitchen and co-mingled bins are located
+outside at the western corner at the back of the office. Pick up will be per
+the local waste management company’s schedule.
+ii. ________will hire waste management companies to dispose of comingled debris as specified locations for all construction debris. Pick up
+will be per the local waste management company’s schedule.
+iii. Used printer cartridges will be recycled in accordance with the
+manufacturer’s recommendations. If return packaging is provided, this
+method will be used. If no return packaging is provided, a monthly pick up
+will be requested from the copier maintenance personnel.
+iv. Binders, folders, padded envelops, boxes, etc will be reused whenever
+possible. These items can be found in the supply storage room in the
+main office. Jobsites are to return all unused or reusable products to the
+main office for re-stocking.
+v. All used phones and electronics will be returned to the IT department to
+be recycled or donated to the local Office Depot or a local charity or may
+be offered to employees for their home use if management deems
+appropriate.
+vi. Used motor oil used in company vehicles will be recycled by the vendor
+currently being used for automotive repair. Other equipment requiring
+motor oil will be recycled
+c. Paper Usage
+i. __________employees shall make efforts to minimize the general use of
+office paper.
+24
+
+II.
+
+ii. Distribute, file, and archive documents electronically. Do not print and file
+documents or emails unless absolutely necessary for legal
+documentation.
+iii. Copy both sides of the paper with the two sided copy feature when
+making copies for internal use whenever possible.
+iv. Purchase recycled or managed growth forest paper such as that certified
+through the FSC (Forest Stewardship Council).
+v. Attempt to work with local printing services that use recycled or managed
+growth paper and soy based inks.
+d. Environment
+i. Purchase office supplies from local companies whenever possible.
+ii. Purchase and use washable, recyclable or biodegradable tableware in all
+offices. Order through main office if necessary.
+iii. Purchase and use non-toxic biodegradable cleaning products in all
+offices.
+iv. Clean or replace HVAC filters per recommended manufactures
+instructions.
+v. Provide safe clean drinking water for all employees.
+vi. Maintain a reasonably clean workspace for all employees. Offices will be
+cleaned once a week on a regularly scheduled basis to insure interior air
+quality, prevent fire hazards and maintain the health of all employees.
+Jobsite offices are an extension of the home office and should represent
+________ in an appropriate manner.
+Energy Efficiency
+a. ___________has an overall goal of conserving energy and promoting efficiency
+both within main offices and on individual jobsites.
+b. Electricity Usage
+i. Turn off all lights and electronics when not in use.
+ii. Install compact fluorescent, LED or other long burning light bulbs
+throughout offices.
+iii. Use “Energy Star” rated office equipment or equivalent for all new
+equipment or appliances leased or purchased.
+iv. Reuse binders, folders, padded envelops, boxes, etc whenever possible.
+Collect and return these products to the main office for reuse when they
+become
+c. Water Conservation
+i. _________employees shall make efforts to minimize the general use of
+potable water.
+ii. Install low flow or waterless fixtures and motion sensor faucets when
+replacing used ones in company bathroom facilities.
+iii. Install aerators or flow restrictors on all office sinks.
+d. HVAC Systems
+i. Turn off or down all HVAC systems when offices are unoccupied.
+ii. Purchase high efficiency HVAC equipment when replacing or upgrading
+existing systems.
+iii. Inspect and clean air ducts and both supply and return grilles on a regular
+basis to minimize dust collection and mildew.
+e. Transportation
+i. Purchase or lease all future company vehicles with the lowest available
+emissions standards of vehicles within their particular class.
+25
+
+III.
+
+ii. Support and provide incentives for the practice of carpooling, biking or the
+use of public transportation when commuting to and from work when
+possible. Offer use of company owned vehicles on a reserve basis.
+Green Building Practices
+a. The policies and practices of ______ include incorporating into our projects
+recognized green building practices as set forth by the USGBC, ABC Green
+Contractors program and local state and federal legislation. This policy includes
+the following goals: divert 50% of construction waste from landfills, purchase
+10% (by cost) of construction materials regionally and purchase 10% (by cost) of
+construction materials that include recycled materials.
+b. Pre-Construction
+i. Include subcontractor “boilerplate” language in contracts regarding
+sustainable jobsite practices. Update current scopes to reflect the
+company policies and goals.
+ii. Include allowances for any necessary expenditure required to achieve the
+goals set forth above.
+iii. Assure that the education and training benchmarks set forth by the ABC
+Green Contractors program are achieved.
+c. During Construction
+i. Post jobsite requirements outlining green initiatives at the jobsite and
+review company policy with subcontractors during pre-construction
+meetings.
+ii. Maintain all sites in accordance with local EPA regulations and LEED
+2009 SS: Prerequisite 1 regarding construction activity pollution
+prevention.
+iii. Divert construction debris from disposal in landfills and incinerators.
+Provide separate containers onsite to recycle the following items:
+cardboard, metal, brick, acoustical tile, concrete, plastic, glass, gypsum
+wallboard, carpet and insulation.
+iv. Encourage onsite recycling of consumer products use by subcontractors
+by setting up basic collection facilities for plastic, glass and aluminum
+cans.
+v. Purchase contractor controlled construction materials that are
+manufactured within 500 miles of the main office whenever the option is
+available and cost effective.
+vi. Purchase contractor controlled construction materials that include
+recycled content whenever the option is available and cost effective.
+vii. Reuse contractor controlled construction materials whenever possible
+and cost effective. Store reusable materials at the warehouse facility for
+future use on other projects.
+d. Post Construction
+i. Conduct a final review of the project with company green building
+representative to determine feasibility, cost impact/savings, vendor
+information subcontractor participation and necessary educational
+requirements related to green building and sustainability.
+
+26
+
+

@@ -1,0 +1,1746 @@
+Proprietary + Conﬁdential
+
+Google
+Classroom User
+Guide
+For teachers
+
+Updated: October 2023
+
+Proprietary + Conﬁdential
+
+Companion resources
+Explore other resources to help
+support your institution.
+
+About this resource
+
+User guide for administrators
+Learn how to create organizational groups, set permissions,
+and access audit logs and reports.
+
+This deck has been designed to include important
+step-by-step instructions for teachers to get up and
+running with Google Classroom. Understand how to set up
+your classes, organize coursework, grade, provide rich
+feedback, and more.
+We know that every school is different, with unique initiatives
+and goals. While Google Classroom is part of any Google
+Workspace for Education edition, we recognize that not all
+schools are the same and have different editions to best fit
+their schools’ needs.
+We’ll explore the foundational getting started features for
+teachers regardless of edition. At the end of the deck, you will
+find additional resources to learn more capabilities.
+
+Classroom webpage
+Evaluating Classroom for the first time? Check out the webpage
+and connect with experts.
+
+Getting started with practice sets
+Help teachers learn how they can get started with practice sets
+to enrich learning and drive instructional impact.
+
+40+ ways to use Google Workspace for Education
+This deck is a selection of popular use cases that are
+available if you’re using one of the paid editions of Google
+Workspace for Education. These tools can help increase
+data security, teacher efficiency, student engagement,
+school-wide collaboration, and more.
+
+Professional development
+Learning never stops. Explore free of charge technology training
+and resources for educators.
+
+Proprietary + Conﬁdential
+
+Interoperability
+and extensibility
+
+Collaboration and
+productivity
+Docs
+
+Jamboard
+Sheets
+
+Calendar
+
+Classroom brings
+together the best of
+Google Workspace
+for Education
+Consolidating a school’s tech
+stack into a unified solution
+reduces cost, improves security,
+and saves educators time.
+
+SIS sync
+
+Slides
+
+Sites
+
+Forms
+
+AppSheet
+
+Storage
+
+Plagiarism
+detection
+
+Drive
+
+Originality reports
+
+Grade export
+
+Email and
+messaging
+
+Visibility,
+analytics,
+and access
+
+Gmail
+Groups
+
+Looker Studio
+
+Chat
+
+BigQuery
+Admin
+Security
+Center
+
+Vault
+
+My
+Account
+
+Privacy and security
+
+Device and mobile
+application
+management
+
+Add-ons
+and APIs
+
+Proprietary + Conﬁdential
+
+Teachers
+
+Table of Contents
+
+Tools to learn in their own way
+
+Getting started
+
+Tools for management and
+organization
+
+Sign in
+
+Set up grading
+
+Accessibility resources
+
+Set up a class
+
+View assignment progress
+
+Automatic due dates in calendar
+
+Add students to a class
+
+Give richer feedback
+
+Custom student to-do list
+
+Create an assignment
+
+Grade with a rubric
+
+Use originality reports
+
+Schedule posts across multiple classes
+
+Return student work
+
+Get more out of Classroom
+Use originality reports
+
+Update your gradebook
+
+Post announcements
+
+Export grades to your SIS
+
+Set up and join a Meet video call
+
+Reuse assignments
+
+Create a rubric
+
+Automate guardian summaries
+
+Check out how teachers can amplify
+instruction with tools that simplify everyday
+tasks with premium Classroom capabilities.
+
+Additional educator resources
+
+Proprietary + Conﬁdential
+
+Teachers
+
+➔
+
+Sign in to get started with Classroom and visit our
+Teacher Center to learn the basics
+
+➔
+
+Set up a class and manage communications in one
+place
+
+➔
+
+Add students to a class by simply sending them a
+
+Getting set up
+Where teaching and learning come together.
+Google Classroom helps educators create
+engaging learning experiences they can
+personalize, manage, and measure. It’s easy to
+get started in minutes.
+
+link
+➔
+
+Create an assignment and share with multiple
+classes
+
+➔
+
+Schedule posts across multiple classes at once
+
+➔
+
+Use originality reports to help guide critical
+thinking
+
+➔
+
+Post announcements on a class stream
+
+➔
+
+Set up and join a Meet video call
+
+➔
+
+Create a rubric to keep grading consistent and
+transparent
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Sign in
+
+1
+
+To sign in:
+Head over to classroom.google.com.
+Classroom is easy to get started. Just sign in
+to start managing your classes today.
+
+Click Go to Classroom.
+
+2
+
+3
+
+Enter your school email
+address (it looks like
+you@yourschool.com) and
+click Next.
+
+If you’re using a Google
+Workspace account, click I’m a
+Teacher.
+
+Enter your password and click
+Next.
+
+Click Get Started.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Set up a class
+
+1
+
+2
+
+Create a class to assign work and post
+announcements to students.
+Save time by creating and managing multiple
+classes from one place.
+
+Create a class
+Within Classroom, open the
+Classes page and click Add
+in the upper right corner.
+Select Create a class.
+
+Enter the class name and fill in
+details for your class (session,
+grade, room, and so on).
+Click Create.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Add students to a class
+
+Invite students to enroll in your class with only
+a few clicks. We’ll show you the most common
+ways to add students.
+
+1
+
+Add students through an invite link
+Within Classroom, select the class card and click More
+
+.
+
+Select Copy invite link and share the clickable link with students via email.
+
+If students have trouble joining, you can
+always resend class links or share simple
+instructions to join a class as a student.
+Or, add students through a unique class code
+Select your class and click Settings to display your class code.
+Share the code with students and direct them to:
+Learn more about adding students to your class.
+Schools using Education Plus can integrate
+Classroom with your SIS to automatically set up and
+sync classes.
+
+●
+●
+●
+
+Go to the Classes page on classroom.google.com
+Click Add
+and select Join class
+Students should enter the code and click Join
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Create an assignment
+
+1
+
+Create more efficient workflows when
+assigning classwork. Specify due dates and
+point values, add attachments and rubrics, run
+originality reports, and more within an
+assignment.
+Plus, save an assignment for later and share it
+with multiple classes or students.
+
+Create an assignment
+Within Classroom, click the class your assignment belongs in
+and select Classwork.
+At the top, click Create and select Assignment.
+
+Learn more about creating assignments.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Create an assignment
+
+2
+
+3
+
+Add details
+
+Add materials
+
+Within the assignment, enter the
+title and fill in instructions and
+assignment details, including
+grade category, point value, due
+date, and topic.
+
+Within the assignment, add
+relevant attachments. Click Add
+and choose between Google
+Drive, Link, File, and YouTube.
+
+Under the “For” category, choose
+to post to additional classes or
+individual students.
+
+Or click Create to add a new
+attachment.
+
+Select your file and click Upload
+or Add.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Create an assignment
+
+4
+
+5
+
+Next to the attachment, click
+the down arrow and choose an
+option for how students interact
+with the attachment:
+●
+
+●
+
+●
+
+Students can view file: use
+when the file is for
+reference only
+Students can edit files: use
+when students will work
+collaboratively on the same
+file
+Make a copy for each
+student: use when
+students will work
+individually in copies of the
+same file
+
+Add a rubric
+Within the assignment, click
+Rubric + and choose to either
+Create rubric, Reuse rubric, or
+Import from Sheets.
+
+Learn more about creating a
+rubric.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Create an assignment
+
+6
+
+7
+
+Turn on originality reports
+Within the assignment, click the
+Originality reports box to check
+for plagiarism automatically
+once students submit
+assignments.
+
+Choose when to post your
+assignment
+●
+
+●
+
+Learn more about running
+originality reports.
+●
+
+Immediate: Click Assign to
+post the assignment now.
+Schedule: Next to Assign, click
+Schedule and select a date
+and time. Hit Schedule again
+to save.
+Save for later: Next to Assign,
+click Save draft. You can open
+and edit draft assignments on
+the Classwork page.
+
+Click Assign.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Schedule posts and
+assignments across
+multiple classes
+
+1
+
+Easily assign classwork to multiple classes at
+once.*
+
+Create an assignment
+Follow instructions on creating
+the assignment details like
+topic, due date, and post date.
+
+Select which classes should
+receive the post
+Choose between
+●
+●
+
+Once an assignment has been scheduled,
+you can change the assignment within each
+individual class.
+*Available on Google Classroom web version.
+
+On the Stream page, click
+Share something with your
+class and enter your
+announcement at the top.
+
+●
+
+Published immediately
+Published at a certain time
+Save as draft
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Use originality
+reports
+
+1
+
+Originality reports bring the power of Google
+Search to your student assignments and
+grading. When assigning work, enable
+originality reports. When students submit their
+work, originality reports highlight text against
+billions of pages in the Google Search index
+that the student didn’t cite or quote.
+
+Enable originality reports
+Within an assignment, click originality reports and select Assign to
+share with students.
+
+Watch the video to learn more.
+
+Students can run originality reports for their work in Google Docs,
+Sheets, and Microsoft Word to identify any uncited content and
+make edits. Once submitted, Classroom automatically scans for
+plagiarism and makes results available to teachers.
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Use originality
+reports - continued
+2
+
+View the report
+Within an assignment, click the On
+switch next to # of cited or quoted
+passages to view highlighted web
+matches.
+
+3
+
+See potential flags as a number or
+percent. A link to the external source is
+available for flagged passages.
+
+Teachers can run originality reports at no charge
+for up to five assignments per class.* Students
+can run originality reports up to 3 times.
+* For teachers using Google Workspace for Education Fundamentals. Enrolling in the Teaching and
+Learning Upgrade or Google Workspace for Education Plus provides unlimited originality reports.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Post announcements
+
+1
+
+2
+
+Give reminders to your students by posting
+announcements to your class on the class
+stream.
+To create an announcement
+Click the class you want to post
+the announcement to within
+Classroom.
+On the Stream page, click
+Share something with your
+class and enter your
+announcement at the top.
+Visit the Help Center to learn more about managing
+and formatting announcements.
+
+Select who to share the
+announcement with
+Within the announcement, click
+the down arrow next to “For” and
+select classes to include.
+Or post to individual students.
+Within the announcement, click
+All students and click the
+students name(s) to select them.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Set up and join a Meet
+video call
+
+1
+
+2
+
+Connect with your students using simple,
+reliable, and secure video conferencing.
+Manage, start, and join class-dedicated video
+meetings with Google Meet built right within
+Classroom – easily accessible on the side of
+
+Create a designated class
+Meet link
+
+each class stream.
+
+In Classroom, click the class.
+
+All Meet links created in Classroom are
+
+Under Meet, click Generate link.
+(Or, click Settings
+. Then, under
+General, click Generate Meet
+link.)
+
+nicknamed links that you and your students can
+use for all of your class meetings. Students are
+directed to a waiting room until their teacher or
+co-teacher joins, and those not on the class
+roster will have to “ask to join” to be admitted.
+
+A Meet link will appear for your
+class. Select Save.
+If you make the Meet link visible to
+students, it appears in their class
+stream to easily join and continue
+to reuse.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Set up and join a Meet
+video call
+
+3
+
+Start a video meeting in Classroom
+Click your desired class.
+Choose between:
+●
+●
+●
+
+On the left of the Stream page, under Meet, click Join
+At the top of the Classwork page, click Meet
+In a question or assignment, click the link for the class video
+meeting
+
+4
+
+Before you join the call, check that you’re signed in with your
+Classroom account in Meet.
+Visit the Help Center to learn more about best
+practices, other Meet features and controls, and
+how to manage students.
+
+If not, click Switch account and sign in to your Classroom account.
+Click Join now.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Create a rubric
+
+1
+
+Create, reuse, and automatically calculate
+grades using rubrics within individual
+assignments.
+Rubrics can be saved as drafts for future use
+and exported, imported, and shared with
+
+In Classroom, click the class and select Classwork.
+
+fellow teachers to help save time.
+
+Create an assignment with a title, click Rubric, and click
+Create rubric.
+
+Proprietary + Conﬁdential
+
+Getting set up
+
+Create a rubric - continued
+2
+
+Fill in your rubric details:
+Criterion title – the grading evaluation (ex.
+Grammar, Teamwork)
+Points – the number of points awarded
+Level title – the title for performance level (ex.
+Excellent, Full mastery)
+Description – the expectations for the level
+
+3
+
+Click Save.
+
+Visit the Help Center to see more rubric features
+and to set up grading systems.
+
+2
+
+Proprietary + Conﬁdential
+
+Teachers
+
+Tools for
+management and
+organization
+Save time by grading more efficiently,
+
+➔
+
+Set up your grading system and grading scales
+
+➔
+
+View assignment progress across all classes
+by status
+
+➔
+
+Give richer feedback through a custom
+comment bank
+
+➔
+
+Grade with a rubric right alongside an assignment
+
+➔
+
+Return student work right within Classroom
+
+➔
+
+Update your gradebook and view student assignments
+in one place
+
+➔
+
+Export grades to your SIS directly from gradebook
+
+➔
+
+Reuse assignments between classes
+
+➔
+
+Automate guardian summaries to keep parents
+informed
+
+viewing student progress in one place and
+automating tasks.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+1
+
+Set up a grading
+
+Set up grading
+
+Within the class, click on the Class settings.
+
+2
+You can choose Total Points or Weighted by
+category grading for your grading system. In
+both, grades are calculated for you, and you
+can let students check their overall grade for
+the class.
+
+In Grading, under Grade calculation, click on the dropdown menu and
+select one of the following options:
+●
+●
+Visit the Help Center to learn more about setting
+up grading systems.
+
+●
+
+Total points: Divides total points earned by total points
+possible. You can let students see an overall grade.
+Weighted by category: Adds the scores across categories.
+You can let students see an overall grade.
+No overall grade: Grades aren’t calculated for students.
+Students can’t see an overall grade.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+3
+
+Set up grading
+You can also organize classwork with grade
+categories, such as Essays, Homework, and
+Tests. For example, if your class has 4 essay
+assignments, you can organize them in an
+Essays category.
+
+After you have selected the Grade calculation (step 2), complete the
+following steps:
+1.
+2.
+3.
+
+4.
+Visit the Help Center to learn more about setting
+up grading systems.
+
+Under Grade categories, click on Add grade category.
+Enter a grade category
+If you have selected Total Points or No overall grade, the
+under Default points, enter a whole number. If you have
+selected Weighted by category, the under Percentage, enter
+a whole number.
+(Optional) To add another grade category, repeat steps 1-3.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+View assignment
+progress
+
+1
+
+Get a quick overview of work you assigned
+across all your classes in one easy place.
+Use this tool to see the status of your work
+and mark work as reviewed.
+
+View student work across all classes
+In Classroom, click To review at the top.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+View assignment
+progress
+
+2
+
+3
+
+Filter by class
+Click All classes and select a
+class. Click a title to view
+student submissions.
+Sort work based on due dates
+by clicking the Down arrow or
+Up arrow.
+
+View a list of a student’s work
+and its status
+Click the relevant class. At the
+top, click People and select a
+student’s name.
+This page will show:
+●
+
+Mark work as reviewed
+Next to the work, click More
+and click Mark as reviewed.
+After you mark work as
+reviewed, you can see it in the
+Reviewed list.
+
+●
+
+student’s assigned work and
+their due dates
+status of assigned, turned in,
+late, or missing work
+
+●
+
+grades for classwork
+
+●
+
+attachments to submissions
+
+●
+
+Private comments the student
+sent you
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Give richer feedback
+on assignments
+Provide students with clear feedback by
+leaving comments on submitted
+assignments, or write directly on student
+work.
+Classroom automatically saves your
+most-used feedback to a personalized and
+automated comment bank.
+
+1
+
+2
+
+Leave a comment
+Click the relevant class and
+select Classwork. Click an
+assignment and select View
+assignment.
+On the left, choose the student
+name and the file they turned in.
+
+Select the section that you want
+to comment on and click Add a
+comment .
+Enter your comment and click
+Comment.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Give richer feedback
+on assignments
+
+3a
+
+3b
+
+Create a custom comment
+bank for your most used
+comments
+
+Or, enter a comment directly
+On the right of the students work,
+click the Comment bank.
+
+To add an existing comment,
+open the student’s work. In the
+top-right corner of the
+comment box, select More and
+click Add to comment bank.
+
+Select Add to bank and choose
+between entering a single
+comment or multiple comments
+or paste a list or prepared
+comments.
+
+Make edits and click Add.
+
+Click Add.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Give richer feedback
+on assignments
+
+4
+
+Mobile app
+
+Use a comment from the
+comment bank
+Select the section you want to
+comment on and click Add
+comment .
+In the comment box, begin
+typing your feedback and your
+corresponding most-used
+comments will automatically
+appear. Click the comment you
+want and press the Comment
+button to post.
+
+Draw or write on student work
+In your Classroom mobile app, tap
+the class and open an
+assignment.
+Tap Student work and select a
+student’s name and their
+attachment.
+Click Edit and make notes or
+drawings.
+Click More and then Save.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Grade with a rubric
+
+1
+
+Add a rubric to an assignment to keep grading
+consistent and transparent. Teachers can
+grade student work with rubrics displayed
+right alongside the assignment.
+
+See your rubric while grading an assignment
+Select the relevant class and click Classwork. Select the assignment,
+click View assignment, and open a student’s file.
+In the right column, click the Grading icon and expand or collapse a
+criteria description in the right column.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Grade with a rubric
+
+2
+
+3
+
+Select a rating for each
+criterion
+
+Manually change the total
+grade
+
+Within Rubric, assign a rating
+level for each criterion.
+
+Within Grade, manually enter a
+grade for the student’s
+assignment.
+
+Click a rating level for each
+criterion, or if you’re using the
+criterion for scoring, enter a
+number.
+The rubric score automatically
+updates as you select rating
+levels.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Return student work
+
+1
+
+Stay organized by returning student work right
+within the assignment. And share reviewed
+work with one or more students at a time.
+Once the assignment is returned, students are
+able to view their grade.
+Teachers can also return an assignment within
+the Classroom gradebook.
+
+In Classroom, select the class and click Classwork. Select the
+assignment you want to return, and click View assignment.
+Next to each student whose assignment you want to return, check
+the box, click Return, and select your preference.
+Choose between:
+●
+●
+●
+
+Return this submission
+Return draft grades
+Return all submissions
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Update your
+gradebook
+Gradebook within Classroom provides one
+easy place to view student submissions, enter
+
+1
+
+Open gradebook
+
+grades, return work, and review all the grades
+
+In Classroom, select the class and at the top, click Grades.
+
+for an assignment.
+
+On the Grades page, you can view and even grade and return a
+student’s submission.
+
+Visit the Help Center to learn more about how to
+view and update your gradebook.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Update your
+gradebook
+
+2
+
+View student submissions
+Within Grades, hover over a cell of a student’s assignment. Click More
+and click View submission.
+Work and grade status is color-coded:
+● Red – Missing work
+● Green – Turned in work or draft grade
+● Black – Returned work
+
+3
+
+Enter grades and return work within gradebook
+Visit the Help Center to learn more about how to
+view and update your gradebook.
+
+Within Grades, enter a grade for the student’s assignment.
+To return the assignment, click More
+
+and click Return.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Export grades to
+your SIS
+
+1
+
+Export grades from gradebook directly into
+your Student Information System (SIS)* by first
+linking your class to your SIS.
+
+First, link a class to your SIS
+
+Compatible SIS partners: Infinite Campus,
+
+In Classroom, click Add
+
+Skyward, Skyward Qmlativ, Follet Aspen, and
+PowerSchool (coming soon).
+
+and select Create class.
+
+Next to Link with, click the down arrow and select your class.
+Enter your class details and click Create.
+
+Visit the Help Center to learn more about exporting
+grades and to troubleshoot SIS grade import.
+*This feature is available at no charge until July 2024
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Export grades to
+your SIS
+
+2
+
+3
+
+Export grades
+Click the class you want to
+export from and select Grades.
+On the right, click SIS export.
+
+Visit the Help Center to learn more about
+exporting grades.
+
+Grades export for any classwork
+with a checked box. For any
+grades you don't want to export,
+uncheck the box.
+Click SIS export to export.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Reuse
+assignments and
+announcements
+
+1
+
+Save time by reusing your assignments,
+announcements, or other posts. Repost to the
+original class or a different class.
+Before publishing, make updates by modifying
+the post and editing attachments or rubrics.
+
+Reuse a post
+In Classroom, select the class and click Classwork. Hover over
+Create and click Reuse post.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Reuse
+assignments and
+announcements
+
+2
+
+Select the class that has the post you want to reuse.
+Select the post and click Reuse.
+
+3
+
+Change any information and add or delete attachments.
+Before reposting, choose an option:
+●
+
+●
+●
+
+Save the post for later. Click to Down arrow and select
+Save draft.
+Reuse an assignment – click Assign.
+Reuse an announcement – click Post.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Automate guardian
+summaries
+
+1
+
+Turn guardian summaries on or off
+Select the class you’d like to send email summaries about
+and click Settings .
+
+Keep guardians informed and engaged by
+inviting them to receive automatic email
+summaries of their students’ progress.
+
+2
+
+Choose which classes and guardians to
+include in the summaries.
+
+Under General, click the switch On of Off.
+Click Add Class. And at the top of the page, click Save.
+
+Proprietary + Conﬁdential
+
+Management and organization
+
+Automate guardian
+summaries
+
+3
+
+4
+
+Invite or remove a guardian
+
+Email guardians
+
+Select the related class and
+click People.
+
+Select the relevant class and click
+People.
+
+Next to the student’s name,
+click Invite guardians or
+Remove guardians.
+●
+
+●
+
+If inviting, enter the
+guardians email address(es)
+
+Click Invite or Remove.
+
+●
+
+To email one student’s
+guardian: Next to the
+student’s name, select More
+and click Email guardians. An
+email window opens with the
+email addresses populated.
+To email all guardians in a
+class: At the top, click Email all
+guardians.
+
+Enter a subject and your
+message. Click Send.
+
+Proprietary + Conﬁdential
+
+Teachers
+
+Tools to learn in their
+own way
+Help students stay focused with features
+
+➔
+
+Accessibility resources enable learning
+opportunities for all students
+
+➔
+
+Automatic due dates in student calendars to help
+them keep track of deadlines
+
+➔
+
+Student to-do lists are customized to help them
+stay organized
+
+➔
+
+Student originality reports help prevent
+unintentional plagiarism
+
+that let them create their most productive
+and customized learning environment.
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Accessibility
+resources
+
+Google for
+Education
+Accessibility
+Resource center
+
+Google for
+Education
+Accessibility
+flashcards
+
+Google Workspace
+user guide to
+accessibility
+
+[Playlist]
+Accessibility tips
+for Google
+Workspace
+
+[Classroom] Using
+a screen reader
+with Classroom
+
+[Chromebook]
+Accessibility
+shortcuts
+
+Distance Learning
+accessibility guide
+
+Guardian's Guide to
+Accessibility
+
+[Chrome
+extensions] Snap&
+Read, Co:Writer,
+EquatIO,
+Read&Write
+
+Give students the freedom to adjust
+accessibility settings so they can learn and
+work in their ideal way.
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Automatic due dates
+in Calendar
+
+1
+
+Enforce timelines easily with due dates that
+appear automatically on calendars when
+classwork is distributed.
+For each class, you and your students share a
+Classroom calendar and a Google Calendar
+where deadlines appear.
+
+View classwork in your Classroom calendar
+At the top of Classroom, click Menu
+see all assignment due dates.
+
+and select Calendar to
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Automatic due dates
+in Calendar
+2
+
+Select an assignment to open it and find
+out more.
+
+3
+
+See classwork for all your classes
+Click All classes.
+See classwork for only one class
+Click All classes and select the class.
+
+3
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Show students their
+custom to-do list
+
+1
+
+Enable students to stay on track and plan
+ahead with Classroom’s automatically created
+to-do list personalized for each student.
+
+Direct students to view their all-class to-do list
+At the top of Classroom, click To-do and choose an option:
+Students can visit the Help Center to learn more
+ways to view classwork.
+
+●
+
+Click Assigned to see work that’s been assigned to you
+
+●
+
+Click Missing to see work that’s past due
+
+●
+
+Click Done to see work that a teacher graded or returned
+
+Proprietary + Conﬁdential
+
+Tools to learn in their own way
+
+Empower students
+to use originality
+reports
+
+1
+
+Help guide critical thinking and allow students
+to check for unintentional plagiarism.
+Originality reports bring the power of Google
+Search to your assignments in Google Docs,
+Slides, and Microsoft Word. Enable originality
+reports so students can identify any uncited
+content and make edits. Once submitted,
+Classroom automatically scans for plagiarism
+and makes results available to teachers.
+
+Students can run originality reports up to 3 times.
+
+Empower students to run an originality report on their
+assignment
+●
+●
+●
+
+Within a class, students can click Classwork and select
+the Assignment.
+Under Your work, upload or create your file.
+Next to “Originality reports,” click Run. Under the file
+name, click View originality report to see the report and
+any originality flags.
+
+Proprietary + Conﬁdential
+
+Google Classroom educator resources
+In addition to this guide, please check out additional resources designed to help teachers
+unlock the power of Classroom.
+
+First day of
+Classroom
+Visit the Teacher Center site for
+resources on how to get started
+with Classroom, all created by
+real educators.
+
+Video how-tos
+Watch educator and student
+training videos to get started or
+dive deeper, see an overview of
+top features in Classroom 101,
+and subscribe to our Google for
+Education YouTube channel to
+stay connected for more ideas.
+
+g.co/firstdayofclassroom
+
+Classroom Help
+Center
+Equipped with countless guides
+and step-by-step instructions,
+use our Classroom Help Center
+to address any and all questions.
+
+Compatible apps
+Access educator-approved apps
+that integrate seamlessly with
+Classroom to enable unlimited
+learning opportunities.
+
+Proprietary + Conﬁdential
+
+Teachers can amplify instruction with
+Paid features
+
+Get more out of
+Classroom
+Check out the additional Classroom
+
+tools that simplify everyday tasks with
+more Classroom capabilities:
+●
+
+Create interactive assignments with practice sets to gain valuable insights at
+both the student and class level, and offer hints with the help of AI for students
+when they get stuck.
+
+●
+
+Support active learning by assigning interactive questions for YouTube
+videos* to reinforce concepts, gauge student engagement and performance,
+and offer real-time feedback as they move through the lesson at their own
+pace.
+
+●
+
+Help students build independent literacy skills by assigning differentiated
+reading activities based on Lexile® measure or grade level, with the Classroom
+integration* with Google’s Read Along. A reading buddy, Diya, gives students
+real-time feedback on their pronunciation with the help of AI. Read Along also
+uses gamification to engage and inspire, and provides educators with auto
+generated insights into student progress and the ability to view accuracy,
+speed, and comprehension metrics.
+
+●
+
+Enable varied learning experiences through intuitive Classroom add-ons,
+enhancing student-centered learning with top EdTech tools like Kahoot! and
+Pear Deck – available directly within Classroom using single sign-on.
+
+features and enhanced capabilities
+available with Google Workspace for
+Education paid editions.
+
+* Coming soon
+
+Add additional capabilities to fit your institution’s unique needs
+Paid editions
+
+Classroom capabilities
+per Google Workspace edition
+
+Edition summary
+
+Available at no charge*
+
+Google Workspace for
+Education Fundamentals
+
+Google Workspace for
+Education Standard
+
+A suite of tools available at no charge that
+enables collaborative learning opportunities on
+
+Build on all the capabilities of Education
+Fundamentals with advanced security and
+analytics tools to help reduce risks and
+
+a secure platform.
+
+mitigate threats with increased visibility and
+control across your learning environment.
+
+Classroom’s rich foundational
+capabilities include a ton of features in
+one central place for teaching and
+learning. As part of Education
+Fundamentals, all teachers and
+students get access to a
+comprehensive range of Classroom
+capabilities that help manage, measure,
+and enrich the learning experience.
+
+* Available at no charge for qualifying institutions
+** Coming soon
+1
+Currently available in limited regions
+
+Proprietary + Conﬁdential
+
+Get all the features of Education
+Fundamentals, plus:
+● Classroom log export for insights
+and analysis in BigQuery
+
+Compare the editions
+
+Teaching and Learning Upgrade
+
+Google Workspace for
+Education Plus
+
+Build on all the capabilities of Education
+Fundamentals or Education Standard with
+
+A comprehensive solution to achieve a
+digital transformation. Get all the
+
+enhanced educator tools to help elevate
+curriculum and course management, enrich
+communication and class experiences, and
+guide academic integrity.
+
+capabilities of Education Fundamentals,
+Education Standard, Teaching and
+Learning Upgrade, and more.
+
+Get all the features of Education
+Fundamentals, plus:
+● Unlimited originality reports and the
+ability to compare peer matches across
+a private repository of student
+submissions
+● Streamline lesson planning by creating a
+shareable link for a class,** so
+educators in the same district can easily
+preview, select, and import high-quality
+classwork into each other’s classes
+● Classroom analytics** provide
+educators with insights and visibility into
+how students turn in, perform on, and
+engage with assignments so educators
+can make informed decisions about the
+best way to provide support
+
+Get all the features of Education
+Standard and the Teaching and
+Learning Upgrade, plus:
+● Sync classroom rosters with your
+Student Information System (SIS) for
+class management at scale powered
+by Clever1
+● Designated education leaders and
+staff can temporarily visit classes
+to respond to teacher requests, view
+student profiles, and provide
+additional support.
+● Simplify planning for curriculum
+leaders and educators by making it
+easier to distribute class templates
+and high-quality classwork with a
+link.**
+
+Proprietary + Conﬁdential
+
+Google Workspace for Education editions include Education Fundamentals, available at
+no charge to qualifying institutions, and Education Standard, the Teaching and
+Learning Upgrade, and Education Plus, paid editions that offer premium features.
+
+Google Workspace
+for Education FAQ
+
+For specific features included in each of the Google Workspace for Education editions,
+please visit our comparison chart.
+For pricing information on each paid edition based on your region, needs, and
+enrollment numbers, please contact your sales representative.
+All paid Google Workspace for Education editions are annual subscriptions, and pricing is
+locked for the duration of the subscription term. Customers who purchase the Teaching
+and Learning Upgrade can add Education Standard at any time (and vice versa).
+
+Proprietary + Conﬁdential
+
+Access help
+when
+you need it
+
+Join our educator community to find a group near you.
+
+Find solutions from fellow educators in the Classroom Help Community.
+
+Explore the Help Center and Help Forums for technical answers.
+
+Thank you
+
+
