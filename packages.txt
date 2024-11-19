@@ -6,3 +6,6 @@ libsqlite3-dev
 libblas-dev
 liblapack-dev
 pkg-config
+cmake
+libopenblas-dev
+libgomp1
