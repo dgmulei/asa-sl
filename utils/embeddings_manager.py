@@ -7,6 +7,7 @@ from tqdm import tqdm
 import os
 import json
 import numpy as np
+import torch
 from .document_loader import Document
 
 logger = logging.getLogger(__name__)
@@ -28,15 +29,24 @@ class EmbeddingsManager:
         os.makedirs(db_path, exist_ok=True)
         
         # Initialize ChromaDB with persistent settings
-        self.client = chromadb.PersistentClient(path=db_path)
+        settings = Settings(
+            anonymized_telemetry=False,
+            allow_reset=True,
+            is_persistent=True
+        )
         
-        # Create or get collection with updated settings
+        # Use persistent client with settings
+        self.client = chromadb.PersistentClient(
+            path=db_path,
+            settings=settings
+        )
+        
+        # Create or get collection
         try:
             self.collection = self.client.get_collection(name="real_estate_docs")
         except ValueError:
             self.collection = self.client.create_collection(
-                name="real_estate_docs",
-                metadata={"hnsw:space": "cosine"}
+                name="real_estate_docs"
             )
         
         # Load processed files and perform cleanup
@@ -148,12 +158,15 @@ class EmbeddingsManager:
             try:
                 # Generate embeddings using sentence transformer
                 embeddings = self.model.encode(texts, convert_to_numpy=True)
-                # Ensure embeddings are in the correct format (numpy array)
-                embeddings_array = np.array(embeddings, dtype=np.float32)
+                
+                # Convert numpy array to list of lists
+                embeddings_list = embeddings.tolist() if isinstance(embeddings, np.ndarray) else [
+                    tensor.detach().cpu().numpy().tolist() for tensor in embeddings
+                ]
                 
                 # Add to collection
                 self.collection.add(
-                    embeddings=embeddings_array.tolist(),  # Convert to list for ChromaDB
+                    embeddings=embeddings_list,
                     documents=texts,
                     metadatas=metadatas,  # type: ignore
                     ids=ids
