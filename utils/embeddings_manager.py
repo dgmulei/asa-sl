@@ -1,7 +1,7 @@
 from sentence_transformers import SentenceTransformer
 import chromadb
 from chromadb.config import Settings
-from typing import List, Dict, Any, Optional, TypedDict, Set
+from typing import List, Dict, Any, Optional, TypedDict, Set, cast
 import logging
 from tqdm import tqdm
 import os
@@ -28,13 +28,6 @@ class EmbeddingsManager:
         os.makedirs(db_path, exist_ok=True)
         
         # Initialize ChromaDB with persistent settings
-        settings = Settings(
-            persist_directory=db_path,
-            anonymized_telemetry=False,
-            allow_reset=True,
-            is_persistent=True
-        )
-        
         self.client = chromadb.PersistentClient(path=db_path)
         
         # Create or get collection with updated settings
@@ -90,7 +83,7 @@ class EmbeddingsManager:
                         where={"source": filename}
                     )
                     
-                    if results and results['ids']:
+                    if results and results.get('ids'):
                         self.collection.delete(
                             ids=results['ids']
                         )
