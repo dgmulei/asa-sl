@@ -84,7 +84,7 @@ class EmbeddingsManager:
             
             for filename in missing_files:
                 try:
-                    # Delete from Chroma DB
+                    # Delete from the Chroma DB
                     results = self.collection.get(
                         where={"source": filename}
                     )
