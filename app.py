@@ -292,6 +292,34 @@ def main():
     [data-testid="column"] {
         padding: 0 1.5rem;
     }
+
+    /* Mobile-Only Styles - These won't affect desktop */
+    @media screen and (max-width: 768px) {
+        /* Target the Streamlit chat input structure */
+        .stChatInput {
+            min-height: 200px !important;
+        }
+        
+        [data-baseweb="textarea"] {
+            min-height: 200px !important;
+        }
+        
+        [data-baseweb="base-input"] {
+            min-height: 200px !important;
+        }
+        
+        /* Ensure the textarea itself is tall enough */
+        [data-testid="stChatInputTextArea"] {
+            min-height: 200px !important;
+            height: 200px !important;
+            font-size: 16px !important;
+        }
+        
+        /* Add padding to prevent content from being hidden */
+        .main .block-container {
+            padding-bottom: 220px;
+        }
+    }
     </style>
     """, unsafe_allow_html=True)
     
