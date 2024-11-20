@@ -41,26 +41,19 @@ class EmbeddingsManager:
             settings=settings
         )
         
-        # Always create a new collection - this ensures we have a clean state
+        # Get or create collection
         collection_name = "real_estate_docs"
         try:
-            # Try to delete existing collection if it exists
-            try:
-                self.client.delete_collection(name=collection_name)
-                logger.info(f"Deleted existing collection: {collection_name}")
-            except ValueError:
-                pass  # Collection didn't exist
-            
-            # Create new collection
+            # Try to get existing collection
+            self.collection = self.client.get_collection(name=collection_name)
+            logger.info(f"Connected to existing collection: {collection_name}")
+        except ValueError:
+            # Create new collection if it doesn't exist
             self.collection = self.client.create_collection(
                 name=collection_name,
                 metadata={"description": "Real estate documents collection"}
             )
             logger.info(f"Created new collection: {collection_name}")
-            
-        except Exception as e:
-            logger.error(f"Error creating collection: {str(e)}")
-            raise
         
         # Load processed files and perform cleanup
         self.processed_files = self._load_processed_files()
